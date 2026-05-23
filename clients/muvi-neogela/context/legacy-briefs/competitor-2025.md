@@ -1,0 +1,9 @@
+- Questi sono i competitor di Neogela: competitor con focus sul collagene e articolazioni: Colprorur, Salugea (Fortigel), Nutrimea, Nutralie, Nutrincas (Jovengen Collagene), Why Nature, Yamamoto Nutrition, Kefood, Arko Pharma, I rimedi del professore e competitor con focus sul beauty: Colprorur, Biosline Collagene (Principium), Gold Collagen, Swisse Collagen, Yamamoto Nutrition, Signasol, Vital Proteins, Kefood
+- Deep search nel web per individuare su quali canali social i competitors sono presenti tra: Instragram, Facebook, TikTok, Threads, LinkedIn e i relativi nomi delle pagine/account
+- Deep search nel web per individuare quali sono i siti web dei competitors
+- realizza una lista con nomi degli account social dei competitor e siti web
+- se non riesci a trovare account sociale e siti web, segnala, non inventare account o siti inesistenti
+- Una volta individuati i canali social e i nomi degli account, attraverso Apify verrà realizzato un export dei contenuti dei canali social
+- Analizzerai i file export e sulla base di questa analisi emetterai un documento in cui riportare questi dati: tipologia di contenuto (video, grafica, foto, carosello), tono di voce dei contenuti, interazioni degli utenti con i contenuti, differenzs rispetto ai contenuti di Neogela (performance sono migliori?)
+- Analizza i siti web dei competitor e sulla base di questa analisi emetterai un documento in cui riportare questi dati: tipo di contenuti presenti nel sito web, differenza di struttura sito rispetto a Neogela, posizionamento sul web rispetto alla Seo
+- I documenti di analisi che emetterai saranno all'interno della cartella social, nella sottocartella output/social. Suddividi i risultati in due documenti: uno dedicato ai social dei competitor e uno dedicato ai siti web dei competitor

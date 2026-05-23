@@ -1,0 +1,244 @@
+﻿"Post ID","Page ID","Page name",Title,Description,"Duration (sec)","Publish time","Caption type",Permalink,"Is crosspost","Is share","Post type",Languages,"Custom labels","Funded content status","Data comment",Date,Views,Reach,"Reactions, comments and shares",Reactions,Comments,Shares,"Total clicks","Matched audience targeting consumption (Photo Click)","Other clicks","Link clicks","Views from Organic posts","Views from Boosted posts","Reach from Organic posts","Reach from Boosted posts","3-second video views","1-minute video views","3-second viewers","1-minute viewers","3-second video views from Boosted posts","3-second video views from Organic posts","1-minute video views from Recommendations","1-minute video views from Shares","1-minute video views from Followers","1-minute video views from Boosted posts","Seconds viewed from Recommendations","Seconds viewed from Shares","Seconds viewed from Followers","Seconds viewed from Boosted posts","Average Seconds viewed from Recommendations","Average Seconds viewed from Shares","Average Seconds viewed from Followers","Average Seconds viewed from Boosted posts","Negative feedback from users","Unique negative feedback from users","Negative feedback from users: Hide","Unique negative feedback from users: Hide","Seconds viewed","Average Seconds viewed","Estimated earnings (USD)","Ad CPM (USD)","Ad impressions","Percentage of total views at interval 0","Percentage of total views at interval 1","Percentage of total views at interval 2","Percentage of total views at interval 3","Percentage of total views at interval 4","Percentage of total views at interval 5","Percentage of total views at interval 6","Percentage of total views at interval 7","Percentage of total views at interval 8","Percentage of total views at interval 9","Percentage of total views at interval 10","Percentage of total views at interval 11","Percentage of total views at interval 12","Percentage of total views at interval 13","Percentage of total views at interval 14","Percentage of total views at interval 15","Percentage of total views at interval 16","Percentage of total views at interval 17","Percentage of total views at interval 18","Percentage of total views at interval 19","Percentage of total views at interval 20","Percentage of total views at interval 21","Percentage of total views at interval 22","Percentage of total views at interval 23","Percentage of total views at interval 24","Percentage of total views at interval 25","Percentage of total views at interval 26","Percentage of total views at interval 27","Percentage of total views at interval 28","Percentage of total views at interval 29","Percentage of total views at interval 30","Percentage of total views at interval 31","Percentage of total views at interval 32","Percentage of total views at interval 33","Percentage of total views at interval 34","Percentage of total views at interval 35","Percentage of total views at interval 36","Percentage of total views at interval 37","Percentage of total views at interval 38","Percentage of total views at interval 39","Percentage of total views at interval 40","Percentage of 15-second views at interval 0","Percentage of 15-second views at interval 1","Percentage of 15-second views at interval 2","Percentage of 15-second views at interval 3","Percentage of 15-second views at interval 4","Percentage of 15-second views at interval 5","Percentage of 15-second views at interval 6","Percentage of 15-second views at interval 7","Percentage of 15-second views at interval 8","Percentage of 15-second views at interval 9","Percentage of 15-second views at interval 10","Percentage of 15-second views at interval 11","Percentage of 15-second views at interval 12","Percentage of 15-second views at interval 13","Percentage of 15-second views at interval 14","Percentage of 15-second views at interval 15","Percentage of 15-second views at interval 16","Percentage of 15-second views at interval 17","Percentage of 15-second views at interval 18","Percentage of 15-second views at interval 19","Percentage of 15-second views at interval 20","Percentage of 15-second views at interval 21","Percentage of 15-second views at interval 22","Percentage of 15-second views at interval 23","Percentage of 15-second views at interval 24","Percentage of 15-second views at interval 25","Percentage of 15-second views at interval 26","Percentage of 15-second views at interval 27","Percentage of 15-second views at interval 28","Percentage of 15-second views at interval 29","Percentage of 15-second views at interval 30","Percentage of 15-second views at interval 31","Percentage of 15-second views at interval 32","Percentage of 15-second views at interval 33","Percentage of 15-second views at interval 34","Percentage of 15-second views at interval 35","Percentage of 15-second views at interval 36","Percentage of 15-second views at interval 37","Percentage of 15-second views at interval 38","Percentage of 15-second views at interval 39","Percentage of 15-second views at interval 40","3-second video views by top audience (F, 55-64)","3-second video views by top audience (F, 65+)","3-second video views by top audience (F, 45-54)","3-second video views by top audience (M, 65+)","3-second video views by top audience (F, 25-34)","3-second video views by top audience (F, 35-44)","3-second video views by top audience (M, 55-64)","3-second video views by top audience (M, 45-54)","3-second video views by top audience (M, 35-44)","3-second video views by top audience (M, 18-24)","3-second video views by top audience (M, 25-34)","3-second video views by top audience (F, 18-24)","3-second video views by country (Italy (IT))","3-second video views by country (Germany (DE))","3-second video views by country (Switzerland (CH))","3-second video views by country (Canada (CA))","3-second video views by country (Albania (AL))","3-second video views by country (San Marino (SM))","3-second video views by country (Serbia (RS))","3-second video views by country (France (FR))","3-second video views by country (Romania (RO))","3-second video views by country (Croatia (HR))","3-second video views by country (Spain (ES))","3-second video views by country (Poland (PL))","3-second video views by country (Australia (AU))","3-second video views by country (Belgium (BE))","3-second video views by country (United Kingdom (GB))","3-second video views by country (Tunisia (TN))","3-second video views by country (Dominican Republic (DO))","3-second video views by country (Bulgaria (BG))","3-second video views by country (Cape Verde (CV))","3-second video views by country (Egypt (EG))","3-second video views by country (United States (US))","3-second video views by country (Greece (GR))","3-second video views by country (Malta (MT))","3-second video views by country (Luxembourg (LU))","3-second video views by country (Moldova (MD))","3-second video views by country (Netherlands (NL))","3-second video views by country (Slovenia (SI))","3-second video views by country (Brazil (BR))","3-second video views by country (Portugal (PT))","3-second video views by country (Ukraine (UA))","3-second video views by country (Austria (AT))","3-second video views by country (Mexico (MX))","3-second video views by country (Argentina (AR))","3-second video views by country (Philippines (PH))","3-second video views by country (Sweden (SE))","3-second video views by country (Ireland (IE))","3-second video views by country (Israel (IL))","3-second video views by country (Norway (NO))","3-second video views by country (Morocco (MA))","3-second video views by country (Venezuela (VE))","3-second video views by country (Peru (PE))","3-second video views by country (Kenya (KE))","3-second video views by country (Thailand (TH))","3-second video views by country (Hungary (HU))","3-second video views by country (Libya (LY))","3-second video views by country (Turkey (TR))","3-second video views by country (South Africa (ZA))","3-second video views by country (Denmark (DK))","3-second video views by country (Syria (SY))","3-second video views by country (Panama (PA))","3-second video views by country (Indonesia (ID))","3-second video views by country (Maldives (MV))","3-second video views by country (Cuba (CU))","Returning viewers","1-minute video views by returning viewers","Seconds viewed by returning viewers","Average Seconds viewed by returning viewers"
+1434023265391088,100063502856757,NEOGELA,"""Faccio tutto giusto ma i miei controlli non migliorano..."" 😔
+
+Forse il problema è anche nel piatto: ecco 5 errori alimentari quotidiani che sabotano le tue ossa.
+
+👆 Dall'eccesso di latticini alle bibite gassate: sfatiamo alcune credenze comuni e scopriamo quali soluzioni si possono applicare!
+
+La tua alimentazione può essere la migliore alleata delle tue ossa... se sai come fare. 😉",,0,"12/01/2025 05:15",N/A,https://www.facebook.com/neogela/posts/pfbid02whbZYAvEivma4T2yK646tcTffiMNDvDNtXubum38hA16f64QPozoBy5fdakTsyCBl,0,0,Photos,,,,,Lifetime,1081,660,1,1,0,0,51,40,11,,1081,0,660,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1458147852978629,100063502856757,NEOGELA,"🎄Tra cenone, panettone e brindisi, pensi che sia impossibile mantenere una routine per la salute ossea?
+
+SCORRI 👉 e scopri come prenderti cura delle tue ossa anche durante le feste (senza rinunciare al divertimento!)
+
+💪 5 semplici abitudini che faranno la differenza
+🎁 Suggerimenti pratici per non perdere la tua routine
+✨ Consigli alimentari per il periodo festivo
+
+Le tue ossa ti ringrazieranno... e tu ti goderai le feste senza sensi di colpa!
+
+SALVA questo post per consultarlo durante tutto il periodo natalizio 📌
+
+⚠️ Ricorda: gli integratori non sostituiscono una dieta varia ed equilibrata e uno stile di vita sano.",,0,"12/29/2025 03:01",N/A,https://www.facebook.com/neogela/posts/pfbid02g2rpf1QfbrHRQcHeRQEo5fuD6bZJ9pjiw3C6fSS7Ckup6jGHV9UEANDCAchn7HZml,0,0,Photos,,,,,Lifetime,608,366,4,3,0,1,15,14,1,,608,0,366,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1455056159954465,100063502856757,NEOGELA,"Auguri di Buon Natale dal Team Neogela","Buon Natale da tutti noi!🎄
+
+Ci avete dimostrato anche quest'anno quanto credete nel nostro stesso messaggio: prendersi cura della propria salute è il più grande gesto d'amore verso se stessi. 
+Vedervelo fare ogni giorno con costanza è ciò per cui lavoriamo con passione. 
+
+Grazie per averci scelto.
+Grazie per la fiducia.
+Grazie per condividere con noi i vostri progressi.
+
+Che sia un Natale di serenità, calore e ossa forti!
+
+Con affetto,
+Il Team Neogela 🎁",6,"12/25/2025 00:03",N/A,https://www.facebook.com/reel/1516339289586130/,0,0,Videos,,,,,Lifetime,961,764,6,6,0,0,4,,4,,961,0,764,0,236,0,227,0,0,236,0,0,0,0,497.909,0,1918.729,0,2.306,0,3.489,0,1,1,,,2416.638,3.154,0,0,0,1,1,1,1,1,0.8,0.66,0.52,0.43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,0.98,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,81,91,18,14,7,7,4,7,2,,2,,230,2,3,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1453554770104604,100063502856757,NEOGELA,"Tutte le MOC sono uguali?","📊 Hai fatto la MOC in una struttura diversa ogni anno? Ecco perché non puoi capire davvero come stanno le tue ossa.
+
+La MOC (densitometria ossea) è l'esame che misura la tua densità minerale ossea 🦴
+
+Serve per:
+✅ Diagnosticare osteoporosi e osteopenia
+✅ Monitorare se i tuoi valori migliorano o peggiorano nel tempo
+
+Ma non tutte le MOC sono uguali. Ogni centro può avere macchinari diversi, con calibrazioni diverse e software di analisi differenti.
+
+Quindi, se fai la MOC in un centro un anno e l'anno successivo in un altro centro... i risultati potrebbero NON essere confrontabili.
+
+Il rischio? 🚨
+Pensare di aver peggiorato (o migliorato) la tua densità ossea, quando in realtà vi è all'origine una differenza nel metodo di rilevazione e analisi dei parametri che potrebbe non rispecchiare i reali cambiamenti del tuo corpo.
+
+La soluzione è semplice: 💡
+Fai sempre la MOC nella stessa struttura, così da avere un confronto diretto, preciso e davvero utile per il tuo medico.
+
+Solo così puoi monitorare davvero l'efficacia delle tue terapie e dell'integrazione.
+
+💬 Salva questo post se devi fare la prossima MOC!
+
+Vuoi capire di più su come leggere i risultati della tua MOC o su come monitorare la salute delle tue ossa? Seguici per altri consigli pratici spiegati con semplicità 💙",82,"12/23/2025 03:40",mixed,https://www.facebook.com/reel/1917932618759325/,0,0,Videos,,,,,Lifetime,20631,19706,237,219,9,9,189,,189,,20617,0,19706,0,9807,1848,9770,1845,0,9807,0,0,0,0,256862.093,56.808,42246.919,0,14.804,14.202,22.592,0,0,0,,,299165.82,15.561,0,0,0,1,1,0.91,0.8,0.67,0.56,0.51,0.48,0.45,0.43,0.41,0.4,0.38,0.36,0.35,0.3,0.29,0.28,0.25,0.24,0.23,0.22,0.22,0.21,0.2,0.19,0.18,0.18,0.17,0.16,0.15,0.14,0.13,0.12,0.11,0.1,0.09,0.09,0.08,0.07,0.06,1,1,1,1,1,1,1,1,0.95,0.91,0.87,0.84,0.81,0.77,0.76,0.72,0.69,0.66,0.61,0.58,0.55,0.54,0.52,0.5,0.47,0.46,0.45,0.44,0.42,0.4,0.39,0.38,0.36,0.33,0.31,0.27,0.25,0.24,0.23,0.19,0.16,2871,4581,703,622,265,156,285,114,39,16,74,29,9591,55,46,16,6,3,1,6,13,3,3,4,6,9,8,1,,1,1,1,15,3,,5,,,2,1,,,,,,,,,,,,,,,,,1,,,1,1,1,1,1,1,261,261,18253.165,96.577592592593
+1450116997115048,100063502856757,NEOGELA,"POV: hai scoperto il collagene Neogela e il tempo per le tue ossa sembra essersi fermato 💪
+
+Questo per ricordarti che non è mai troppo presto per iniziare a prendersi cura di ossa e articolazioni.💙
+
+Il collagene Neogela è idrolizzato in polvere di tipo 1. Ideale per osteoporosi, osteopenia, artrosi, artrite, fratture ossee e agonismo.
+
+👉Rigenera ossa e cartilagini
+👉Conserva la massa muscolare
+👉Ripara tendini e legamenti
+👉Rallenta l'invecchiamento
+👉Stimola la produzione interna di collagene
+
+Raccontaci nei commenti se anche tu hai scelto di prenderti cura delle tue ossa 👇","POV: hai scoperto il collagene Neogela e il tempo per le tue ossa sembra essersi fermato 💪
+
+Questo per ricordarti che non è mai troppo presto per iniziare a prendersi cura di ossa e articolazioni.💙
+
+Il collagene Neogela è idrolizzato in polvere di tipo 1. Ideale per osteoporosi, osteopenia, artrosi, artrite, fratture ossee e agonismo.
+
+👉Rigenera ossa e cartilagini
+👉Conserva la massa muscolare
+👉Ripara tendini e legamenti
+👉Rallenta l'invecchiamento
+👉Stimola la produzione interna di collagene
+
+Raccontaci nei commenti se anche tu hai scelto di prenderti cura delle tue ossa 👇",16,"12/19/2025 03:01",N/A,https://www.facebook.com/reel/25144853998519911/,0,0,Videos,,,,,Lifetime,1877,1550,6,6,0,0,8,,8,,1877,0,1550,0,695,0,687,0,0,695,0,0,0,0,4331.428,0,5133.401,0,5.504,0,6.667,0,0,0,,,9464.829,6.078,0,0,0,1,1,1,1,0.83,0.74,0.64,0.53,0.47,0.42,0.39,0.37,0.36,0.34,0.33,0.31,0.25,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.92,,,,,,,,,,,,,,,,,,,,,,,,,233,302,55,41,10,12,18,9,3,,4,2,676,6,5,,1,1,,,1,1,1,,,,,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1448368760623205,100063502856757,NEOGELA,"""Ma sei così giovane… perché prendi il collagene?"" 🙄
+
+Questa domanda ce la fanno almeno 3 volte a settimana.
+E ogni volta rispondiamo la stessa cosa: ilcollagene NON è solo per chi ha già problemi.
+
+È uno dei falsi miti più diffusi che esistano.
+
+La verità? Il collagene è una proteina fondamentale per le tue ossa, la tua pelle e le tue articolazioni. E il tuo corpo comincia a produrne sempre meno già dopo i 25 anni 📉
+
+Aspettare di avere una diagnosi di osteoporosi o dolori articolari per iniziare a integrarlo… è un po' come aspettare di avere una carie per cominciare a lavarsi i denti.
+
+Non ha senso, vero? 🦷
+
+Noi del team Neogela lo prendiamo perché:
+👉Ci aiuta a mantenere le ossa forti.
+👉Ci aiuta a sostenere la pelle
+👉Ci aiuta a prenderci cura del nostro corpo ORA
+
+Perché la prevenzione non ha età 💙
+
+Quindi, la prossima volta che qualcuno ti chiede ""ma perché lo prendi?"" rispondi:
+
+""Perché mi voglio bene. Oggi.""","""Ma sei così giovane… perché prendi il collagene?"" 🙄
+
+Questa domanda ce la fanno almeno 3 volte a settimana.
+E ogni volta rispondiamo la stessa cosa: ilcollagene NON è solo per chi ha già problemi.
+
+È uno dei falsi miti più diffusi che esistano.
+
+La verità? Il collagene è una proteina fondamentale per le tue ossa, la tua pelle e le tue articolazioni. E il tuo corpo comincia a produrne sempre meno già dopo i 25 anni 📉
+
+Aspettare di avere una diagnosi di osteoporosi o dolori articolari per iniziare a integrarlo… è un po' come aspettare di avere una carie per cominciare a lavarsi i denti.
+
+Non ha senso, vero? 🦷
+
+Noi del team Neogela lo prendiamo perché:
+👉Ci aiuta a mantenere le ossa forti.
+👉Ci aiuta a sostenere la pelle
+👉Ci aiuta a prenderci cura del nostro corpo ORA
+
+Perché la prevenzione non ha età 💙
+
+Quindi, la prossima volta che qualcuno ti chiede ""ma perché lo prendi?"" rispondi:
+
+""Perché mi voglio bene. Oggi.""",47,"12/17/2025 03:02",N/A,https://www.facebook.com/reel/730175036800614/,0,0,Videos,,,,,Lifetime,916,797,9,7,0,2,5,,5,,915,0,797,0,411,0,391,0,0,411,0,0,0,0,3191.654,0,3479.486,0,7.238,0,9.329,0,0,0,,,6671.14,8.195,0,0,0,0.99,0.99,0.99,0.86,0.63,0.5,0.42,0.38,0.37,0.35,0.33,0.3,0.29,0.28,0.25,0.24,0.24,0.23,0.22,0.21,0.19,0.18,0.18,0.18,0.17,0.17,0.14,0.13,0.13,0.13,0.12,0.12,0.1,0.1,0.1,0.09,0.09,0.09,0.08,0.08,0.07,1,1,1,1,1,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.9,0.87,0.86,0.82,0.76,0.74,0.68,0.65,0.65,0.65,0.62,0.61,0.6,0.59,0.56,0.55,0.54,0.52,0.48,0.46,0.45,0.44,0.45,0.41,0.39,0.37,0.33,132,168,46,20,11,7,10,5,4,,2,,398,3,3,,1,,,,3,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1447569514036463,100063502856757,NEOGELA,"Per questo Natale abbiamo pensato a te ✨ E da oggi, ordinando sullo shop di Neogela, potrai ricevere un gadget speciale!
+
+👉 Se fai parte dei nostri Top 5 clienti del 2025, ti arriverà via email o DM un codice per ottenere in regalo una sofficissima coperta di pile natalizia 🎄
+👉 Se rientri tra i primi 100 ordini dall'importo superiore ai 150 €, per te i regalo l'alleata di queste giornate invernali: la borsa dell'acqua carda premium, perfetta per alleviare dolori articolari e per i tuoi momenti di benessere
+👉 Se invece fai un ordine e non rientri nelle categorie precedenti, riceverai in regalo una spatola natalizia: per preparare dolci salutari adesso e tutto l'anno
+👉 Sorpresa per tutti: un addobbo natalizio in feltro, un pensiero per il tuo albero
+
+📦 La promozione dei gadget di Natale è valida dal 16/12 fino al 2/1, fino a esaurimento scorte.
+
+Inizia il 2026 con ossa forti e regali che scaldano il cuore 💙",,0,"12/16/2025 03:01",N/A,https://www.facebook.com/neogela/posts/pfbid0ne5WxA2tqiQE4xoFsrtWy8M3wpLrGZqTjkea1opAFx4JWdyqq29BTMCKMQpJQHyZl,0,0,Photos,,,,,Lifetime,547,349,0,0,0,0,4,4,,,547,0,349,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1446600514133363,100063502856757,NEOGELA,"Quando si dice: dare istruzioni precise al cliente 😉
+
+Ecco tutte le caratteristiche più utili dell'integratore di collagene Neogela: 
+
+👉 il barattolo è fatto di latta, che preserva molto bene le proprietà e il prodotto
+👉 hai notato che sul tappo è indicata anche la corrispondenza tra cc e grammi, così sapete sempre qual è il dosaggio giusto?
+👉 il misurino ha delle comodissime tacche, che permettono di orientarsi con i dosaggi
+👉 la polvere di Neogela collagene è fine, sottile e si scioglie molto bene in tutte le bevande
+👉 abbiamo anche la versione in bustine monodose, comodissime da portare ovunque!
+
+Conoscevi tutte le caratteristiche del collagene Neogela?
+Scrivici nei commenti qual è quella che preferisci! 💙","Quando si dice: dare istruzioni precise al cliente 😉
+
+Ecco tutte le caratteristiche più utili dell'integratore di collagene Neogela: 
+
+👉 il barattolo è fatto di latta, che preserva molto bene le proprietà e il prodotto
+👉 hai notato che sul tappo è indicata anche la corrispondenza tra cc e grammi, così sapete sempre qual è il dosaggio giusto?
+👉 il misurino ha delle comodissime tacche, che permettono di orientarsi con i dosaggi
+👉 la polvere di Neogela collagene è fine, sottile e si scioglie molto bene in tutte le bevande
+👉 abbiamo anche la versione in bustine monodose, comodissime da portare ovunque!
+
+Conoscevi tutte le caratteristiche del collagene Neogela?
+Scrivici nei commenti qual è quella che preferisci! 💙",83,"12/15/2025 03:00",N/A,https://www.facebook.com/reel/1151128040517771/,0,0,Videos,,,,,Lifetime,775,709,6,5,0,1,3,,3,,775,0,709,0,385,62,367,61,0,385,0,0,0,0,4625.892,0,5131.132,0,11.801,0,15.837,0,1,1,,,9757.024,13.627,0,0,0,1,0.99,0.87,0.67,0.55,0.43,0.37,0.34,0.32,0.31,0.29,0.25,0.23,0.22,0.2,0.18,0.17,0.17,0.16,0.16,0.16,0.16,0.15,0.15,0.15,0.15,0.14,0.14,0.13,0.13,0.13,0.13,0.13,0.13,0.13,0.13,0.13,0.13,0.13,0.12,0.11,1,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.96,0.92,0.86,0.78,0.69,0.65,0.62,0.6,0.58,0.58,0.57,0.56,0.56,0.55,0.52,0.52,0.51,0.51,0.49,0.48,0.46,0.46,0.46,0.46,0.46,0.46,0.46,0.46,0.45,0.45,0.45,0.42,0.41,141,154,39,15,10,6,7,4,3,1,1,1,375,2,3,,2,,,1,,,,,,,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1444096851050396,100063502856757,NEOGELA,"Articolazioni rigide ogni mattina? Meglio indagare! 🧐
+
+Potrebbe trattarsi di un'infiammazione, di artrosi o di carenza di collagene, la proteina essenziale per la tua mobilità.
+
+Con il tempo, il corpo produce meno collagene, causando dolori e scarsa flessibilità. Ma puoi agire!
+
+👉 Integrare collagene idrolizzato di tipo 1 come Neogela supporta la rigenerazione articolare.
+👉Aiuta a ridurre la rigidità e a migliorare il movimento, come già riscontrato da molti.
+
+Non trascurare i segnali. Vuoi scoprire se Neogela è la soluzione per te? Scrivici in privato per saperne di più! 💙","Articolazioni rigide ogni mattina? Meglio indagare! 🧐
+
+Potrebbe trattarsi di un'infiammazione, di artrosi o di carenza di collagene, la proteina essenziale per la tua mobilità.
+
+Con il tempo, il corpo produce meno collagene, causando dolori e scarsa flessibilità. Ma puoi agire!
+
+👉 Integrare collagene idrolizzato di tipo 1 come Neogela supporta la rigenerazione articolare.
+👉Aiuta a ridurre la rigidità e a migliorare il movimento, come già riscontrato da molti.
+
+Non trascurare i segnali. Vuoi scoprire se Neogela è la soluzione per te? Scrivici in privato per saperne di più! 💙",68,"12/12/2025 03:01",N/A,https://www.facebook.com/reel/841416671866184/,0,0,Videos,,,,,Lifetime,1176,1044,12,11,0,1,5,,5,,1176,0,1044,0,474,45,448,43,0,474,0,0,0,0,5949.133,26.07,4658.393,0,8.475,2.006,11.915,0,0,0,,,10633.596,9.614,0,0,0,0.99,0.99,0.88,0.65,0.55,0.5,0.48,0.45,0.42,0.4,0.39,0.34,0.3,0.28,0.26,0.24,0.24,0.22,0.19,0.18,0.18,0.17,0.17,0.17,0.16,0.15,0.13,0.13,0.11,0.11,0.11,0.1,0.09,0.09,0.08,0.08,0.07,0.07,0.06,0.06,0.05,0.99,0.99,0.99,1,1,1,1,1,1,0.99,0.97,0.85,0.76,0.71,0.66,0.62,0.6,0.56,0.54,0.51,0.51,0.49,0.48,0.47,0.46,0.42,0.37,0.37,0.34,0.33,0.32,0.3,0.29,0.27,0.24,0.24,0.22,0.21,0.21,0.19,0.16,156,191,56,25,10,6,10,9,4,,4,1,460,3,5,,3,,,,1,,,,1,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1443199631140118,100063502856757,NEOGELA,"Con ""Alla tua salute ci pensa Neogela"" la nostra Michela sta vivendo un'esperienza davvero trasformativa! 💪
+
+Lei e un'altra cliente selezionata per questa iniziativa sociale riceveranno una fornitura gratuita di collagene Neogela e il nostro supporto per 12 mesi!
+
+👉 Ha conosciuto professionisti come il Dott. Zeggio e la Dott.ssa Magi, scoprendo non solo l'importanza dell'integrazione Neogela, ma anche il ruolo cruciale di una sana alimentazione, del movimento e di una dieta ricca di proteine.
+
+Tutte queste nuove conoscenze fanno ora parte della sua quotidianità, e noi siamo felici di poter sentire la sua testimonianza: grazie Michela, non vediamo l'ora di sentire presto i tuoi progressi!💙","Con ""Alla tua salute ci pensa Neogela"" la nostra Michela sta vivendo un'esperienza davvero trasformativa! 💪
+
+Lei e un'altra cliente selezionata per questa iniziativa sociale riceveranno una fornitura gratuita di collagene Neogela e il nostro supporto per 12 mesi!
+
+👉 Ha conosciuto professionisti come il Dott. Zeggio e la Dott.ssa Magi, scoprendo non solo l'importanza dell'integrazione Neogela, ma anche il ruolo cruciale di una sana alimentazione, del movimento e di una dieta ricca di proteine.
+
+Tutte queste nuove conoscenze fanno ora parte della sua quotidianità, e noi siamo felici di poter sentire la sua testimonianza: grazie Michela, non vediamo l'ora di sentire presto i tuoi progressi!💙",80,"12/11/2025 03:01",N/A,https://www.facebook.com/reel/1188506006055862/,0,0,Videos,,,,,Lifetime,769,731,3,3,0,0,6,,6,,769,0,731,0,387,34,378,34,0,387,0,0,0,0,3171.872,0,3984.711,0,8.218,0,11.967,0,0,0,,,7156.583,9.953,0,0,0,0.99,0.99,0.78,0.49,0.36,0.28,0.26,0.22,0.22,0.19,0.18,0.18,0.16,0.15,0.15,0.14,0.13,0.12,0.12,0.11,0.11,0.11,0.1,0.09,0.09,0.09,0.09,0.08,0.08,0.08,0.07,0.07,0.06,0.06,0.05,0.05,0.04,0.04,0.04,0.04,0.03,1,1,1,1,1,1,1,1,1,0.87,0.82,0.8,0.71,0.68,0.66,0.65,0.64,0.59,0.58,0.54,0.55,0.55,0.49,0.45,0.44,0.44,0.43,0.42,0.41,0.41,0.4,0.38,0.35,0.32,0.3,0.27,0.26,0.26,0.25,0.25,0.2,142,137,42,20,15,14,6,5,2,1,1,,377,2,2,2,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1440491084744306,100063502856757,NEOGELA,"Scommettiamo che almeno uno di questi miti sul collagene lo hai già sentito! 😉
+
+🔍 Scorri e scopri cosa è VERO e cosa è FALSO!
+
+5 falsi miti spiegati in modo semplice (promesso!)
+
+✅ Quello che dovresti sapere PRIMA di scegliere se assumere collagene
+✅ La verità su calorie, qualità e risultati
+✅ Quando iniziare davvero (spoiler: probabilmente è prima di quello che pensi!)
+
+SALVA questo post per averlo sempre a portata di mano 📌
+Perché prendere decisioni informate sulla tua salute fa tutta la differenza 💙
+
+👉 Quale mito ti ha sorpreso di più? Scrivicelo nei commenti!",,0,"12/08/2025 03:00",N/A,https://www.facebook.com/neogela/posts/pfbid0339sPaLGf7vgKmF7wreGeHZ1vDXitPJLSvsEoKxwTDfuwx8gpwaqc4LsYi6LmCjxVl,0,0,Photos,,,,,Lifetime,705,463,0,0,0,0,5,5,,,705,0,463,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1437951508331597,100063502856757,NEOGELA,"""Prendo la vitamina D… eppure mi hanno diagnosticato l’osteoporosi. Come è possibile?""È una domanda che ci fate spessissimo!🤔
+
+La vitamina D è fondamentale, aiuta l'assorbimento del calcio, ma non basta da sola a prevenire o curare l’osteoporosi.
+
+👉 Le nostre ossa hanno una struttura complessa, con uno strato ricco di collagene, che funge da ""rete"" su cui il calcio si aggancia. Se questa rete è debole, il calcio non si fissa, e le ossa perdono densità, diventando fragili.
+
+👉 Per ossa forti, servono anche attività fisica mirata, un’alimentazione completa e un buon equilibrio ormonale, soprattutto in menopausa.
+
+La vitamina D è un pezzo importante, ma è solo una parte di un puzzle più grande!
+
+Vuoi scoprire quali altri pezzi ti mancano per prenderti cura davvero delle tue ossa? Seguici: ogni settimana nuovi approfondimenti pratici per la tua salute ossea. 🦴💪","""Prendo la vitamina D… eppure mi hanno diagnosticato l’osteoporosi. Come è possibile?""È una domanda che ci fate spessissimo!🤔
+
+La vitamina D è fondamentale, aiuta l'assorbimento del calcio, ma non basta da sola a prevenire o curare l’osteoporosi.
+
+👉 Le nostre ossa hanno una struttura complessa, con uno strato ricco di collagene, che funge da ""rete"" su cui il calcio si aggancia. Se questa rete è debole, il calcio non si fissa, e le ossa perdono densità, diventando fragili.
+
+👉 Per ossa forti, servono anche attività fisica mirata, un’alimentazione completa e un buon equilibrio ormonale, soprattutto in menopausa.
+
+La vitamina D è un pezzo importante, ma è solo una parte di un puzzle più grande!
+
+Vuoi scoprire quali altri pezzi ti mancano per prenderti cura davvero delle tue ossa? Seguici: ogni settimana nuovi approfondimenti pratici per la tua salute ossea. 🦴💪",81,"12/05/2025 03:02",N/A,https://www.facebook.com/reel/1213847560590911/,0,0,Videos,,,,,Lifetime,154369,141947,2629,2469,56,104,1749,,1748,1,154247,0,141947,0,74373,26721,72957,26721,0,74373,0,0,0,0,2913528.075,1938.898,150795.885,0,21.394,10.538,40.428,0,12,12,,,3066262.858,21.885,0,0,1,0.99,1,0.92,0.77,0.68,0.62,0.61,0.58,0.57,0.55,0.54,0.53,0.52,0.52,0.51,0.44,0.42,0.41,0.4,0.38,0.37,0.36,0.36,0.36,0.35,0.34,0.33,0.33,0.32,0.31,0.28,0.27,0.27,0.25,0.23,0.21,0.19,0.18,0.16,0.13,0.1,1,1,1,1,1,1,1,1,0.99,0.96,0.94,0.92,0.91,0.9,0.89,0.86,0.82,0.8,0.78,0.75,0.73,0.71,0.7,0.7,0.68,0.67,0.66,0.64,0.63,0.62,0.61,0.6,0.58,0.54,0.51,0.46,0.42,0.41,0.35,0.29,0.24,17463,36745,5379,6352,1690,1359,2952,1047,332,76,449,158,71629,614,491,176,98,23,4,121,198,46,70,24,110,135,70,13,,22,,12,197,48,28,28,23,18,16,14,10,9,9,8,8,6,6,6,6,4,4,4,3,3,3,3,3,3,3,,,,,,,1957,1957,133342.232,91.267783709788
+1435648575228557,100063502856757,NEOGELA,"Con il Black Friday i nostri scaffali si sono decisamente alleggeriti, ma adesso sono pronti per accogliere i vostri ordini del mese di dicembre e aiutarvi a fare scorta dell'integratore di collagene Neogela! 🎁
+
+Vi ricordiamo che sul sito trovate:
+👉 Il Barattolo Neogela da 400 grammi
+👉 La Scatola con 28 buste
+👉 Il Pack Ossa Sane
+👉 Bundle Neogela Barattolo + Bustine
+
+Ci vogliamo preparare con voi all'inverno, sempre con la salute di ossa e articolazioni in mente. 💙","Con il Black Friday i nostri scaffali si sono decisamente alleggeriti, ma adesso sono pronti per accogliere i vostri ordini del mese di dicembre e aiutarvi a fare scorta dell'integratore di collagene Neogela! 🎁
+
+Vi ricordiamo che sul sito trovate:
+👉 Il Barattolo Neogela da 400 grammi
+👉 La Scatola con 28 buste
+👉 Il Pack Ossa Sane
+👉 Bundle Neogela Barattolo + Bustine
+
+Ci vogliamo preparare con voi all'inverno, sempre con la salute di ossa e articolazioni in mente. 💙",8,"12/03/2025 03:02",N/A,https://www.facebook.com/reel/1156529383304966/,0,0,Videos,,,,,Lifetime,1207,987,4,4,0,0,1,,1,,1212,0,987,0,401,0,395,0,0,401,0,0,0,0,2102.871,0,1781.273,0,4.06,0,3.959,0,1,1,,,3884.144,4.012,0,0,0,1,1,1,1,0.75,0.57,0.42,0.34,0.29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,0.97,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,137,159,42,22,10,7,9,9,1,1,,1,394,2,,,,,,,2,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
