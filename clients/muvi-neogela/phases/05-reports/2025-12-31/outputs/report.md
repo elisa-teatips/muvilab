@@ -2,7 +2,7 @@
 client: muvi-neogela
 phase: 05-reports
 period: 2026-05-23
-status: draft
+status: approved
 owner: <nome>
 last_updated: 2026-05-23
 ---

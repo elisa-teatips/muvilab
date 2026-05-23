@@ -14,5 +14,5 @@ Task generati dalla strategia per le fasi successive.
 | # | Task | Fase destinazione | Owner | Deadline | Stato |
 |---|------|-------------------|-------|----------|-------|
 | 1 | Trascrire contenuti dal PDF approvato in strategy.md | 02-strategy | elisa | | pending |
-| 2 | Produzione asset visivi pillar | 03-ped | | | pending |
+| 2 | Produzione asset visivi pillar | 03-ped | | | n/a — fase non prevista per questo cliente |
 | 3 | Setup campagne always-on | 04-campaigns | | | pending |

@@ -41,3 +41,4 @@ last_updated: 2026-05-23
 3. Nessuna credenziale in chiaro — riferirsi a vault Notion
 4. Brand unico: nessuna ambiguità su multi-brand
 5. Settore sensibile fiscale: non citare aliquote/percentuali senza fonte normativa verificata
+6. **03-ped NON si produce** per questo cliente — saltare la fase e non generare PED/posts mensili

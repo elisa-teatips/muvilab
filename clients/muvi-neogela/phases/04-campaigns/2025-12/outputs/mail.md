@@ -2,7 +2,7 @@
 client: muvi-neogela
 phase: 04-campaigns
 period: <YYYY-MM>
-status: draft
+status: approved
 owner: <nome>
 last_updated: 2026-05-23
 deadline_approvazione: 2026-05-23
