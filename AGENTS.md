@@ -71,3 +71,23 @@ Documenti di riferimento obbligatori:
 2. Carica la skill `social-framework` per le procedure
 3. Leggi `clients/<slug>/AGENTS.md` per il contesto specifico
 4. Procedi rispettando le regole sopra
+
+---
+
+## SYNC GIT — OBBLIGATORIO A FINE SESSIONE
+
+Al termine di ogni sessione in cui hai scritto o modificato file in `clients/<slug>/`,
+esegui **sempre** questi comandi prima di chiudere:
+
+```bash
+git add .
+git commit -m "update(<slug>): <descrizione breve delle modifiche>"
+git push
+```
+
+Regole per il commit message:
+- Usa lo slug del cliente nel prefisso: `update(muvi-neogela): ...`
+- Descrizione breve ma leggibile (es. `ped 2026-06 approvato`, `strategy 2026 draft`)
+- Se la sessione ha toccato solo risorse trasversali (template, playbook, ecc.): `update(framework): ...`
+
+**Non aspettare che l'utente lo chieda. Fallo tu come ultimo atto della sessione.**
