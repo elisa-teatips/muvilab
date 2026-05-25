@@ -2,7 +2,7 @@
 client: tecnosystem
 phase: 05-reports
 period: 2026-05-25
-status: in-review
+status: approved
 owner: Elisa (MUVI)
 last_updated: 2026-05-25
 ---

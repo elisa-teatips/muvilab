@@ -2,7 +2,7 @@
 client: tecnosystem
 phase: 05-reports
 period: 2026-04-01 → 2026-05-25
-status: in-review
+status: approved
 owner: MUVI
 last_updated: 2026-05-25
 ---
@@ -34,7 +34,7 @@ last_updated: 2026-05-25
 | LinkedIn — post pubblicati | ~10 | 13 | +30% | Cadenza 2/sett. rispettata |
 | LinkedIn — clic | n/d | 217 | n/d | Baseline per prossimo periodo |
 | LinkedIn — reazioni | n/d | 68 | n/d | Baseline per prossimo periodo |
-| LinkedIn — follower totali | 204 | [dato da verificare in piattaforma] | n/d | Export nativo non lo include |
+| LinkedIn — follower totali | 204 | 241 | **+18%** | Rilevato manualmente in piattaforma |
 | Instagram — visualizzazioni | 394 | 1.800 | **+356%** | Trainato da 1 post (PLC piegaferri) |
 | Instagram — follower guadagnati | n/d | +2 | n/d | Crescita marginale |
 | Facebook — visualizzazioni | 226 | 491 | **+117%** | Presidio, nessun investimento redazionale |
