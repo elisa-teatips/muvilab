@@ -1,7 +1,7 @@
 ---
 client: bognolo
 phase: 01-presales
-status: draft
+status: sent
 owner: <nome>
 last_updated: 2026-05-23
 deadline_approvazione: 2026-05-23
