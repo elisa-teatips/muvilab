@@ -199,4 +199,135 @@ Comportamento coerente con un pubblico B2B (imprenditori/responsabili acquisti).
 
 ---
 
-*Report generato il 2026-05-26. Dati Google Ads: 10–26 maggio 2026. Dati Facebook Ads: 13–25 maggio 2026.*
+## 3. Landing Page — Microsoft Clarity
+
+**URL**: bognolo.it/iperammortamento-2026/
+**Periodo**: 11 maggio – 26 maggio 2026
+
+### 3.1 Metriche chiave
+
+| Metrica | Valore |
+|---|---|
+| Sessioni totali | 413 (di cui 52 bot — 12,6%) |
+| Sessioni reali (no bot) | 361 |
+| Utenti unici | 358 |
+| Nuovi utenti | 382 sessioni (95,5%) |
+| Utenti di ritorno | 31 sessioni (4,5%) |
+| Pagine per sessione | 1,47 |
+| Profondità di scorrimento media | 28,6% |
+| Tempo di attività / Tempo totale | 57s / 130s (44% del tempo attivo) |
+
+**Nota bot**: 52 sessioni bot rilevate (17 da PPC ad fraud). Il dato è da tenere presente nella valutazione della qualità del traffico Google Ads.
+
+### 3.2 Comportamento utenti
+
+| Segnale | Sessioni | % |
+|---|---|---|
+| Clic inattiva (dead click) | 33 | 7,99% |
+| Clic rapido tasto Indietro | 10 | 2,42% |
+| Rage click | 1 | 0,24% |
+| Scorrimento eccessivo | 1 | 0,24% |
+
+**Osservazioni**:
+- La **profondità di scorrimento al 28,6%** è bassa: la maggior parte degli utenti non scende oltre il primo quarto della pagina. Il form o la CTA principale devono trovarsi molto in alto (above the fold).
+- **7,99% di dead click** indica elementi che sembrano cliccabili ma non lo sono — da identificare con le heatmap di Clarity.
+- **2,42% di quick back** (10 sessioni): gli utenti tornano indietro rapidamente dopo l'atterraggio — possibile disallineamento tra promessa dell'annuncio e contenuto della landing.
+
+### 3.3 Device / Browser
+
+| Browser | Sessioni | % |
+|---|---|---|
+| Chrome (desktop) | 208 | 50,36% |
+| ChromeMobile | 82 | 19,85% |
+| MobileSafari | 47 | 11,38% |
+| GoogleApp | 18 | 4,36% |
+| Firefox | 16 | 3,87% |
+| SamsungInternet | 15 | 3,63% |
+| Edge | 13 | 3,15% |
+| InstagramApp + FacebookApp | 8 | 1,94% |
+
+**Nota mobile**: ChromeMobile + MobileSafari + SamsungInternet = ~35% delle sessioni, coerente con i dati Google Ads. Confermata la necessità di ottimizzare la landing per mobile.
+
+### 3.4 Sorgenti di traffico (Referrer)
+
+| Referrer | Sessioni |
+|---|---|
+| google.com / google.it | 254 |
+| bognolo.it (navigazione interna) | 239 |
+| facebook.com / l.facebook.com | 2 |
+| Altri (LinkedIn, YouTube, Bing, ecc.) | 6 |
+
+**Nota**: il traffico Facebook verso la landing è quasi assente (2 sessioni) — coerente con la struttura della campagna Meta che usa il form nativo di Facebook invece di rimandare alla landing. I lead Meta vengono raccolti direttamente nel form Facebook, non su bognolo.it.
+
+### 3.5 Pagine visitate
+
+La landing `/iperammortamento-2026/` raccoglie 334 sessioni su 413 totali del sito (81%). Le visite alle altre pagine (perizie-tecniche, chi-siamo, contatti) sono marginali ma indicano un minimo di esplorazione del sito da parte di utenti interessati.
+
+**Segnale positivo**: 1 sessione registrata su `/fusion_form/form-ammortamento-2026/` — un utente ha raggiunto la pagina del form (potenziale contatto non tracciato).
+
+### 3.6 Performance tecnica (Core Web Vitals)
+
+| Metrica | Valore | Giudizio |
+|---|---|---|
+| Punteggio complessivo | 67,7/100 | ⚠️ Migliorabile |
+| LCP (Largest Contentful Paint) | 5,401s | ❌ Critico (soglia: <2,5s) |
+| INP (Interaction to Next Paint) | 170ms | ✅ Buono (soglia: <200ms) |
+| CLS (Cumulative Layout Shift) | 1,582s | ❌ Critico (soglia: <0,1) |
+
+**⚠️ GAP TECNICO CRITICO**: LCP a 5,4 secondi e CLS a 1,582 sono valori molto al di sopra delle soglie Google. Questi problemi:
+- Penalizzano il Quality Score degli annunci Google Ads (impatto diretto su CPC e posizionamento)
+- Aumentano il bounce rate, specialmente su mobile
+- Riducono il tasso di compilazione del form
+
+### 3.7 Errori JavaScript
+
+1 errore JavaScript rilevato ("script error") in 1 sessione — basso impatto, da monitorare.
+
+### 3.8 Smart Events
+
+| Evento | Sessioni | % |
+|---|---|---|
+| Contattaci (click) | 5 | 1,21% |
+| Clic in uscita | 4 | 0,97% |
+
+**Micro-conversion rate**: 5 click su "Contattaci" su 361 sessioni reali = **1,38%**. Dato da incrociare con il tracking conversioni Google Ads (ancora assente) per capire quanti di questi si trasformano in lead.
+
+---
+
+## 4. Sintesi Congiunta
+
+| Canale | Spesa | Sessioni landing | Lead / Contatti | CPL stimato |
+|---|---|---|---|---|
+| Google Ads | €245,91 | 254 (da Google) | 5 click "Contattaci" (non tracciati) | n.d. |
+| Facebook Ads | **non disponibile** ⚠️ | 2 (form nativo) | 3 lead reali | n.d. |
+| **Totale** | **≥ €245,91** (parziale) | **~361 sessioni reali** | **3 lead + 5 micro-interazioni** | **n.d.** |
+
+---
+
+## 5. Azioni Raccomandate
+
+### Priorità ALTA
+
+1. **Configurare il tracking conversioni su Google Ads** — Implementare almeno un evento di conversione (invio form, click su email/telefono). Senza questo l'algoritmo AI Max non ottimizza e il ROI è non misurabile. *Responsabile: team tecnico / Elisa. Deadline: entro 7 giorni.*
+
+2. **Risolvere LCP e CLS della landing page** — LCP 5,4s e CLS 1,582 sono critici. Impattano Quality Score Google Ads, bounce rate e tasso di conversione del form. Priorità tecnica immediata. *Responsabile: sviluppatore sito. Deadline: entro 14 giorni.*
+
+3. **Recuperare metriche aggregate Facebook Ads** — Esportare da Meta Ads Manager: impression, reach, frequenza, spesa totale, CPL. *Responsabile: Elisa. Deadline: immediato.*
+
+4. **Contattare i 3 lead Facebook** — Priorità: Adriano Pegoraro (Mikiservice, fase "da ordinare"). Verificare ammissibilità Michele Bolzonella (autocarro in edilizia). *Responsabile: Studio Bognolo. Deadline: entro 48 ore.*
+
+### Priorità MEDIA
+
+5. **Spostare form/CTA above the fold** — Profondità scorrimento al 28,6%: la maggior parte degli utenti non vede il form. Posizionarlo più in alto aumenterebbe le conversioni senza altri interventi. *Responsabile: sviluppatore sito.*
+
+6. **Identificare dead click con heatmap Clarity** — 33 sessioni con dead click (7,99%): aprire le session recordings in Clarity per identificare quali elementi confondono gli utenti.
+
+7. **Analisi search terms uncategorized Google Ads** — 40% delle impression in categorie non classificate. Aggiungere negative keyword per query non pertinenti.
+
+8. **Monitorare keyword "perizia iperammortamento"** — CPC alto (€2,31) ma keyword ad alta intenzione. Con tracking attivo valutare se il costo è giustificato.
+
+9. **Valutare bid adjustment Belluno** — CTR 11,43% e CPC €0,62: mercato poco competitivo con alta intenzione.
+
+---
+
+*Report generato il 2026-05-26. Dati Google Ads: 10–26 maggio 2026. Dati Facebook Ads: 13–25 maggio 2026. Dati Clarity: 11–26 maggio 2026.*
