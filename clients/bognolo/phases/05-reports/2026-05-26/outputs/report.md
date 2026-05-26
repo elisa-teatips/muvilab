@@ -1,7 +1,7 @@
 ---
 client: bognolo
-phase: 04-campaigns
-period: 2026-05
+phase: 05-reports
+period: 2026-05-26
 status: draft
 owner: elisa
 last_updated: 2026-05-26
