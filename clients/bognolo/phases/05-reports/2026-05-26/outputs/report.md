@@ -16,7 +16,7 @@ last_updated: 2026-05-26
 
 ## Executive Summary
 
-Le campagne lanciate l'11 maggio mostrano segnali incoraggianti nella fase iniziale: Google Ads genera traffico qualificato verso la landing page con un CTR del 7,84% (superiore alla media di settore per query B2B), mentre Facebook Ads ha prodotto 3 lead reali in circa 12 giorni di attività. Il costo per click su Google rimane contenuto (€0,90 medio). Il gap critico da risolvere con priorità massima è l'assenza di tracking conversioni su Google Ads, che impedisce qualsiasi ottimizzazione algoritmica e rende impossibile misurare il reale ritorno della campagna search.
+Le campagne lanciate l'11 maggio mostrano segnali incoraggianti nella fase iniziale: Google Ads genera traffico qualificato verso la landing page con un CTR del 7,84% (superiore alla media di settore per query B2B), mentre Facebook Ads ha prodotto 3 lead reali in 16 giorni con una spesa di €219,66 (CPL: €73,03). La spesa totale delle due campagne è €465,57. Il gap critico da risolvere con priorità massima è l'assenza di tracking conversioni su Google Ads, che impedisce qualsiasi ottimizzazione algoritmica e rende impossibile misurare il reale ritorno della campagna search. Secondariamente, le performance tecniche della landing (LCP 5,4s, CLS 1,582) e la posizione del form (scorrimento medio 28,6%) limitano il tasso di conversione.
 
 ---
 
@@ -136,9 +136,40 @@ Comportamento coerente con un pubblico B2B (imprenditori/responsabili acquisti).
 **Form**: Modulo Iperammortamento 2026-campagna maggio-definitivo
 **Periodo**: 13 mag – 25 mag 2026 (13 giorni)
 
-### 2.1 Metriche aggregate
+### 2.1 Metriche aggregate — Inserzione Video (principale)
 
-> **⚠️ DATI MANCANTI**: I due file XLSX presenti in inputs/facebook contengono un export con breakdown per età/genere su un periodo che include giorni pre-lancio (26 apr–25 mag) — i totali risultano 10 impression e €0,08 di spesa, dati non rappresentativi. **Azione richiesta**: esportare da Meta Ads Manager un report a livello campagna **senza breakdown**, periodo **11–26 maggio 2026**, con colonne: Impression, Copertura, Frequenza, Risultati (lead), Costo per risultato, Importo speso, CPM.
+| Metrica | Valore |
+|---|---|
+| Periodo | 11–26 maggio 2026 |
+| Spesa totale | **€219,09** |
+| Impression | **15.113** |
+| Copertura (reach) | **8.352** |
+| Frequenza | **1,81** |
+| Risultati (lead da form) | **3** |
+| Costo per lead (CPL) | **€73,03** |
+| CPM | €14,50 |
+| CTR (tutti i clic) | 1,44% |
+| CPC (tutti i clic) | €1,01 |
+| Clic sul link | 146 |
+| CPC (link) | €1,50 |
+| Visualizzazioni video | 14.928 |
+| Tempo medio riproduzione | 4 secondi |
+| Interazioni con il post | 3.566 |
+| Reazioni | 26 |
+
+> **Nota inserzione grafica**: presente una seconda inserzione "Grafica - Raccolta contatti Iperammortamento" con spesa di €0,57 su 102 impression e 0 lead — inserzione marginale, probabilmente in fase di test.
+
+**Spesa totale campagna Facebook (video + grafica): €219,66**
+
+### 2.2 Valutazione qualità inserzione (Meta)
+
+| Dimensione | Rating |
+|---|---|
+| Valutazione della qualità | Nella media |
+| Tasso di coinvolgimento | Nella media |
+| Tasso di conversione | **Sotto la media** (35% delle inserzioni meno pertinenti) ⚠️ |
+
+> Il tasso di conversione "sotto la media" di Meta indica che, a parità di pubblico e budget, le inserzioni simili del settore ottengono più lead. Il CPL di €73 è elevato per una campagna B2B lead gen su Meta. Il problema principale potrebbe essere il form troppo lungo o non ottimizzato per mobile.
 
 ### 2.2 Lead raccolti
 
@@ -161,7 +192,7 @@ Comportamento coerente con un pubblico B2B (imprenditori/responsabili acquisti).
 **Punti di attenzione**:
 - Michele Bolzonella usa email Yahoo personale — lead potenzialmente meno qualificato (edilizia / autocarro: verificare ammissibilità bene ai fini Iperammortamento 4.0).
 - 3 lead in 13 giorni è un volume basso ma accettabile per una campagna B2B di nicchia nella fase iniziale.
-- Senza metriche aggregate (CPL, impression, reach) non è possibile valutare l'efficienza della campagna Facebook.
+- CPL di €73,03 su Facebook: elevato per il settore B2B lead gen. Da ottimizzare con form più snello e creative test.
 
 ---
 
@@ -170,10 +201,10 @@ Comportamento coerente con un pubblico B2B (imprenditori/responsabili acquisti).
 | Canale | Spesa | Lead | CPL stimato |
 |---|---|---|---|
 | Google Ads | €245,91 | n.d. (tracking assente) | n.d. |
-| Facebook Ads | **non disponibile** ⚠️ | 3 lead reali | n.d. (spesa mancante) |
-| **Totale** | **≥ €245,91** (parziale) | **3 lead confermati** | **n.d.** |
+| Facebook Ads | €219,66 | 3 lead reali | **€73,03/lead** |
+| **Totale** | **€465,57** | **3 lead confermati** | **€155,19/lead (su FB)** |
 
-> Il CPL complessivo non è calcolabile in questa fase per due motivi: (1) assenza di tracking conversioni su Google Ads, (2) metriche aggregate Facebook non disponibili. Una volta recuperati entrambi i dati sarà possibile calcolare il CPL reale e confrontarlo con il benchmark di settore.
+> Con il tracking conversioni Google Ads non configurato, il CPL complessivo rimane parziale. Se anche Google avesse generato lead (i 5 click "Contattaci" su Clarity sono un segnale), il CPL reale sarebbe inferiore. Configurare il tracking è la priorità assoluta per la prossima ottimizzazione.
 
 ---
 
@@ -183,9 +214,9 @@ Comportamento coerente con un pubblico B2B (imprenditori/responsabili acquisti).
 
 1. **Configurare il tracking conversioni su Google Ads** — Definire e implementare almeno un evento di conversione (es. invio form contatto su landing, click su numero di telefono, click su email). Senza questo dato l'algoritmo AI Max non può ottimizzare e il ROI rimane non misurabile. *Responsabile: team tecnico / Elisa. Deadline: entro 7 giorni.*
 
-2. **Recuperare metriche aggregate Facebook Ads** — Esportare da Meta Ads Manager: impression, reach, frequenza, spesa totale, CPL, CTR del form. Necessario per completare il report e valutare l'efficienza del canale. *Responsabile: Elisa. Deadline: immediato.*
+2. **Ottimizzare il form Facebook Ads** — Il tasso di conversione è classificato "sotto la media" da Meta. Rivedere il form nativo (ridurre campi, adattare per mobile) per abbassare il CPL attuale di €73,03. *Responsabile: Elisa. Deadline: entro 7 giorni.*
 
-3. **Contattare i 3 lead Facebook** — Priorità: Adriano Pegoraro (Mikiservice, fase "da ordinare"). Verificare ammissibilità del bene di Michele Bolzonella (autocarro in edilizia). *Responsabile: Studio Bognolo. Deadline: entro 48 ore.*
+3. **Contattare i 3 lead Facebook** — Priorità: Adriano Pegoraro (Mikiservice, fase "da ordinare"). Verificare ammissibilità Michele Bolzonella (autocarro in edilizia). *Responsabile: Studio Bognolo. Deadline: entro 48 ore.*
 
 ### Priorità MEDIA
 
@@ -349,9 +380,9 @@ Questo percorso è coerente con un pubblico B2B che valuta il fornitore prima di
 | Canale | Spesa | Sessioni/Views landing | Lead / Contatti | CPL stimato |
 |---|---|---|---|---|
 | Google Ads | €245,91 | 254 sessioni (Clarity) | 5 click "Contattaci" (non tracciati) | n.d. |
-| Facebook Ads | **non disponibile** ⚠️ | 2 (form nativo Meta) | 3 lead reali | n.d. |
+| Facebook Ads | €219,66 | 2 (form nativo Meta) | 3 lead reali | **€73,03** |
 | Landing organica/diretta | — | ~107 sessioni (Clarity) | — | — |
-| **Totale** | **≥ €245,91** (parziale) | **480 views GA4 / ~361 sessioni reali Clarity** | **3 lead + 5 micro-interazioni** | **n.d.** |
+| **Totale** | **€465,57** | **480 views GA4 / ~361 sessioni reali Clarity** | **3 lead + 5 micro-interazioni** | **€155,19 (CPL campagna complessiva, parziale)** |
 
 **Segnale positivo da GA4**: 97 secondi di coinvolgimento medio sulla landing — gli utenti leggono. Il problema non è il contenuto, ma la mancanza di conversione tracciata e probabilmente la posizione del form (scorrimento medio Clarity: 28,6%).
 
@@ -366,8 +397,6 @@ Questo percorso è coerente con un pubblico B2B che valuta il fornitore prima di
 2. **Risolvere LCP e CLS della landing page** — LCP 5,4s e CLS 1,582 sono critici. Impattano Quality Score Google Ads, bounce rate e tasso di conversione del form. Priorità tecnica immediata. *Responsabile: sviluppatore sito. Deadline: entro 14 giorni.*
 
 3. **Configurare Key Events in GA4** — Nessun key event configurato su GA4: aggiungere almeno invio form e click su contatti. Permetterà di misurare il funnel completo e incrociare i dati con Google Ads. *Responsabile: team tecnico. Deadline: contestuale al punto 1.*
-
-4. **Recuperare metriche aggregate Facebook Ads** — Esportare da Meta Ads Manager: impression, reach, frequenza, spesa totale, CPL. *Responsabile: Elisa. Deadline: immediato.*
 
 4. **Contattare i 3 lead Facebook** — Priorità: Adriano Pegoraro (Mikiservice, fase "da ordinare"). Verificare ammissibilità Michele Bolzonella (autocarro in edilizia). *Responsabile: Studio Bognolo. Deadline: entro 48 ore.*
 
