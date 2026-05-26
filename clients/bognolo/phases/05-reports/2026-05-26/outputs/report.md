@@ -294,13 +294,66 @@ La landing `/iperammortamento-2026/` raccoglie 334 sessioni su 413 totali del si
 
 ---
 
-## 4. Sintesi Congiunta
+## 4. Landing Page — Google Analytics 4
 
-| Canale | Spesa | Sessioni landing | Lead / Contatti | CPL stimato |
+**Proprietà**: bognolo.it
+**Periodo**: 28 aprile – 25 maggio 2026
+**Report**: Pages and screens — Page title and screen class
+
+### 4.1 Pagine per visualizzazioni
+
+| Pagina | Views | Utenti attivi | Views/utente | Tempo medio coinvolgimento |
 |---|---|---|---|---|
-| Google Ads | €245,91 | 254 (da Google) | 5 click "Contattaci" (non tracciati) | n.d. |
-| Facebook Ads | **non disponibile** ⚠️ | 2 (form nativo) | 3 lead reali | n.d. |
-| **Totale** | **≥ €245,91** (parziale) | **~361 sessioni reali** | **3 lead + 5 micro-interazioni** | **n.d.** |
+| **Iperammortamento 2026** (landing campagna) | **480** | **159** | 3,02 | **97s** |
+| Homepage | 126 | 40 | 3,15 | 57s |
+| Perizie Tecniche | 25 | 12 | 2,08 | 65s |
+| Chi siamo | 23 | 11 | 2,09 | 46s |
+| Contatti | 12 | 9 | 1,33 | 31s |
+| Progettazione Meccanica | 10 | 8 | 1,25 | 39s |
+| Servizi per l'ufficio tecnico | 8 | 5 | 1,60 | 22s |
+| Form ammortamento 2026 | 3 | 1 | 3,00 | 0s |
+
+**Nota anomalia**: 1 sessione con titolo in cinese ("2026年超額折旧…") — probabile bot/spam, da filtrare.
+
+### 4.2 Analisi landing campagna
+
+La pagina **Iperammortamento 2026** domina con 480 views (65% del totale sito) e 159 utenti attivi.
+
+Dati rilevanti:
+- **Tempo medio di coinvolgimento: 97 secondi** — valore positivo per una landing B2B; gli utenti che restano leggono il contenuto
+- **Views per utente: 3,02** — ogni utente attivo visita la pagina in media 3 volte (possibile ricerca ripetuta o ritorno per compilare il form)
+- **Key events: 0** — conferma l'assenza di eventi di conversione configurati in GA4 (allineato con il gap Google Ads)
+- **Form ammortamento 2026**: 3 views / 1 utente attivo / 0s di coinvolgimento — l'utente ha raggiunto la pagina del form ma non l'ha compilato (o il tempo non è stato registrato)
+
+### 4.3 Navigazione post-landing
+
+Gli utenti che esplorano oltre la landing si dirigono verso:
+1. Perizie Tecniche (25 views) — interesse per il servizio core
+2. Chi siamo (23 views) — verifica credibilità dello studio
+3. Contatti (12 views) — intenzione di contatto diretta
+
+Questo percorso è coerente con un pubblico B2B che valuta il fornitore prima di compilare il form.
+
+### 4.4 Confronto Clarity vs GA4
+
+| Metrica | Clarity (11–26 mag) | GA4 (28 apr–25 mag) | Nota |
+|---|---|---|---|
+| Sessioni/Views landing | 334 sessioni | 480 views | Periodi diversi — non comparabili direttamente |
+| Tempo sulla pagina | 130s totale / 57s attivo | 97s coinvolgimento | GA4 conferma engagement reale |
+| Navigazione al form | 1 sessione | 3 views / 1 utente | Segnale debole ma consistente |
+
+---
+
+## 5. Sintesi Congiunta
+
+| Canale | Spesa | Sessioni/Views landing | Lead / Contatti | CPL stimato |
+|---|---|---|---|---|
+| Google Ads | €245,91 | 254 sessioni (Clarity) | 5 click "Contattaci" (non tracciati) | n.d. |
+| Facebook Ads | **non disponibile** ⚠️ | 2 (form nativo Meta) | 3 lead reali | n.d. |
+| Landing organica/diretta | — | ~107 sessioni (Clarity) | — | — |
+| **Totale** | **≥ €245,91** (parziale) | **480 views GA4 / ~361 sessioni reali Clarity** | **3 lead + 5 micro-interazioni** | **n.d.** |
+
+**Segnale positivo da GA4**: 97 secondi di coinvolgimento medio sulla landing — gli utenti leggono. Il problema non è il contenuto, ma la mancanza di conversione tracciata e probabilmente la posizione del form (scorrimento medio Clarity: 28,6%).
 
 ---
 
@@ -312,7 +365,9 @@ La landing `/iperammortamento-2026/` raccoglie 334 sessioni su 413 totali del si
 
 2. **Risolvere LCP e CLS della landing page** — LCP 5,4s e CLS 1,582 sono critici. Impattano Quality Score Google Ads, bounce rate e tasso di conversione del form. Priorità tecnica immediata. *Responsabile: sviluppatore sito. Deadline: entro 14 giorni.*
 
-3. **Recuperare metriche aggregate Facebook Ads** — Esportare da Meta Ads Manager: impression, reach, frequenza, spesa totale, CPL. *Responsabile: Elisa. Deadline: immediato.*
+3. **Configurare Key Events in GA4** — Nessun key event configurato su GA4: aggiungere almeno invio form e click su contatti. Permetterà di misurare il funnel completo e incrociare i dati con Google Ads. *Responsabile: team tecnico. Deadline: contestuale al punto 1.*
+
+4. **Recuperare metriche aggregate Facebook Ads** — Esportare da Meta Ads Manager: impression, reach, frequenza, spesa totale, CPL. *Responsabile: Elisa. Deadline: immediato.*
 
 4. **Contattare i 3 lead Facebook** — Priorità: Adriano Pegoraro (Mikiservice, fase "da ordinare"). Verificare ammissibilità Michele Bolzonella (autocarro in edilizia). *Responsabile: Studio Bognolo. Deadline: entro 48 ore.*
 
@@ -330,4 +385,4 @@ La landing `/iperammortamento-2026/` raccoglie 334 sessioni su 413 totali del si
 
 ---
 
-*Report generato il 2026-05-26. Dati Google Ads: 10–26 maggio 2026. Dati Facebook Ads: 13–25 maggio 2026. Dati Clarity: 11–26 maggio 2026.*
+*Report generato il 2026-05-26. Dati Google Ads: 10–26 maggio 2026. Dati Facebook Ads: 13–25 maggio 2026. Dati Clarity: 11–26 maggio 2026. Dati GA4: 28 aprile–25 maggio 2026.*
