@@ -138,7 +138,7 @@ Comportamento coerente con un pubblico B2B (imprenditori/responsabili acquisti).
 
 ### 2.1 Metriche aggregate
 
-> **⚠️ DATI MANCANTI**: Le metriche aggregate di Facebook Ads (impression, reach, frequenza, spesa, CPM, CPL) non sono disponibili in questa sessione — il file XLSX di export non era leggibile in formato testo. **Azione richiesta**: esportare le metriche aggregate dal pannello Meta Ads Manager e condividerle per completare il report.
+> **⚠️ DATI MANCANTI**: I due file XLSX presenti in inputs/facebook contengono un export con breakdown per età/genere su un periodo che include giorni pre-lancio (26 apr–25 mag) — i totali risultano 10 impression e €0,08 di spesa, dati non rappresentativi. **Azione richiesta**: esportare da Meta Ads Manager un report a livello campagna **senza breakdown**, periodo **11–26 maggio 2026**, con colonne: Impression, Copertura, Frequenza, Risultati (lead), Costo per risultato, Importo speso, CPM.
 
 ### 2.2 Lead raccolti
 
