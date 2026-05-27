@@ -164,24 +164,29 @@ Prima dell'acquisto di qualsiasi bene è necessario verificare:
 
 ---
 
-## Perché affidarsi a un referente tecnico prima dell'ordine
+## Come può aiutarti Studio Bognolo
 
-Molte imprese scoprono troppo tardi che:
-- il bene non ha i requisiti tecnici corretti
-- la documentazione del costruttore è incompleta o inadeguata
-- l'interconnessione non è realmente dimostrabile
-- fiscalista, fornitore e azienda parlano linguaggi diversi
+L'agevolazione esiste, i requisiti ci sono, la procedura è definita. Il problema vero è che tra il "vorrei accedere all'iperammortamento" e il "ho tutto in regola per farlo" c'è un lavoro tecnico che spesso nessuno coordina davvero.
 
-**Studio Bognolo non è un consulente fiscale né una società di finanza agevolata.** È il referente tecnico che verifica e coordina:
-- l'analisi tecnica del macchinario/bene/impianto
-- la verifica dei requisiti normativi
-- il dialogo con il fornitore del bene, del software/MES, con il team IT
-- la redazione dell'analisi tecnica e della perizia asseverata
-- le comunicazioni al GSE, se richiesto
+Il commercialista gestisce la parte fiscale. Il fornitore vende il macchinario. L'IT sistema i cavi. Ma chi verifica che il bene abbia davvero i requisiti tecnici richiesti? Chi parla con il costruttore per ottenere la documentazione giusta? Chi redige la perizia e sa cosa deve contenere per reggere un controllo? Chi si occupa delle comunicazioni al GSE nei tempi corretti?
 
-Il servizio si articola in due livelli:
-1. **Prima valutazione tecnica** — analisi preliminare dell'investimento, documenti disponibili e criticità
-2. **Supporto per pratica e perizia/attestazione** — gestione tecnica completa fino alla documentazione finale, con eventuale sopralluogo
+Questo è il lavoro di Studio Bognolo.
+
+Non siamo consulenti fiscali e non vendiamo pratiche di finanza agevolata. Siamo ingegneri industriali: il nostro ruolo è la parte tecnica dell'operazione, dalla verifica preliminare del bene fino alla perizia asseverata firmata.
+
+**Cosa facciamo concretamente:**
+
+- **Analisi iniziale** — valutiamo se il bene che stai per acquistare (o che hai già acquistato) può rientrare nell'agevolazione, e con quali condizioni. Meglio saperlo prima di firmare l'ordine.
+- **Verifica dei requisiti tecnici** — analizziamo le caratteristiche del macchinario, del software o dell'impianto rispetto a quello che la normativa richiede. Non basta che "sembri" un bene 4.0.
+- **Supporto al fornitore** — spesso il costruttore non sa esattamente cosa serve per la documentazione. Ci mettiamo in mezzo noi, per far sì che arrivi quello che serve, nel formato giusto.
+- **Interconnessione** — verifichiamo che il bene sia davvero collegato al sistema informativo aziendale nel modo richiesto, e che questo sia dimostrabile.
+- **Perizia tecnica asseverata** — la redigiamo e la firmiamo noi. È obbligatoria per tutti gli investimenti e deve essere precisa: sbagliare qui significa perdere l'agevolazione in sede di controllo.
+- **Comunicazioni al GSE** — se lo vuoi, gestiamo anche la procedura delle comunicazioni obbligatorie, rispettando le scadenze previste.
+
+**Come si inizia:**
+Il primo passo è una valutazione tecnica preliminare del tuo investimento. Ci racconti cosa stai acquistando (o hai già acquistato), in che stato è la documentazione e quali sono le tempistiche. Da lì capiamo insieme cosa fare e con quale urgenza.
+
+> Contattaci su [www.bognolo.it](https://www.bognolo.it)
 
 ---
 
