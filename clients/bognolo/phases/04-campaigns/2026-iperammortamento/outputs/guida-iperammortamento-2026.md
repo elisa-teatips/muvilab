@@ -5,6 +5,7 @@ period: 2026-iperammortamento
 status: draft
 owner: elisa
 last_updated: 2026-05-27
+revision: tono di voce revisionato — più divulgativo, meno normativo
 ---
 
 # Iperammortamento 2026: facciamo chiarezza tra obblighi, requisiti e opportunità
@@ -15,32 +16,33 @@ last_updated: 2026-05-27
 
 ## Cos'è l'Iperammortamento 2026
 
-L'Iperammortamento 2026-2028 è un'agevolazione fiscale introdotta dalla **Legge 30 dicembre 2025, n. 199** (Legge di Bilancio 2026), articolo 1, commi 427-436. Non è un credito d'imposta immediato: si traduce in una **maggiore deduzione fiscale** che produce risparmio d'imposta attraverso gli ammortamenti nel tempo.
+L'Iperammortamento 2026-2028 è un incentivo fiscale per le imprese che acquistano macchinari, impianti e software tecnologicamente avanzati. Vale per investimenti effettuati dal 1° gennaio 2026 al 30 settembre 2028 e si rivolge a tutte le imprese, qualunque sia il settore di attività.
 
-Il beneficio reale dipende da:
-- redditività fiscale dell'impresa
-- capienza d'imposta
-- aliquote applicabili
-- tempi di ammortamento del bene
-- conferma applicativa della misura
+**Come funziona in concreto?**
+Non è un rimborso e non è un bonus immediato in banca. Funziona così: quando un'azienda acquista un macchinario agevolabile da, diciamo, 100.000 €, può dedurre fiscalmente molto più di 100.000 € — fino a 280.000 € (con la maggiorazione del 180%) — distribuendo questa deduzione nel tempo, anno per anno, attraverso gli ammortamenti del bene.
 
-**A chi si rivolge:** tutte le imprese, indipendentemente dal settore ATECO.
+In parole semplici: **paghi meno tasse per diversi anni** grazie a quella macchina.
 
-**Periodo:** investimenti completati dal 1° gennaio 2026 al 30 settembre 2028.
+**Quanto vale davvero per la tua azienda?** Dipende principalmente da due cose: quanto l'azienda guadagna (e quindi quante tasse paga) e in quanti anni si ammortizza quel tipo di bene. Un commercialista può fare il calcolo preciso sul tuo caso. Il nostro compito è assicurarci che il bene — tecnicamente — abbia diritto all'agevolazione.
 
 ---
 
-## Le aliquote di maggiorazione
+## Quanto vale l'agevolazione
 
-Le soglie sono calcolate **annualmente** (non sull'intero triennio):
+La maggiorazione del costo di acquisto cambia in base all'importo investito ogni anno:
 
-| Investimento annuo | Maggiorazione del costo |
-|--------------------|------------------------|
-| Fino a 2,5 milioni € | **180%** |
-| Da 2,5 a 10 milioni € | **100%** |
-| Da 10 a 20 milioni € | **50%** |
+| Investimento annuo | Maggiorazione |
+|--------------------|--------------|
+| Fino a 2,5 milioni € | **+180%** del costo |
+| Da 2,5 a 10 milioni € | **+100%** del costo |
+| Da 10 a 20 milioni € | **+50%** del costo |
 
-**Esempio pratico:** se un bene ha un ammortamento su 5 anni (20% annuo) e viene interconnesso nel 2026, il beneficio inizia nella dichiarazione dei redditi 2027 (anno d'imposta 2026) con la prima quota al 10%, poi 20% per i successivi 4 anni, e 10% nell'ultimo anno.
+Le soglie valgono per ogni singolo anno, non per l'intero triennio 2026-2028. Questo è un punto importante: se investi 2 milioni nel 2026 e altri 2 milioni nel 2027, entrambi gli investimenti beneficiano della maggiorazione al 180%.
+
+**Esempio concreto.**
+Acquisti un centro di lavoro CNC a 200.000 €. Con la maggiorazione del 180%, ai fini fiscali lo puoi dedurre come se fosse costato 560.000 € (200.000 + 360.000 di maggiorazione). Se il tuo bene si ammortizza in 10 anni, ogni anno dedurrai 56.000 € invece di 20.000 €. Con un'aliquota IRES del 24%, questo significa circa 8.600 € di tasse in meno ogni anno per 10 anni — oltre 86.000 € totali su un acquisto da 200.000 €.
+
+Il risparmio non arriva tutto in una volta: si distribuisce negli anni di ammortamento del bene. Ecco perché il valore reale dell'incentivo si calcola insieme al commercialista, che conosce la situazione fiscale specifica dell'azienda.
 
 ---
 
@@ -70,111 +72,80 @@ Le soglie sono calcolate **annualmente** (non sull'intero triennio):
 
 ---
 
-## Quando è avvenuto l'investimento: la regola chiave
+## Ho già ordinato il macchinario nel 2025: posso ancora rientrare?
 
-Il momento rilevante è il **completamento** ai sensi dell'art. 109 del TUIR:
-- Per i **beni mobili**: data di consegna o spedizione
-- Per i **beni strumentali FER**: data di fine lavori
+Sì, molto probabilmente sì. La regola è semplice: **conta la data di consegna, non quella dell'ordine.**
 
-**Pratica importante:** le imprese che hanno effettuato ordini a fine 2025 possono accedere all'incentivo, purché la consegna sia avvenuta dopo il 1° gennaio 2026.
+Se hai firmato il contratto o mandato l'ordine nel 2025 ma il macchinario arriva in azienda nel 2026, puoi accedere all'iperammortamento. Per gli impianti FER (fotovoltaico e simili) conta invece la data di fine lavori.
 
-L'iperammortamento è incompatibile con il vecchio piano Transizione 4.0 2025, ma solo per gli investimenti per i quali si è effettivamente già fruito dell'incentivo.
+**Attenzione a una cosa:** se per quell'investimento avevi già attivato il vecchio incentivo Transizione 4.0 2025 e ne hai effettivamente beneficiato, non puoi usare anche il nuovo iperammortamento. Se invece avevi fatto domanda ma la pratica non era andata in porto, puoi optare per il nuovo incentivo.
 
----
-
-## La procedura: le 4 comunicazioni al GSE
-
-L'accesso al beneficio richiede obbligatoriamente una sequenza di comunicazioni attraverso la **piattaforma informatica del GSE** (operativa indicativamente da metà giugno 2026).
-
-### 1. Comunicazione ex-ante (avvio investimento)
-- Inviata prima o all'avvio degli investimenti
-- Riferita a uno o più beni di **un'unica struttura produttiva**
-- Contenuto: dati impresa, struttura produttiva, tipologia e ammontare degli investimenti, previsione data di interconnessione
-- Possibile inviare più comunicazioni ex-ante per la stessa struttura produttiva
-
-### 2. Comunicazione di conferma (entro 60 giorni dall'OK del GSE)
-- Il GSE notifica entro 10 giorni il corretto caricamento (o i dati da integrare entro altri 10 giorni)
-- Entro 60 giorni dall'esito positivo: inviare la conferma con **prova del pagamento del 20% del costo** di ciascun bene
-- In questa sede è possibile modificare l'elenco dei beni, ma solo in diminuzione
-- **Per il leasing:** il 20% si considera assolto con la stipula del contratto di locazione finanziaria e la sottoscrizione dell'ordine di acquisto
-
-### 3. Comunicazione periodica annuale
-- Da inviare ogni fine anno solare qualora l'investimento non sia ancora completato
-- Conferma la volontà di proseguire l'investimento
-- Scopo: monitoraggio MEF e "depennamento" di investimenti rinunciati
-
-### 4. Comunicazione di completamento (chiusura)
-- Da inviare al completamento dell'investimento e dell'interconnessione
-- Termine ultimo: **15 novembre 2028**
-- Può riguardare anche solo una parte dei beni della comunicazione ex-ante (fruizione progressiva)
-- Deve includere: **perizia tecnica asseverata** e **certificazione contabile**
-
-La fruizione del beneficio inizia a partire dall'**esercizio di completamento e interconnessione** del bene.
+In caso di dubbio, vale la pena verificare la situazione specifica prima di procedere.
 
 ---
 
-## La perizia tecnica asseverata: obbligatoria per tutti
+## Come si accede: le 4 comunicazioni obbligatorie
 
-A differenza del vecchio piano Industria 4.0 (soglia 300.000 €), il nuovo iperammortamento 2026-2028 **non prevede soglie minime**: la perizia è obbligatoria per qualsiasi importo di investimento, anche piccolo.
+Per ottenere il beneficio non basta acquistare il bene giusto: bisogna seguire una procedura precisa, inviando comunicazioni attraverso una piattaforma online gestita dal **GSE** (Gestore dei Servizi Energetici, l'ente pubblico che si occupa di verificare e monitorare questo tipo di incentivi). La piattaforma dovrebbe aprire indicativamente a metà giugno 2026.
 
-**Chi può rilasciarla:**
-- Ingegneri o periti industriali iscritti ai rispettivi albi professionali
-- Enti di certificazione accreditati
-- Per il settore agricolo anche: dottori agronomi/forestali, agrotecnici laureati, periti agrari laureati
+Le comunicazioni sono quattro e vanno fatte in sequenza:
 
-Tutti questi soggetti devono dotarsi di idonee coperture assicurative.
+### 1. Comunicazione di avvio — "Voglio investire"
+Prima di completare l'acquisto, dichiari al GSE cosa intendi comprare: tipo di bene, importo previsto, struttura produttiva a cui si riferisce e una previsione sulla data di interconnessione. Puoi farlo per uno o più beni insieme.
 
-**Cosa deve dimostrare la perizia:**
-1. Rispondenza del bene alle merceologie degli Allegati IV o V
-2. Avvenuta interconnessione del bene
-3. (Per beni FER) Soddisfacimento dei requisiti specifici per l'autoproduzione
+### 2. Comunicazione di conferma — "Ho messo i soldi"
+Entro 60 giorni dall'OK del GSE alla prima comunicazione, devi dimostrare di aver già pagato almeno il 20% del costo del bene. Questo è il modo con cui il sistema si assicura che l'investimento sia reale e non solo dichiarato.
 
-Oltre alla perizia è richiesta una **certificazione contabile** che attesti l'effettivo sostenimento delle spese ammissibili.
+Se hai acquistato in leasing, non serve versare il 20%: è sufficiente aver firmato il contratto di leasing con l'ordine al fornitore.
 
-> Nota: a differenza del piano Transizione 5.0, non è previsto alcun rimborso per le spese di certificazione.
+### 3. Comunicazione annuale — "Sto ancora andando avanti"
+Se l'investimento si prolunga oltre l'anno, ogni fine anno solare confermi che stai ancora portando avanti il progetto. Serve al Ministero per monitorare le risorse impegnate.
 
----
+### 4. Comunicazione di completamento — "Ho finito"
+Quando il bene è consegnato, installato e **interconnesso**, invii la comunicazione finale. Qui alleghi la perizia tecnica asseverata e la certificazione contabile. Da questo momento puoi iniziare a beneficiare della deduzione fiscale. Termine ultimo: 15 novembre 2028.
 
-## I software in modalità as-a-service (SaaS, PaaS, IaaS)
-
-Il decreto attuativo chiarisce un punto molto atteso: anche i **software acquistati a canone** (non come licenza perpetua capitalizzata) sono agevolabili.
-
-Il beneficio si calcola sui **canoni di competenza del singolo periodo d'imposta** rientrante nella vigenza della misura. Devono trattarsi di **nuovi software**, non rinnovi di contratti preesistenti.
+> Una cosa utile: non devi aspettare di aver completato tutti i beni previsti per chiudere la pratica. Puoi inviare comunicazioni di completamento progressive, bene per bene, man mano che sono pronti.
 
 ---
 
-## La struttura produttiva: definizione
+## La perizia tecnica asseverata: obbligatoria per tutti, senza eccezioni
 
-Tutte le comunicazioni sono riferite alla **struttura produttiva**, definita come:
+Con il vecchio Industria 4.0 la perizia era obbligatoria solo per beni sopra i 300.000 €. Per tutto il resto bastava un'autodichiarazione. **Con il nuovo iperammortamento 2026 la perizia è obbligatoria sempre**, qualunque sia il valore dell'investimento.
 
-> "sito costituito da una o più unità locali o stabilimenti insistenti sulla medesima particella catastale o su particelle contigue, finalizzato alla produzione di beni o all'erogazione di servizi, dotato di autonomia tecnico-funzionale e organizzativa."
+Cosa significa perizia asseverata? È una relazione tecnica firmata da un professionista abilitato — un ingegnere o un perito industriale iscritto all'albo — che certifica tre cose:
+1. Che il bene acquistato rientra davvero nelle categorie agevolabili (Allegato IV o V)
+2. Che il bene è stato correttamente interconnesso
+3. (Per fotovoltaico e FER) Che rispetta i requisiti tecnici specifici
 
-Gli investimenti in beni FER devono essere localizzati:
-- sulle medesime particelle catastali della struttura produttiva, oppure
-- su particelle diverse ma connesse alla rete tramite POD riconducibili alla medesima struttura produttiva, oppure
-- nella stessa zona di mercato elettrico della struttura produttiva
+Oltre alla perizia tecnica, serve anche una **certificazione contabile** che attesti che le spese sono state davvero sostenute e corrispondono ai documenti fiscali.
 
----
-
-## Decadenza dal beneficio
-
-L'impresa decade totalmente o parzialmente dal diritto se:
-- vende il bene agevolato durante il periodo di fruizione della maggiorazione
-- destina il bene a strutture produttive ubicate all'estero (anche dello stesso soggetto)
-
-**Salvaguardia:** la decadenza può essere evitata se nello stesso periodo d'imposta del realizzo si sostituisce il bene con un nuovo bene materiale strumentale di caratteristiche tecnologiche analoghe o superiori.
+Le spese per la perizia sono a carico dell'azienda: a differenza del precedente piano Transizione 5.0, non è previsto nessun rimborso.
 
 ---
 
-## Controlli e documenti da conservare
+## I software in abbonamento (SaaS) sono agevolabili?
 
-Il GSE effettua verifiche documentali e controlli tecnici. L'impresa deve conservare e rendere disponibile:
-- Perizie e attestazioni
-- Fatture, documenti di trasporto
-- Documentazione relativa all'acquisizione dei beni
-- Tutta la documentazione fornita tramite la piattaforma
+Sì. È uno dei chiarimenti più attesi del decreto attuativo: i software pagati a canone mensile o annuale — come un MES in cloud, un software di gestione della produzione o un sistema di monitoraggio in abbonamento — rientrano nell'agevolazione.
 
-In caso di indebita fruizione: il GSE comunica all'Agenzia delle Entrate per il recupero dell'importo maggiorato di interessi e sanzioni.
+Il beneficio si calcola sul canone pagato ogni anno, per la durata in cui la misura è attiva (2026-2028). Unica condizione: deve essere un software nuovo, non il rinnovo di un contratto che già avevi.
+
+---
+
+## La struttura produttiva: a cosa si riferisce
+
+Tutte le comunicazioni al GSE sono legate a una **struttura produttiva**: in pratica, il sito fisico dove si trovano i beni — la tua azienda, lo stabilimento, il capannone. Se hai più sedi, ogni sede è una struttura produttiva separata e va gestita con comunicazioni proprie.
+
+Per i beni FER (fotovoltaico, sistemi di accumulo), l'impianto deve essere fisicamente collegato alla struttura produttiva o comunque servire quella stessa azienda tramite la rete elettrica.
+
+---
+
+## Attenzione: quando si perde il beneficio
+
+Il beneficio può decadere se, durante gli anni in cui stai ancora deducendo, vendi il bene agevolato o lo sposti in una sede all'estero. In quel caso il risparmio fiscale già ottenuto va restituito, con interessi e sanzioni.
+
+C'è però una via d'uscita: se nello stesso anno in cui cedi il bene acquisti un sostituto con caratteristiche tecnologiche equivalenti o superiori, il beneficio si trasferisce sul nuovo bene e non decade.
+
+Anche qui: i controlli li fa il GSE, che in caso di irregolarità segnala tutto all'Agenzia delle Entrate.
 
 ---
 
@@ -182,14 +153,14 @@ In caso di indebita fruizione: il GSE comunica all'Agenzia delle Entrate per il 
 
 Prima dell'acquisto di qualsiasi bene è necessario verificare:
 
-| Aspetto | Descrizione |
-|---------|-------------|
-| **Requisiti del bene** | Il bene rientra negli Allegati IV o V? Con quali caratteristiche specifiche? |
-| **Interconnessione** | Il bene può essere realmente interconnesso? Come si dimostra? |
-| **Documentazione costruttore** | Il fornitore ha predisposto la documentazione tecnica necessaria? |
-| **Tempistiche** | Ordine, consegna, interconnessione: il timing è compatibile con la misura? |
-| **Perizia asseverata** | Chi la redige? Con quale tempistica? |
-| **Comunicazioni GSE** | Chi gestisce le comunicazioni e con quale iter? |
+| Aspetto | Cosa controllare |
+|---------|-----------------|
+| **Il bene è agevolabile?** | Rientra davvero nelle categorie previste dalla normativa? Con quali caratteristiche specifiche? Non basta che "sembri" un bene 4.0. |
+| **L'interconnessione è dimostrabile?** | Il macchinario può comunicare con il sistema informativo aziendale? Come si prova tecnicamente? |
+| **Il fornitore è pronto?** | Ha la documentazione tecnica in ordine? Sa cosa serve per la perizia? |
+| **Le tempistiche reggono?** | Ordine, consegna, installazione, interconnessione: tutto entro il 30 settembre 2028? |
+| **Chi fa la perizia?** | Serve un perito abilitato. Quando si inizia a organizzare? |
+| **Chi gestisce le comunicazioni al GSE?** | La procedura ha scadenze precise. Chi se ne occupa in azienda o chi coordina?  |
 
 ---
 
@@ -216,35 +187,35 @@ Il servizio si articola in due livelli:
 
 ## FAQ
 
-**1. Posso agevolare un macchinario già ordinato prima del 2026?**
-Sì, se la consegna è avvenuta dopo il 1° gennaio 2026. Il momento rilevante è la consegna, non l'ordine (art. 109 TUIR).
+**1. Ho già ordinato un macchinario a fine 2025. Posso ancora accedere all'agevolazione?**
+Sì, se il macchinario viene consegnato dopo il 1° gennaio 2026. Quello che conta è quando entra fisicamente in azienda (o la data di fine lavori, per gli impianti), non quando hai firmato l'ordine.
 
-**2. Che documenti devo chiedere al costruttore prima dell'acquisto?**
-È necessario verificare con anticipo che il fornitore sia in grado di fornire documentazione tecnica conforme ai requisiti degli Allegati IV/V. Meglio farlo prima di firmare l'ordine.
+**2. Che documenti devo chiedere al costruttore prima di acquistare?**
+Prima di firmare qualsiasi contratto, verifica che il fornitore sappia fornirti la documentazione tecnica necessaria per la perizia: caratteristiche del bene, modalità di interconnessione, dichiarazioni di conformità. Molti fornitori non sono preparati. Meglio scoprirlo prima dell'acquisto.
 
-**3. Un revamping può rientrare nell'agevolazione?**
-Dipende dal caso. Occorre verificare se l'intervento comporta una trasformazione sostanziale del bene e se il risultato rispetta i requisiti degli allegati. È uno dei casi in cui la verifica tecnica preventiva è essenziale.
+**3. Un revamping di un macchinario già in produzione può rientrare?**
+Dipende dall'entità dell'intervento e da cosa viene modificato. Non è automatico. Va analizzato caso per caso per capire se il risultato dell'intervento soddisfa i requisiti tecnici previsti. Questo è esattamente il tipo di verifica che facciamo.
 
 **4. Un impianto fotovoltaico può rientrare nell'agevolazione?**
-Sì, purché sia finalizzato all'autoproduzione e all'autoconsumo. Serve sempre una verifica tecnica e documentale del caso concreto. I pannelli devono essere presenti nel Registro ENEA.
+Sì, se produce energia destinata all'autoconsumo aziendale. Attenzione: i pannelli devono essere iscritti in un registro specifico (il Registro ENEA) — a oggi sono idonei praticamente solo i pannelli del produttore italiano 3SUN. Vale sempre una verifica puntuale prima di scegliere il fornitore.
 
-**5. Un sistema di accumulo (BESS) può rientrare da solo?**
-No: secondo la versione definitiva del decreto attuativo, i sistemi di stoccaggio sono agevolabili solo se abbinati all'acquisto di nuovi impianti di generazione FER.
+**5. Voglio aggiungere batterie di accumulo al mio impianto fotovoltaico già esistente. È agevolabile?**
+No, non da solo. Il decreto attuativo ha chiarito che i sistemi di accumulo (batterie) sono agevolabili solo se acquistati insieme a nuovi impianti di generazione (es. nuovi pannelli fotovoltaici). Se l'impianto è già installato e vuoi solo aggiungere le batterie, non rientri nell'agevolazione.
 
-**6. Cosa significa realmente interconnessione?**
-L'interconnessione è la condizione necessaria per fruire del beneficio. Il bene deve essere connesso al sistema informatico di fabbrica e/o alla rete internet aziendale, e deve essere dimostrabile tecnicamente. La perizia deve attestarla.
+**6. Cos'è l'interconnessione e come si dimostra?**
+L'interconnessione è il requisito tecnico che distingue un macchinario 4.0 da uno tradizionale: il bene deve essere collegato al sistema informativo dell'azienda e scambiare dati in modo bidirezionale. Non basta che "sia collegato alla rete": bisogna dimostrare cosa comunica, come e con quale sistema. La perizia deve attestarlo con precisione.
 
-**7. Chi verifica se il bene ha i requisiti tecnici?**
-Un ingegnere o perito industriale iscritto all'albo, oppure un ente di certificazione accreditato. Studio Bognolo supporta questa fase.
+**7. La perizia serve anche per investimenti piccoli, tipo 50.000 €?**
+Sì. Con il nuovo iperammortamento 2026 la perizia tecnica asseverata è obbligatoria per qualsiasi importo, senza eccezioni. Prima era prevista solo sopra i 300.000 €.
 
-**8. Serve sempre la perizia tecnica asseverata?**
-Sì, per qualsiasi importo di investimento. Non ci sono soglie minime nel nuovo iperammortamento 2026.
+**8. Chi firma la perizia?**
+Un ingegnere o un perito industriale iscritto al proprio albo professionale, oppure un ente di certificazione accreditato. Deve anche avere una copertura assicurativa adeguata.
 
-**9. Posso fare la verifica prima di firmare l'ordine?**
-È la cosa più consigliata. Intervenire prima dell'acquisto permette di evitare sorprese costose post-installazione.
+**9. Posso fare una verifica preventiva prima di firmare l'ordine?**
+Non solo puoi: è la cosa più sensata da fare. Scoprire un problema tecnico dopo l'installazione costa molto di più — in tempo, soldi e stress — che farlo prima. Una valutazione preliminare aiuta a capire se il bene è agevolabile, cosa manca e come impostare la documentazione fin dall'inizio.
 
-**10. Entro quando devo concludere l'investimento?**
-Il bene deve essere consegnato entro il 30 settembre 2028. La comunicazione di completamento al GSE può essere inviata fino al 15 novembre 2028.
+**10. Entro quando devo completare l'investimento?**
+Il bene deve essere consegnato e interconnesso entro il 30 settembre 2028. La comunicazione finale al GSE può essere inviata fino al 15 novembre 2028.
 
 ---
 
