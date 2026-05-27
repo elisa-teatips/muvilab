@@ -1,0 +1,601 @@
+24/04/26, 09:24
+
+menu
+
+Iperammortamento 2026: i sei nodi che il decreto attuativo deve sciogliere - Innovation Post
+
+MENU
+
+Attualità
+
+Iperammortamento 2026: i sei nodi che il decreto att
+
+Tecnologie
+
+Incentivi
+
+Ricerca e Innovazione
+
+Formazione e competenze
+
+Newsletter
+
+INCENTIVI
+
+Iperammortamento 2026: i sei
+nodi che il decreto attuativo
+deve sciogliere
+Home
+
+Attualità
+
+Incentivi
+
+La pubblicazione del prossimo decreto attuativo
+sull’iperammortamento 2026-2028 è l’occasione per fare
+chiarezza su alcuni punti sui quali la norma primaria ha
+lasciato qualche margine di incertezza: dal periodo di
+riferimento degli scaglioni, ai sistemi di stoccaggio
+dell’energia, dal software in cloud e in modalità as-a-service
+al leasing, fino alla portabilità degli investimenti 2025. In
+attesa del provvedimento primario che eliminerà il vincolo
+territoriale…
+Pubblicato il 16 feb 2026
+
+Chiedi all'AI
+https://www.innovationpost.it/attualita/incentivi/iperammortamento-2026-i-sei-nodi-che-il-decreto-attuativo-deve-sciogliere/
+
+1/17
+
+24/04/26, 09:24
+
+Iperammortamento 2026: i sei nodi che il decreto attuativo deve sciogliere - Innovation Post
+
+Marco Belardi
+Dir. Tec. B.U. Transizione 4.0/5.0 Polo Tecnologico Alto Adriatico | Lead Teacher presso
+il Sole 24 Ore
+
+Chiedi all'AI
+Riassumi questo articolo
+
+I
+
+Approfondisci con altre fonti
+
+l decreto attuativo dell’Iperammortamento 2026 – il provvedimento
+interministeriale previsto dal comma 433 dell’articolo 1 della legge 30
+
+dicembre 2025, n. 199 – resta il tassello mancante per la piena operatività
+della misura. Trasmesso dal MIMIT al MEF il 5 gennaio scorso, il testo è
+rimasto in sospeso a causa della sopraggiunta decisione politica di rivedere
+il vincolo territoriale «Made in UE/SEE», confermata dal viceministro Leo a
+Telefisco il 5 febbraio.
+
+https://www.innovationpost.it/attualita/incentivi/iperammortamento-2026-i-sei-nodi-che-il-decreto-attuativo-deve-sciogliere/
+
+2/17
+
+24/04/26, 09:24
+
+Iperammortamento 2026: i sei nodi che il decreto attuativo deve sciogliere - Innovation Post
+
+L’annuncio della rimozione integrale del requisito di origine europea dei beni
+agevolati ha di fatto imposto un ripensamento del decreto, il cui impianto
+certificativo – certificati di origine camerale, dichiarazioni sostitutive del
+produttore, attestazioni di sviluppo sostanziale per il software – era stato
+costruito interamente attorno alla verifica della provenienza territoriale. Con
+il venir meno di tale vincolo, il decreto dovrà essere riscritto nelle sue parti
+qualificanti.
+La riscrittura rappresenta, però, anche un’opportunità: quella di chiarire una
+serie di punti sospesi che l’attuale formulazione della norma primaria lascia
+aperti e che, in assenza di indicazioni esplicite, rischiano di generare
+incertezza applicativa per le imprese. Sono almeno sei i nodi che attendono
+una risposta.
+
+Indice degli argomenti
+
+arrow_drop_up
+
+1. Gli scaglioni di investimento: cumulo annuale o pluriennale?
+2. Impianti di stoccaggio: necessario il vincolo con l’autoproduzione?
+3. Software in modalità cloud: SaaS, PaaS, IaaS e CaaS
+4. Acquisizioni in leasing: la soglia del 20% e la comunicazione intermedia
+5. Investimenti avviati nel 2025: la portabilità è in discussione?
+6. Rimozione del vincolo UE: il falso problema dei componenti FER
+In attesa del decreto: le imprese fra certezze e incognite
+Riferimenti normativi
+
+1. Gli scaglioni di investimento: cumulo annuale o
+pluriennale?
+Il comma 427 individua tre fasce di maggiorazione del costo di acquisizione:
+180% per investimenti fino a 2,5 milioni di euro, 100% tra 2,5 e 10 milioni,
+50% tra 10 e 20 milioni. La formulazione della norma non specifica se tali
+soglie si computino su base annuale ovvero si riferiscano all’intero arco
+https://www.innovationpost.it/attualita/incentivi/iperammortamento-2026-i-sei-nodi-che-il-decreto-attuativo-deve-sciogliere/
+
+3/17
+
+24/04/26, 09:24
+
+Iperammortamento 2026: i sei nodi che il decreto attuativo deve sciogliere - Innovation Post
+
+temporale della misura, che copre il periodo dal 1° gennaio 2026 al 30
+settembre 2028.
+La differenza non è marginale. Un’impresa che realizzi investimenti per 5
+milioni di euro in ciascuno dei tre esercizi coperti dalla misura otterrebbe, in
+caso di cumulo annuale, la maggiorazione del 180% sui primi 2,5 milioni e
+del 100% sulla restante quota per ciascun anno. In caso di cumulo sull’intero
+periodo, la stessa impresa esaurirebbe la prima fascia con il primo
+investimento e vedrebbe compressa l’agevolazione sugli investimenti
+successivi.
+L’esperienza maturata con il precedente iperammortamento (legge
+232/2016) e con il credito d’imposta Transizione 4.0 non offre un precedente
+univoco. Il decreto attuativo ha l’occasione di chiarire definitivamente il
+criterio di computo, fornendo alle imprese un parametro certo per la
+pianificazione dei programmi di investimento pluriennali.
+
+2. Impianti di stoccaggio: necessario il vincolo con
+l’autoproduzione?
+Il comma 429, lettera b), include tra i beni agevolabili i «beni materiali nuovi
+strumentali all’esercizio d’impresa finalizzati all’autoproduzione di energia da
+fonti rinnovabili destinata all’autoconsumo […], compresi gli impianti per lo
+stoccaggio dell’energia prodotta». L’articolo 7, comma 1, lettera e) del
+decreto attuativo nella versione trasmessa al MEF riprende testualmente la
+disposizione, indicando tra le spese agevolabili «gli impianti per lo stoccaggio
+dell’energia prodotta».
+La questione interpretativa riguarda l’autonomia funzionale dello stoccaggio
+rispetto all’investimento in impianti di autoproduzione. In altri termini: un
+sistema BESS (Battery Energy Storage System) installato a servizio di un
+impianto fotovoltaico preesistente, cioè realizzato anteriormente e
+indipendentemente dalla misura, rientra nel perimetro agevolabile?
+https://www.innovationpost.it/attualita/incentivi/iperammortamento-2026-i-sei-nodi-che-il-decreto-attuativo-deve-sciogliere/
+
+4/17
+
+24/04/26, 09:24
+
+Iperammortamento 2026: i sei nodi che il decreto attuativo deve sciogliere - Innovation Post
+
+Il confronto con la disciplina della Transizione 5.0 è illuminante. La Circolare
+operativa del 16 agosto 2024, al paragrafo 3.3, stabiliva espressamente che il
+contributo per le spese di acquisto e installazione di sistemi di accumulo di
+energia elettrica – entro il limite di 900 €/kWh – fosse ammissibile «solo in
+presenza di impianti realizzati ex novo e non preesistenti». La Transizione
+5.0, dunque, escludeva in modo esplicito i sistemi di stoccaggio asserviti a
+impianti FER già esistenti.
+La formulazione del comma 429 della legge 199/2025, per converso, non
+contiene una clausola analoga. La norma si limita a riferirsi a «impianti per lo
+stoccaggio dell’energia prodotta», senza richiedere che l’impianto di
+autoproduzione a cui lo stoccaggio è asservito sia realizzato
+contestualmente o nell’ambito del medesimo progetto di investimento.
+Questa differenza testuale potrebbe non essere casuale e potrebbe
+riflettere una scelta del legislatore di ampliare il perimetro rispetto alla
+disciplina precedente.
+Resta il fatto che la lettera della norma colloca lo stoccaggio all’interno della
+medesima disposizione che disciplina l’autoproduzione, quale componente
+accessoria dell’investimento FER. L’ambiguità è oggettiva. Il decreto attuativo
+ha l’occasione – e, si potrebbe dire, l’onere – di chiarire se l’agevolabilità dei
+BESS sia condizionata alla contestuale realizzazione di un nuovo impianto di
+autoproduzione, oppure se l’installazione di un sistema di accumulo a
+servizio di un impianto preesistente rientri nel perimetro della misura. La
+risposta incide su un segmento di investimento particolarmente rilevante
+per le imprese manifatturiere che hanno già avviato il proprio percorso di
+transizione energetica.
+
+3. Software in modalità cloud: SaaS, PaaS, IaaS e CaaS
+L’Allegato V alla legge 199/2025 elenca i beni immateriali agevolabili.
+Molteplici voci fanno esplicito riferimento a «soluzioni innovative con
+https://www.innovationpost.it/attualita/incentivi/iperammortamento-2026-i-sei-nodi-che-il-decreto-attuativo-deve-sciogliere/
+
+5/17
+
+24/04/26, 09:24
+
+Iperammortamento 2026: i sei nodi che il decreto attuativo deve sciogliere - Innovation Post
+
+caratteristiche riconducibili ai paradigmi dell’IoT e/o del cloud computing», a
+capacità computazionali «su cloud e su dispositivi edge», nonché a
+«soluzioni cloud». L’Allegato stesso, dunque, non solo contempla ma
+presuppone l’esistenza di soluzioni erogate in modalità cloud.
+Il nodo irrisolto riguarda le modalità di fruizione dell’agevolazione quando il
+software non viene acquisito in licenza perpetua bensì utilizzato attraverso
+canoni periodici nelle diverse declinazioni del modello cloud: SaaS (Software
+
+as a Service), PaaS (Platform as a Service), IaaS (Infrastructure as a Service),
+CaaS (Container as a Service).
+La questione è strutturale. Il meccanismo dell’iperammortamento opera
+come maggiorazione del costo di acquisizione ai fini della determinazione
+delle quote di ammortamento: presuppone, quindi, un bene capitalizzato e
+iscritto tra le immobilizzazioni. I canoni di abbonamento cloud, per contro,
+sono tipicamente costi di esercizio non soggetti ad ammortamento. Il
+decreto attuativo dovrà necessariamente chiarire se e con quali modalità i
+software erogati in modalità as-a-service rientrino nel perimetro agevolabile,
+eventualmente ammettendo la maggiorazione anche sui canoni di
+abbonamento periodici.
+Il punto è decisivo per la coerenza della misura con l’evoluzione tecnologica.
+Escludere le soluzioni cloud dall’agevolazione significherebbe penalizzare il
+modello di approvvigionamento software oggi prevalente nel tessuto
+produttivo, contraddicendo la stessa impostazione dell’Allegato V che tali
+soluzioni espressamente richiama.
+
+4. Acquisizioni in leasing: la soglia del 20% e la
+comunicazione intermedia
+La bozza di decreto attuativo trasmessa al MEF prevede, all’articolo 3,
+comma 2, un meccanismo di comunicazione intermedia: entro sessanta
+giorni dalla notifica dell’esito positivo da parte del GSE, l’impresa deve
+https://www.innovationpost.it/attualita/incentivi/iperammortamento-2026-i-sei-nodi-che-il-decreto-attuativo-deve-sciogliere/
+
+6/17
+
+24/04/26, 09:24
+
+Iperammortamento 2026: i sei nodi che il decreto attuativo deve sciogliere - Innovation Post
+
+trasmettere una comunicazione di conferma dell’investimento, con
+l’indicazione della data e dell’importo del pagamento relativo all’ultima quota
+dell’acconto per il raggiungimento del 20% del costo di acquisizione.
+Questa previsione rischia di creare una criticità significativa per le
+acquisizioni effettuate mediante locazione finanziaria. Nei contratti di
+leasing, infatti, i canoni iniziali difficilmente raggiungono un importo pari al
+20% del costo di acquisizione del bene entro un termine così ristretto. A
+differenza delle precedenti misure agevolative – dove la soglia del 20% era
+funzionale alla prenotazione delle risorse e al prolungamento del termine di
+completamento dell’investimento oltre la scadenza ordinaria –
+l’Iperammortamento 2026 non prevede un meccanismo analogo di
+estensione temporale. Ne consegue che l’obbligo di documentare il
+versamento del 20% entro sessanta giorni non trova, nel contesto della
+nuova misura, la medesima giustificazione sistematica.
+Un precedente utile è rappresentato dal Decreto Direttoriale del 15 maggio
+2025 (c.d. «Decreto Comunicazioni»), adottato in materia di credito
+d’imposta per beni strumentali. L’articolo 2, comma 3, di quel
+provvedimento ha introdotto una previsione specifica per il leasing: «per i
+beni oggetto di leasing finanziario il pagamento di quote per il
+raggiungimento del 20 per cento del costo di acquisizione si considera
+soddisfatto con la stipula del contratto di leasing e l’impegno assunto con il
+fornitore dalla società di leasing con la sottoscrizione dell’ordine di
+acquisto».
+L’inserimento di una clausola analoga nel decreto attuativo
+dell’Iperammortamento 2026 sarebbe non solo auspicabile ma necessario.
+Senza un’equiparazione tra pagamento dell’acconto e stipula del contratto di
+leasing, le imprese che ricorrono alla locazione finanziaria – modalità di
+acquisizione ampiamente diffusa per i beni strumentali di elevato valore – si
+troverebbero in una posizione di oggettivo svantaggio procedurale, con il
+https://www.innovationpost.it/attualita/incentivi/iperammortamento-2026-i-sei-nodi-che-il-decreto-attuativo-deve-sciogliere/
+
+7/17
+
+24/04/26, 09:24
+
+Iperammortamento 2026: i sei nodi che il decreto attuativo deve sciogliere - Innovation Post
+
+rischio concreto di non riuscire a perfezionare la comunicazione intermedia
+nei termini previsti e di vedersi precluso l’accesso al beneficio per un
+impedimento meramente formale.
+
+5. Investimenti avviati nel 2025: la portabilità è in
+discussione?
+Il comma 427 stabilisce che la maggiorazione si applica agli investimenti
+«effettuati dal 1° gennaio 2026 al 30 settembre 2028». Il concetto di
+«effettuazione», ai fini delle imposte sui redditi, si determina secondo le
+regole dell’articolo 109 del TUIR: per i beni mobili, rileva la data di consegna
+o spedizione. Lo stesso decreto attuativo (non ancora pubblicato e
+certamente soggetto a modifiche), all’articolo 1, lettera l), definisce il
+«completamento degli investimenti» rinviando espressamente ai commi 1 e
+2 dell’articolo 109 del TUIR.
+Ne consegue, nella formulazione vigente, che un’impresa la quale nel 2025
+abbia assunto un impegno giuridicamente vincolante (un ordine
+confermato, un contratto sottoscritto) per un macchinario 4.0 e lo riceva nel
+2026 rientra naturalmente nel perimetro temporale della norma.
+L’investimento risulta avviato nel 2025 ma effettuato nel 2026: la distinzione
+terminologica è giuridicamente rilevante e la norma, su questo punto, è
+chiara.
+Tuttavia, nell’ambito della revisione normativa in corso – resa necessaria
+dalla rimozione del vincolo territoriale – potrebbe emergere l’intenzione di
+restringere il perimetro di ammissibilità, escludendo gli investimenti il cui
+primo impegno giuridicamente vincolante sia stato assunto prima
+dell’entrata in vigore della legge 199/2025 (1° gennaio 2026). L’opzione di
+chiudere l’accesso per gli investimenti avviati nel 2025 è, secondo le
+indiscrezioni circolate, quella al momento più probabile.
+
+https://www.innovationpost.it/attualita/incentivi/iperammortamento-2026-i-sei-nodi-che-il-decreto-attuativo-deve-sciogliere/
+
+8/17
+
+24/04/26, 09:24
+
+Iperammortamento 2026: i sei nodi che il decreto attuativo deve sciogliere - Innovation Post
+
+Una simile restrizione richiederebbe una modifica della norma primaria, non
+essendo in teoria sufficiente un intervento di rango regolamentare, anche se
+esiste un precedente in tal senso con la normativa del “vecchio” piano
+Transizione 5.0, allorquando fu proprio il decreto interministeriale a
+introdurre il concetto di investimento “avviato” nel 2024.
+
+6. Rimozione del vincolo UE: il falso problema dei
+componenti FER
+La rimozione del vincolo «Made in UE/SEE», ormai politicamente acquisita,
+ha generato un dibattito collaterale: il requisito territoriale permarrebbe
+comunque per le componenti degli impianti FER, in forza del Regolamento
+(UE) 2024/1735 del 13 giugno 2024 (c.d. Net Zero Industry Act, NZIA).
+La tesi, circolata in ambienti professionali, merita un’analisi puntuale. Il
+Regolamento 2024/1735 istituisce un quadro per rafforzare l’ecosistema
+europeo di produzione delle tecnologie a zero emissioni nette. La norma che
+viene invocata a sostegno della permanenza del vincolo territoriale è
+l’articolo 28 («Altre forme di intervento pubblico»), il quale prevede che,
+quando gli Stati membri istituiscono o aggiornano regimi a favore delle
+famiglie, delle imprese o dei consumatori che incentivano l’acquisto di
+prodotti finali delle tecnologie a zero emissioni nette, tali regimi siano
+concepiti in modo da promuovere l’acquisto di prodotti che forniscano un
+elevato contributo alla sostenibilità e alla resilienza. Il paragrafo 4 dello
+stesso articolo considera, ai fini della resilienza, la percentuale di tecnologie
+o dei loro componenti originari di un paese terzo che rappresenti oltre il
+50% dell’approvvigionamento UE, determinando l’origine in conformità al
+Regolamento (UE) n. 952/2013 (Codice doganale dell’Unione).
+L’articolo 28 è, tra le disposizioni del NZIA, quella più prossima al perimetro
+dell’iperammortamento, poiché si riferisce a regimi di incentivo alle imprese
+e non soltanto ad appalti pubblici o aste FER (disciplinati dagli articoli 25 e
+https://www.innovationpost.it/attualita/incentivi/iperammortamento-2026-i-sei-nodi-che-il-decreto-attuativo-deve-sciogliere/
+
+9/17
+
+24/04/26, 09:24
+
+Iperammortamento 2026: i sei nodi che il decreto attuativo deve sciogliere - Innovation Post
+
+26). Tuttavia, anche questa norma opera su un piano diverso. L’articolo 28 si
+rivolge ai regimi amministrati da autorità pubbliche che prevedono
+compensazioni finanziarie supplementari o condizioni di ammissibilità legate
+alla resilienza, non ai meccanismi fiscali automatici come la maggiorazione
+del costo di acquisizione. L’iperammortamento 2026 non è un regime che
+«incentiva l’acquisto di prodotti finali delle tecnologie a zero emissioni
+nette»: è un’agevolazione fiscale che incentiva l’acquisto di beni strumentali
+4.0 (Allegato IV e V), rispetto ai quali la componente FER rappresenta un
+investimento accessorio e complementare ai sensi del comma 429, lettera
+b).
+Vi è poi un argomento pratico dirimente. Per i moduli fotovoltaici, il
+legislatore italiano ha istituito un Registro pubblico gestito da ENEA, nel
+quale sono iscritti i moduli conformi alle lettere b) e c) dell’articolo 12,
+comma 1, del decreto-legge 181/2023. Il rinvio a tale registro è esplicito sia
+nel comma 429 della legge 199/2025, sia nell’articolo 7 del decreto attuativo.
+Esiste dunque, per i pannelli fotovoltaici, uno strumento verificabile e
+accessibile che consente la discriminazione sulla base dell’origine.
+Per tutti gli altri componenti degli impianti FER – inverter, sistemi di
+accumulo (BESS), strutture di montaggio, sistemi di monitoraggio – nulla di
+analogo è stato predisposto. Non esiste un elenco pubblico, non è stata
+istituita una procedura di censimento, non sono stati definiti criteri di
+verifica. In assenza di una lista accessibile e di un meccanismo operativo di
+controllo, qualsiasi discriminazione basata sull’origine dei componenti FER
+diversi dai moduli fotovoltaici risulterebbe priva di base giuridica e di
+strumenti attuativi. La tesi secondo cui il vincolo UE permarrebbe per le
+componenti FER in forza del Regolamento 2024/1735 appare, pertanto, non
+pertinente al contesto dell’iperammortamento 2026.
+
+In attesa del decreto: le imprese fra certezze e incognite
+https://www.innovationpost.it/attualita/incentivi/iperammortamento-2026-i-sei-nodi-che-il-decreto-attuativo-deve-sciogliere/
+
+10/17
+
+24/04/26, 09:24
+
+Iperammortamento 2026: i sei nodi che il decreto attuativo deve sciogliere - Innovation Post
+
+Il quadro che emerge dall’analisi evidenzia una misura il cui impianto
+normativo primario è sostanzialmente definito, ma che necessita di un
+decreto attuativo all’altezza della complessità applicativa. I cinque punti
+esaminati non sono marginali: incidono sulla pianificazione degli
+investimenti, sulla scelta delle tecnologie, sulla struttura dei contratti di
+fornitura e sulla quantificazione del beneficio atteso.
+La riscrittura del decreto, resa necessaria dalla rimozione del vincolo
+territoriale, offre al MIMIT e al MEF l’occasione per produrre un testo
+organico e completo. L’auspicio è che il provvedimento non si limiti a
+disciplinare gli aspetti procedurali (comunicazioni, piattaforma GSE,
+certificazioni), ma intervenga sui profili interpretativi che condizionano
+concretamente le decisioni di investimento delle imprese.
+In assenza del decreto, le imprese operano in un contesto di incertezza che
+penalizza soprattutto gli investimenti di maggiore complessità e dimensione.
+Ogni settimana di ritardo nella pubblicazione del provvedimento è una
+settimana in cui l’ammodernamento tecnologico del tessuto produttivo
+viene frenato non dalla mancanza di risorse o di volontà imprenditoriale, ma
+dall’assenza di un quadro regolamentare chiaro.
+
+Riferimenti normativi
+– L. 30 dicembre 2025, n. 199 – art. 1, commi 427-436 (Iperammortamento
+2026)
+– D.P.R. 22 dicembre 1986, n. 917 (TUIR) – art. 109, commi 1 e 2
+– Regolamento (UE) 2024/1735 – Net Zero Industry Act, artt. 25-26
+– Regolamento (UE) n. 952/2013 – Codice doganale dell’Unione, art. 60
+– D.L. 9 dicembre 2023, n. 181 – art. 12, comma 1, lett. b) e c) (Registro
+Moduli Fotovoltaici ENEA)
+https://www.innovationpost.it/attualita/incentivi/iperammortamento-2026-i-sei-nodi-che-il-decreto-attuativo-deve-sciogliere/
+
+11/17
+
+24/04/26, 09:24
+
+Iperammortamento 2026: i sei nodi che il decreto attuativo deve sciogliere - Innovation Post
+
+– Decreto Direttoriale MIMIT 15 maggio 2025 – c.d. «Decreto
+Comunicazioni», art. 2, comma 3 (leasing)
+@RIPRODUZIONE RISERVATA
+
+Valuta la qualità di questo articolo
+
+B
+
+Marco Belardi
+Dir. Tec. B.U. Transizione 4.0/5.0 Polo Tecnologico Alto Adriatico |
+Lead Teacher presso il Sole 24 Ore
+EGE Esperto in Gestione dell’Energia certificato UNI CEI 11339
+
+Seguimi su
+
+Leggi anche:
+
+Iperammortamento e Transizione 5.0 2026, ecco gli
+emendamenti ancora in pista
+Iperammortamento per industria 4.0 2026 – 2028, il testo
+definitivo spiegato comma per comma
+Transizione 5.0, ecco il decreto con la norma che porta al 90% il
+credito per gli esodati
+Il nuovo decreto attuativo per l’Iperammortamento 2026: tutte le
+regole per fruire dell’incentivo
+
+WHITE PAPER
+
+WHITE PAPER
+
+AI Act: cosa cambia per le imprese
+con l’entrata in vigore dei divieti e
+degli obblighi formativi
+
+AI Officer: il ruolo chiave per
+governare l’intelligenza artificiale in
+azienda
+
+https://www.innovationpost.it/attualita/incentivi/iperammortamento-2026-i-sei-nodi-che-il-decreto-attuativo-deve-sciogliere/
+
+12/17
+
+24/04/26, 09:24
+
+Iperammortamento 2026: i sei nodi che il decreto attuativo deve sciogliere - Innovation Post
+
+17 Dic 2025
+
+30 Lug 2025
+
+Scaricalo gratis!
+
+DOWNLOAD
+
+Scaricalo gratis!
+
+DOWNLOAD
+
+Argomenti
+
+I
+
+incentivi
+
+I
+
+iper ammortamento
+
+I
+
+Incentivi
+
+M
+
+mimit
+
+Canali
+
+A
+
+Attualità
+
+O
+
+Opinioni
+
+ROBOTICA
+Un umanoide per l’intralogistica di Siemens: HMND 01 Alpha supera i
+test nella fabbrica di Erlangen
+17 Apr 2026
+
+Angelini Technologies punta sulla robotica di Lab0 per il carico e
+scarico delle merci
+13 Apr 2026
+
+Robotica umanoide: Schaeffler avvia una cooperazione con Leju
+Robotics in Cina
+10 Apr 2026
+
+Automazione, la corsa dell’Europa: nel manifatturiero 267 robot ogni
+10.000 addetti, Italia nella top 20
+08 Apr 2026
+https://www.innovationpost.it/attualita/incentivi/iperammortamento-2026-i-sei-nodi-che-il-decreto-attuativo-deve-sciogliere/
+
+13/17
+
+24/04/26, 09:24
+
+Iperammortamento 2026: i sei nodi che il decreto attuativo deve sciogliere - Innovation Post
+
+GEN-1, il modello di Physical AI che rende i robot intelligenti e affidabili
+(al 99%)
+08 Apr 2026
+
+Vedi tutti gli approfondimenti >
+
+Articoli correlati
+
+LEGGE DI BILANCIO
+
+Iperammortamento e Transizione 5.0 2026, ecco gli emendamenti ancora in
+pista
+30 Nov 2025
+
+di Franco Canna
+Condividi
+
+https://www.innovationpost.it/attualita/incentivi/iperammortamento-2026-i-sei-nodi-che-il-decreto-attuativo-deve-sciogliere/
+
+
+
+14/17
+
+24/04/26, 09:24
+
+Iperammortamento 2026: i sei nodi che il decreto attuativo deve sciogliere - Innovation Post
+
+INCENTIVI
+
+Transizione 5.0, ecco il decreto con la norma che porta al 90% il credito per gli
+esodati
+03 Apr 2026
+
+di Franco Canna
+Condividi
+
+https://www.innovationpost.it/attualita/incentivi/iperammortamento-2026-i-sei-nodi-che-il-decreto-attuativo-deve-sciogliere/
+
+
+
+15/17
+
+24/04/26, 09:24
+
+Iperammortamento 2026: i sei nodi che il decreto attuativo deve sciogliere - Innovation Post
+
+INCENTIVI
+
+Il nuovo decreto attuativo per l'Iperammortamento 2026: tutte le regole per
+fruire dell'incentivo
+11 Apr 2026
+
+di Franco Canna
+
+WHITE PAPER
+AI Officer: il ruolo chiave per governare l’intelligenza artificiale in azienda
+30 Lug 2025
+
+https://www.innovationpost.it/attualita/incentivi/iperammortamento-2026-i-sei-nodi-che-il-decreto-attuativo-deve-sciogliere/
+
+16/17
+
+24/04/26, 09:24
+
+Iperammortamento 2026: i sei nodi che il decreto attuativo deve sciogliere - Innovation Post
+
+Scaricalo gratis!
+
+https://www.innovationpost.it/attualita/incentivi/iperammortamento-2026-i-sei-nodi-che-il-decreto-attuativo-deve-sciogliere/
+
+DOWNLOAD
+
+17/17
+
+
