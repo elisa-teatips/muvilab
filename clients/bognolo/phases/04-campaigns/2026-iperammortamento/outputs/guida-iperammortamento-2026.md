@@ -12,20 +12,18 @@ revision: tono di voce revisionato — più divulgativo, meno normativo
 
 > Guida tecnica per le imprese — Studio Marco Bognolo, Ingegneria Industriale
 
----
 
 ## Cos'è l'Iperammortamento 2026
 
 L'Iperammortamento 2026-2028 è un incentivo fiscale per le imprese che acquistano macchinari, impianti e software tecnologicamente avanzati. Vale per investimenti effettuati dal 1° gennaio 2026 al 30 settembre 2028 e si rivolge a tutte le imprese, qualunque sia il settore di attività.
 
 **Come funziona in concreto?**
-Non è un rimborso e non è un bonus immediato in banca. Funziona così: quando un'azienda acquista un macchinario agevolabile da, diciamo, 100.000 €, può dedurre fiscalmente molto più di 100.000 € — fino a 280.000 € (con la maggiorazione del 180%) — distribuendo questa deduzione nel tempo, anno per anno, attraverso gli ammortamenti del bene.
+Non è un rimborso e non è un bonus immediato in banca. Funziona così: quando un'azienda acquista un macchinario agevolabile da, diciamo, 100.000 €, può dedurre fiscalmente molto più di 100.000 €: fino a 280.000 € (con la maggiorazione del 180%) distribuendo questa deduzione nel tempo, anno per anno, attraverso gli ammortamenti del bene.
 
 In parole semplici: **paghi meno tasse per diversi anni** grazie a quella macchina.
 
-**Quanto vale davvero per la tua azienda?** Dipende principalmente da due cose: quanto l'azienda guadagna (e quindi quante tasse paga) e in quanti anni si ammortizza quel tipo di bene. Un commercialista può fare il calcolo preciso sul tuo caso. Il nostro compito è assicurarci che il bene — tecnicamente — abbia diritto all'agevolazione.
+**Quanto vale davvero per la tua azienda?** Dipende principalmente da due cose: quanto l'azienda guadagna (e quindi quante tasse paga) e in quanti anni si ammortizza quel tipo di bene. Un commercialista può fare il calcolo preciso sul tuo caso. Il nostro compito è assicurarci che il bene, tecnicamente, abbia diritto all'agevolazione.
 
----
 
 ## Quanto vale l'agevolazione
 
@@ -40,7 +38,7 @@ La maggiorazione del costo di acquisto cambia in base all'importo investito ogni
 Le soglie valgono per ogni singolo anno, non per l'intero triennio 2026-2028. Questo è un punto importante: se investi 2 milioni nel 2026 e altri 2 milioni nel 2027, entrambi gli investimenti beneficiano della maggiorazione al 180%.
 
 **Esempio concreto.**
-Acquisti un centro di lavoro CNC a 200.000 €. Con la maggiorazione del 180%, ai fini fiscali lo puoi dedurre come se fosse costato 560.000 € (200.000 + 360.000 di maggiorazione). Se il tuo bene si ammortizza in 10 anni, ogni anno dedurrai 56.000 € invece di 20.000 €. Con un'aliquota IRES del 24%, questo significa circa 8.600 € di tasse in meno ogni anno per 10 anni — oltre 86.000 € totali su un acquisto da 200.000 €.
+Acquisti un macchinario da 200.000 €. Con la maggiorazione del 180%, ai fini fiscali lo puoi dedurre come se fosse costato 560.000 € (200.000 + 360.000 di maggiorazione). Se quel bene si ammortizza in 10 anni, ogni anno dedurrai 56.000 € invece di 20.000 €. Con un'aliquota IRES del 24%, questo significa circa 8.600 € di tasse in meno ogni anno per 10 anni — oltre 86.000 € totali su un acquisto da 200.000 €.
 
 Il risparmio non arriva tutto in una volta: si distribuisce negli anni di ammortamento del bene. Ecco perché il valore reale dell'incentivo si calcola insieme al commercialista, che conosce la situazione fiscale specifica dell'azienda.
 
