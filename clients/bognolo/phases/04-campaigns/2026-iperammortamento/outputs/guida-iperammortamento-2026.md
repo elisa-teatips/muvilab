@@ -27,20 +27,22 @@ In parole semplici: **paghi meno tasse per diversi anni** grazie a quella macchi
 
 ## Quanto vale l'agevolazione
 
-La maggiorazione del costo di acquisto cambia in base all'importo investito ogni anno:
+Lo Stato ti permette di scaricare fiscalmente molto più di quello che hai speso. In pratica: hai comprato un macchinario da 100.000 €, ma ai fini delle tasse puoi comportarti come se ne avessi spesi 280.000 €. Quella differenza in più — che non hai davvero pagato — la scarichi anno per anno e riduce il tuo imponibile, quindi le tasse che paghi.
 
-| Investimento annuo | Maggiorazione |
-|--------------------|--------------|
-| Fino a 2,5 milioni € | **+180%** del costo |
-| Da 2,5 a 10 milioni € | **+100%** del costo |
-| Da 10 a 20 milioni € | **+50%** del costo |
+Quanto in più puoi scaricare dipende da quanto hai investito in quell'anno:
 
-Le soglie valgono per ogni singolo anno, non per l'intero triennio 2026-2028. Questo è un punto importante: se investi 2 milioni nel 2026 e altri 2 milioni nel 2027, entrambi gli investimenti beneficiano della maggiorazione al 180%.
+| Investimento annuo | Quanto puoi scaricare in più |
+|--------------------|------------------------------|
+| Fino a 2,5 milioni € | **il 180% in più** del costo reale |
+| Da 2,5 a 10 milioni € | **il 100% in più** del costo reale |
+| Da 10 a 20 milioni € | **il 50% in più** del costo reale |
+
+Le soglie valgono per ogni singolo anno, non per l'intero triennio 2026-2028. Questo è un punto importante: se investi 2 milioni nel 2026 e altri 2 milioni nel 2027, entrambi gli investimenti beneficiano della fascia più alta (180%).
 
 **Esempio concreto.**
-Acquisti un macchinario da 200.000 €. Con la maggiorazione del 180%, ai fini fiscali lo puoi dedurre come se fosse costato 560.000 € (200.000 + 360.000 di maggiorazione). Se quel bene si ammortizza in 10 anni, ogni anno dedurrai 56.000 € invece di 20.000 €. Con un'aliquota IRES del 24%, questo significa circa 8.600 € di tasse in meno ogni anno per 10 anni — oltre 86.000 € totali su un acquisto da 200.000 €.
+Acquisti un macchinario da 200.000 €. Lo Stato ti permette di scaricare il 180% in più: quindi puoi dedurre 360.000 € aggiuntivi, come se il bene fosse costato in tutto 560.000 €. Se quel bene si ammortizza in 10 anni, ogni anno sottrai dalle tasse 56.000 € invece di 20.000 €. Con un'aliquota IRES del 24%, questo fa circa 8.600 € di tasse in meno ogni anno per 10 anni — oltre 86.000 € totali risparmiati su un acquisto da 200.000 €.
 
-Il risparmio non arriva tutto in una volta: si distribuisce negli anni di ammortamento del bene. Ecco perché il valore reale dell'incentivo si calcola insieme al commercialista, che conosce la situazione fiscale specifica dell'azienda.
+Il risparmio non arriva tutto in una volta: si distribuisce negli anni di vita fiscale del bene. Il calcolo preciso sul tuo caso lo fa il commercialista, che conosce la situazione fiscale dell'azienda. Il nostro compito è assicurarci che il bene — tecnicamente — abbia diritto a questo vantaggio.
 
 ---
 
