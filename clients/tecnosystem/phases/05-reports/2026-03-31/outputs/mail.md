@@ -2,9 +2,11 @@
 client: tecnosystem
 phase: 05-reports
 period: 2026-03-31
-status: in-review
+status: approved
 owner: elisa
-last_updated: 2026-05-25
+last_updated: 2026-05-28
+approved_via: silenzio-assenso + presentazione riunione 28/05/2026
+approved_date: 2026-06-01
 ---
 
 # Touch-point: 05-reports — 2026-03-31

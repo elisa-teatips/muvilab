@@ -2,9 +2,11 @@
 client: tecnosystem
 phase: 03-ped
 period: 2026-04
-status: in-review
+status: approved
 owner: elisa
-last_updated: 2026-05-25
+last_updated: 2026-05-28
+approved_via: silenzio-assenso
+approved_date: 2026-06-01
 ---
 
 # Touch-point: 03-ped — 2026-04

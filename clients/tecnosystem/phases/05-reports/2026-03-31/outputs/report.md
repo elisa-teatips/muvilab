@@ -4,7 +4,7 @@ phase: 05-reports
 period: 2026-03-31
 status: approved
 owner: elisa
-last_updated: 2026-05-25
+last_updated: 2026-05-28
 source: phases/05-reports/2026-03-31/inputs/MUVILab_Tecnosystem_Report_Febb_Mar_2026.pdf
 ---
 
@@ -132,3 +132,54 @@ Non applicabile — campagne a pagamento non previste nel perimetro contrattuale
 Trigger da monitorare nei prossimi 2 mesi:
 - Se i contenuti tecnici verticali continuano a sottoperformare rispetto a quelli valoriali → rivalutare il mix pillar
 - Se il traffico social→sito non cresce entro luglio → introdurre contenuti con link espliciti
+
+---
+
+## 9. Note riunione presentazione — 28 maggio 2026
+
+> Riunione di allineamento con Luca Fanin (Tecnosystem), Elena Caccia e Elisa Moratello (MUVI Lab). Durata: ~80 min. Partecipanti: Elena, Elisa, Sara (presentazione nuova figura copy), Luca.
+
+### Cambio gestione copy
+- Annunciato passaggio da Elisa a **Sara** per la gestione operativa del copy del PED.
+- Sara ha già preso in carico il passaggio; da luglio sarà il riferimento principale per il piano editoriale.
+- Elena rimane come supervisore; Gerry continua per la parte grafica.
+- Luca ha accolto il cambio positivamente.
+
+### Accessi social
+- Luca ha richiesto accesso diretto a Instagram e Facebook (non era mai riuscito ad accedere). Elisa si è impegnata a fornire il codice di conferma via WhatsApp a fine riunione.
+
+### KPI e contenuti — feedback Luca
+- Luca ha confermato che il target prioritario su LinkedIn è: quality manager e responsabili di produzione nel settore manifatturiero/alimentare.
+- I "fabbricanti" presenti nei dati demografici sono di interesse secondario (potenziali collaboratori, non clienti target).
+- Conferma che la crescita organica ha senso come presidio di brand; no all'acquisizione massiva di nuovi clienti tramite social (struttura commerciale non scalabile per gestire pre-sale complesse).
+- Obiettivo Instagram e Facebook: visibilità verso clienti già attivi (non follower growth). Luca valuta di invitare manualmente i clienti noti a seguire i profili.
+- Interesse per possibile newsletter/messaggio al CRM per comunicare apertura canali social.
+- Interesse per WhatsApp Business come canale di contatto alternativo alla newsletter (da valutare — considerato "borderline" per invasività).
+
+### Contenuti vincenti confermati in riunione
+- Case study con narrazione (es. monitoraggio infrastrutture idriche — ha ricevuto commento esterno)
+- Contenuti team/valoriali
+- Video: fondamentali su Instagram; Luca aperto a sessioni di ripresa in loco (mezza giornata, script preparati da MUVI)
+
+### Tecno InVision
+- La pagina è online e approvata. Testi e struttura validati. Unica correzione: icone footer sbagliate (geolocalizzazione/telefono invertite) — da correggere.
+- Il link è già condivisibile. La pagina verrà resa visibile nel menu del sito principale quando Luca sarà pronto.
+- CTA "scarica la brochure" è attiva.
+- In futuro: aggiungere email `ordini@tecno-system.eu` al form "vuoi maggiori informazioni".
+
+### Sticker
+- Dimensione definita: **15×5 cm** (rettangolare) — valida per quadri e armadi.
+- Contenuto: logo Tecnosystem + sito + QR code. Versione con/senza indirizzo da proporre.
+- Sfondo: preferenza Luca per trasparente (da confermare con Laura e Nereo).
+- Gerry prepara 2-3 proposte grafiche entro ~2 giorni.
+- Luca gestirà la stampa in autonomia via Pixa Printing; MUVI fornisce i file print-ready + link diretto al prodotto.
+- Nessuna gestione stampa da parte MUVI (applicato +20% in caso contrario).
+
+### Progetti in corso (utili per contenuti futuri)
+- Progetto all'Aquila: lavoro complesso in corso, possibile case study futuro.
+- Progetto a Chiavenna: in fase di consegna.
+- Nessuna fiera imminente. Fiera TecnoSystem confermata come obiettivo a medio-lungo termine.
+- Periodo giugno–agosto: "testa bassa sui lavori", no attività speciali programmate.
+
+### Decisione: post nascita
+- Nessun post sulla nascita del figlio di Luca — decisione MUVI (Elena + Elisa): fuori contesto per il brand, confermato con Luca.

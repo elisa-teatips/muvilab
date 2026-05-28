@@ -1,10 +1,10 @@
 ---
 client: tecnosystem
-phase: mail
+phase: 03-ped
 period: 2026-06
-status: draft
+status: in-review
 owner: elisa
-last_updated: 2026-05-23
+last_updated: 2026-05-28
 destinatario: luca.fanin@tecno-system.eu
 oggetto: "Tecnosystem — Piano contenuti LinkedIn giugno 2026"
 ---
