@@ -3,8 +3,9 @@ client: bognolo
 phase: 04-campaigns
 campaign: 2026-iperammortamento
 date: 2026-05-28
-status: draft
+status: in-review
 owner: elisa
+last_updated: 2026-05-28
 ---
 
 # Audit Iperammortamento — Landing & Ads + Roadmap test
