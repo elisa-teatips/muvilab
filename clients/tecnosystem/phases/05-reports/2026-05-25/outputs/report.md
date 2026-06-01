@@ -4,7 +4,9 @@ phase: 05-reports
 period: 2026-04-01 → 2026-05-25
 status: approved
 owner: MUVI
-last_updated: 2026-05-25
+last_updated: 2026-05-28
+approved_via: presentazione riunione 28/05/2026
+source: phases/05-reports/2026-05-25/inputs/Tecnosystem_Report_Apr_Mag_2026.pdf
 ---
 
 # Report performance social — Tecnosystem
