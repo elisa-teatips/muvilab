@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "f7550696ca3c90ed",
+    "id": "28aa953e42d56122",
     "type": "split",
     "children": [
       {
-        "id": "6f10898e2cdb105f",
+        "id": "8f93d154dac02f4c",
         "type": "tabs",
         "children": [
           {
-            "id": "3043cc7c76b7ce84",
+            "id": "1f96e09526c24335",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "phases/04-campaigns/2026-07/outputs/campaign.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "campaign"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5f92f7525e9614e2",
+    "id": "d9e97b254276ed35",
     "type": "split",
     "children": [
       {
-        "id": "a7e22e5a3183eb4e",
+        "id": "4202db0aec746f3d",
         "type": "tabs",
         "children": [
           {
-            "id": "70c08090324bc2d9",
+            "id": "0208634049c2a112",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "bdb234c4627a2cef",
+            "id": "e524ab883c71c8dd",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "2641f19742733b0b",
+            "id": "668b90d70ea677c2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "d87119d931a76fbb",
+    "id": "e70f0544430cb89e",
     "type": "split",
     "children": [
       {
-        "id": "e34682e226a897ca",
+        "id": "b9ff289423688514",
         "type": "tabs",
         "children": [
           {
-            "id": "afeb566953383733",
+            "id": "1f00cc3b1f6b5407",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "phases/04-campaigns/2026-iperammortamento/outputs/guida-iperammortamento-2026.md",
+                "file": "phases/04-campaigns/2026-07/outputs/campaign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for guida-iperammortamento-2026"
+              "title": "Backlinks for campaign"
             }
           },
           {
-            "id": "ac10c674ac895202",
+            "id": "6a15b1ca59fb1166",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "phases/04-campaigns/2026-iperammortamento/outputs/guida-iperammortamento-2026.md",
+                "file": "phases/04-campaigns/2026-07/outputs/campaign.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from guida-iperammortamento-2026"
+              "title": "Outgoing links from campaign"
             }
           },
           {
-            "id": "db8c0a0db8fb6158",
+            "id": "cccf9dc968d34989",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,7 +137,7 @@
             }
           },
           {
-            "id": "e0ddb354c4d9434f",
+            "id": "7547a04fbe728bad",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -147,18 +151,18 @@
             }
           },
           {
-            "id": "532fc6a49601d10c",
+            "id": "d9bc2870982d124e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "phases/04-campaigns/2026-iperammortamento/outputs/guida-iperammortamento-2026.md",
+                "file": "phases/04-campaigns/2026-07/outputs/campaign.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of guida-iperammortamento-2026"
+              "title": "Outline of campaign"
             }
           }
         ]
@@ -179,13 +183,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "3043cc7c76b7ce84",
+  "active": "1f96e09526c24335",
   "lastOpenFiles": [
-    "phases/04-campaigns/2026-iperammortamento/outputs/audit-roadmap.md",
-    "phases/04-campaigns/2026-iperammortamento/outputs/brief-dev-fase-1.md",
-    "phases/05-reports/2026-05-26/outputs/mail.md",
-    "phases/04-campaigns/2026-iperammortamento/outputs/mail.md",
-    "phases/04-campaigns/2026-iperammortamento/outputs/brief-dev-fase-0.md",
-    "phases/04-campaigns/2026-iperammortamento/outputs/guida-iperammortamento-2026.md"
+    "phases/04-campaigns/2026-06/outputs/campaign.md",
+    "phases/04-campaigns/2026-06/outputs/mail.md",
+    "phases/04-campaigns/2026-07/outputs/campaign.md",
+    "phases/03-ped/2026-07/outputs/caroselli.md",
+    "phases/03-ped/2026-07/inputs/feedbacks.md",
+    "phases/03-ped/2026-07/inputs/_scratch.md",
+    "phases/03-ped/2026-07/outputs",
+    "phases/03-ped/2026-07/inputs",
+    "phases/03-ped/2026-07"
   ]
 }

@@ -2,9 +2,10 @@
 client: bognolo
 phase: 04-campaigns
 period: 2026-05
-status: in-review
+status: approved
 owner: elisa
-last_updated: 2026-05-28
+last_updated: 2026-06-04
+approvazione: silenzio-assenso (deadline 2026-05-30 trascorsa senza feedback)
 ---
 
 # TODO — Campaign 2026-05

@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "f7550696ca3c90ed",
+    "id": "233d8af978db7936",
     "type": "split",
     "children": [
       {
-        "id": "6f10898e2cdb105f",
+        "id": "40e68f4f355d9d5a",
         "type": "tabs",
         "children": [
           {
-            "id": "3043cc7c76b7ce84",
+            "id": "8112a003d98f1542",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "clients/bognolo/phases/05-reports/2026-05-26/outputs/note-asset-landing.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "note-asset-landing"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5f92f7525e9614e2",
+    "id": "9c3c88d1fb0b98b2",
     "type": "split",
     "children": [
       {
-        "id": "a7e22e5a3183eb4e",
+        "id": "e854fae40b7c5b06",
         "type": "tabs",
         "children": [
           {
-            "id": "70c08090324bc2d9",
+            "id": "97d47e75c024229f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "bdb234c4627a2cef",
+            "id": "1d90353bfe40a466",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "2641f19742733b0b",
+            "id": "59e8845f722cc3a8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,20 +81,19 @@
     "width": 300
   },
   "right": {
-    "id": "d87119d931a76fbb",
+    "id": "d185dc1dfa23f95e",
     "type": "split",
     "children": [
       {
-        "id": "e34682e226a897ca",
+        "id": "345d5f736bf3e552",
         "type": "tabs",
         "children": [
           {
-            "id": "afeb566953383733",
+            "id": "6f0938d3369b6988",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "phases/04-campaigns/2026-iperammortamento/outputs/guida-iperammortamento-2026.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,25 +103,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for guida-iperammortamento-2026"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "ac10c674ac895202",
+            "id": "46dd1f36635180f0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "phases/04-campaigns/2026-iperammortamento/outputs/guida-iperammortamento-2026.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from guida-iperammortamento-2026"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "db8c0a0db8fb6158",
+            "id": "abdb47ad7767fae4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,7 +135,7 @@
             }
           },
           {
-            "id": "e0ddb354c4d9434f",
+            "id": "e6a436ea7365f594",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -147,18 +149,17 @@
             }
           },
           {
-            "id": "532fc6a49601d10c",
+            "id": "cf23d6260dddff50",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "phases/04-campaigns/2026-iperammortamento/outputs/guida-iperammortamento-2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of guida-iperammortamento-2026"
+              "title": "Outline"
             }
           }
         ]
@@ -179,13 +180,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "3043cc7c76b7ce84",
+  "active": "97d47e75c024229f",
   "lastOpenFiles": [
-    "phases/04-campaigns/2026-iperammortamento/outputs/audit-roadmap.md",
-    "phases/04-campaigns/2026-iperammortamento/outputs/brief-dev-fase-1.md",
-    "phases/05-reports/2026-05-26/outputs/mail.md",
-    "phases/04-campaigns/2026-iperammortamento/outputs/mail.md",
-    "phases/04-campaigns/2026-iperammortamento/outputs/brief-dev-fase-0.md",
-    "phases/04-campaigns/2026-iperammortamento/outputs/guida-iperammortamento-2026.md"
+    "clients/bognolo/phases/05-reports/2026-05-26/outputs/report.md",
+    "clients/bognolo/phases/05-reports/2026-05-26/outputs/note-asset-landing.md",
+    "clients/muvi-neogela/phases/02-strategy/2025/outputs/piano-editoriale-equilibrato.md",
+    "clients/muvi-neogela/phases/02-strategy/2025/outputs/strategy.md",
+    "2026-05-26.md",
+    "Untitled.canvas",
+    "clients/bognolo/context/brand.md",
+    "clients/bognolo/context/baseline-audit/README.md"
   ]
 }
