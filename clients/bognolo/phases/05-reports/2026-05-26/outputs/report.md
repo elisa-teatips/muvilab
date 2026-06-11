@@ -297,14 +297,14 @@ Tutta la spesa converge su **bognolo.it/iperammortamento-2026/**:
 
 ### 3.6 Bot traffic — break-down
 
-| Tipologia bot | Sessioni |
-|---|---|
-| suspiciousInteractionBot | 119 |
-| suspiciousNetworkBot | 99 |
-| suspiciousDeviceBot | 72 |
-| ppcAdFraudBot | 45 ← impatta direttamente Google Ads |
-| webScraperBot | 6 |
-| otherBots | 1 |
+| Tipologia bot            | Sessioni                             |
+| ------------------------ | ------------------------------------ |
+| suspiciousInteractionBot | 119                                  |
+| suspiciousNetworkBot     | 99                                   |
+| suspiciousDeviceBot      | 72                                   |
+| ppcAdFraudBot            | 45 ← impatta direttamente Google Ads |
+| webScraperBot            | 6                                    |
+| otherBots                | 1                                    |
 
 **Letture**:
 - **45 sessioni di "PPC ad fraud"** (era 17 nel primo blocco): il dato è quasi triplicato. Su 428 click Google Ads, 45 sessioni potenzialmente fraudolente sono il **~10,5% del traffico paid** — soglia da monitorare. A campagna terminata, valutare richiesta di rimborso a Google per invalid clicks se il pattern persiste.

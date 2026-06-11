@@ -92,14 +92,28 @@ Registro cronologico delle decisioni prese durante la campagna. Fonte primaria: 
 
 ---
 
+## [2026-06-11] Aggiornamento tracking + brief video — email interna Elisa
+
+**Fonte**: email Elisa → Federico, Elena, Giovanni, Enrico, Sara — 11 giugno 2026
+
+- **Tracking**: implementazione conversione `form_submit` su Google Ads completata oggi. 0 eventi registrati al momento — Federico incaricato di verificare con GA4 DebugView entro 48h.
+- **Video Meta**: analisi dello script esistente. Problema identificato: hook debole, frase più forte arriva alla fine. Tempo medio visione: 4 secondi. Tasso di conversione "sotto la media" Meta.
+- **Brief re-edit video per Marco**: rimontare i frame esistenti nell'ordine tensione → problema → prove → requisiti → CTA. Aggiungere sottotitoli e versione 9:16. Nessun nuovo girato necessario. Deadline: entro settimana.
+- **Split adset Meta**: Elisa apre adset Trentino+Belluno a €10/giorno entro settimana.
+- **Budget**: nessun aumento consigliato a Bognolo per ora. Rivalutazione a fine giugno con dati before/after.
+
+---
+
 ## Punti aperti al 11 giugno 2026
 
-| # | Item | Owner | Priorità |
-|---|---|---|---|
-| 1 | Tracking Google Ads: 0 eventi `form_submit` registrati dopo attivazione — verificare se il form sulla landing genera correttamente l'evento GA4 | Elisa + Federico | **ALTA** |
-| 2 | Immagine hero mobile: nascondere o spostare sotto | Elisa / Elena | MEDIA |
-| 3 | Numero telefono per sticky CTA e hero | Studio Bognolo | MEDIA |
-| 4 | Numero perizie verificato (placeholder "200") | Studio Bognolo | MEDIA |
-| 5 | Asset hero image (foto industriale o ritratto Ing. Bognolo) | Studio Bognolo | MEDIA |
-| 6 | OK loghi Euronda/Tomasetto/Tintess per uso ATF | Studio Bognolo | MEDIA |
-| 7 | Linee guida video per Marco (2 teaser 15-30s) | Giovanni | BASSA |
+| # | Item | Owner | Priorità | Deadline |
+|---|---|---|---|---|
+| 1 | Verifica evento `form_submit` con GA4 DebugView | Federico | **ALTA** | 48h |
+| 2 | Re-edit video: rimontaggio + sottotitoli + 9:16 | Marco | **ALTA** | entro settimana |
+| 3 | Split adset Meta Trentino+Belluno €10/g | Elisa | MEDIA | entro settimana |
+| 4 | Immagine hero mobile: nascondere o spostare sotto | Elisa / Elena | MEDIA | — |
+| 5 | Numero telefono per sticky CTA e hero | Studio Bognolo | MEDIA | — |
+| 6 | Numero perizie verificato (placeholder "200") | Studio Bognolo | MEDIA | — |
+| 7 | Asset hero image (foto industriale o ritratto Ing. Bognolo) | Studio Bognolo | MEDIA | — |
+| 8 | OK loghi Euronda/Tomasetto/Tintess per uso ATF | Studio Bognolo | MEDIA | — |
+| 9 | Linee guida video per Marco (2 teaser 15-30s) | Giovanni | BASSA | — |
