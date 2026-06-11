@@ -2,9 +2,9 @@
 client: tecnosystem
 phase: 03-ped
 period: 2026-06
-status: draft
+status: approved
 owner: sara
-last_updated: 2026-05-28
+last_updated: 2026-06-11
 ---
 
 # Post — PED Giugno 2026 — Tecnosystem

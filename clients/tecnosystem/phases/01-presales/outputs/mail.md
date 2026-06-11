@@ -1,9 +1,9 @@
 ---
 client: tecnosystem
 phase: 01-presales
-status: draft
+status: approved
 owner: <nome>
-last_updated: 2026-05-23
+last_updated: 2026-06-11
 deadline_approvazione: 2026-05-23
 modalita_approvazione: silenzio-assenso
 ---

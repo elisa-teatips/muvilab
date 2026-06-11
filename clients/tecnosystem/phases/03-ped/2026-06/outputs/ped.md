@@ -2,9 +2,9 @@
 client: tecnosystem
 phase: 03-ped
 period: 2026-06
-status: draft
+status: approved
 owner: elisa
-last_updated: 2026-05-23
+last_updated: 2026-06-11
 ---
 
 # PED Giugno 2026 — Tecnosystem
