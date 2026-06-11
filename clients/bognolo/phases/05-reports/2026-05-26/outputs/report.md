@@ -18,7 +18,7 @@ last_updated: 2026-06-11
 ## Executive Summary
 
 - **Volumi raddoppiati nel secondo blocco di 15 giorni**: Google Ads passa da 272 a 428 click totali (+57%) e da €245,91 a €373,97 di spesa (+52%); Facebook Ads consolida 5 lead reali (vs 3 al 26 maggio) con spesa €394,74. Spesa media combinata 31 giorni: **€768,71**.
-- **Il tracking conversioni su Google Ads resta non configurato** dopo 31 giorni di campagna: rimane il blocco operativo più grave, impedisce l'ottimizzazione algoritmica AI Max e rende il CPL Google non calcolabile.
+ - **Tracking configurato ma silenzioso**: la conversione `iper_form_submit` è stata configurata in GA4 e importata in Google Ads (1 giugno), ma ad oggi non risulta nessun evento registrato. Il problema è tecnico — possibile mancata emissione dell'evento da parte del Fusion Form, filtro URL non corrispondente, o Google Tag assente sulla pagina del form. Federico ha accesso per diagnosticare.
 - **Performance tecnica della landing in netto miglioramento parziale**: CLS sceso da 1,582 a 0,225 (-86%), punteggio complessivo da 67,7 a 72,7. Resta critico l'LCP (4,54s vs soglia 2,5s) e peggiora INP (216ms, sopra soglia 200ms).
 - **Segnali di disallineamento annuncio/landing**: il quick back è raddoppiato (3,38% vs 2,42%) e i dead click salgono a 7,89% (56 sessioni). Compensati però da +80% sui click "Contattaci" Smart Event (9 vs 5) e 12 sessioni dirette sull'ancora `#form` — intenzione reale ma esperienza ancora frizionata.
 - **Decisione strategica imminente**: la finalità della campagna è legata al ciclo Iperammortamento 2026 (scadenza fiscale tipicamente fine anno solare ma con finestra commerciale ottimale aprile-luglio). Da concordare con Studio Bognolo se intensificare il budget nell'ultimo mese o consolidare il CPL su Facebook prima di chiudere.
@@ -41,7 +41,7 @@ last_updated: 2026-06-11
 | Spesa totale | €245,91 | **€373,97** | +52% |
 | Conversioni tracciate | 0 ⚠️ | **0** ⚠️ | invariato |
 
-> **⚠️ GAP CRITICO PERSISTENTE — Tracking conversioni non configurato a 31 giorni dal lancio**: il problema segnalato nel report precedente non è stato risolto. Senza eventi di conversione l'algoritmo AI Max sta ottimizzando esclusivamente sui click (massimizza CTR), non sul valore di business. È il blocco operativo più grave del progetto. Ogni giorno aggiuntivo di campagna senza tracking è budget speso sub-ottimalmente.
+ > **⚠️ GAP CRITICO AGGIORNATO — Tracking configurato ma 0 eventi registrati**: la conversione `iper_form_submit` è stata configurata in GA4 (1 giugno) e importata in Google Ads. Tuttavia ad oggi non risulta nessun evento registrato. Questo significa che il form sulla landing non sta generando submit tracciati — le cause possibili sono: (a) il form non viene compilato e inviato dagli utenti, (b) l'evento GA4 `form_submit` non si attiva correttamente sul Fusion Form della landing, (c) il filtro su `page_location` non matcha l'URL effettivo al momento del submit. Federico ha accesso per verificare. Fino a risoluzione, AI Max continua a ottimizzare sui click.
 
 **Lettura del trend**: il secondo blocco di 15 giorni ha mantenuto il ritmo del primo. CTR leggermente in calo (-0,59 pp) e CPC in calo (-€0,03): l'algoritmo sta ampliando il matching mantenendo i costi. Senza tracking non possiamo dire se la qualità del traffico stia migliorando o peggiorando in termini di conversione effettiva.
 
@@ -362,9 +362,13 @@ Tutta la spesa converge su **bognolo.it/iperammortamento-2026/**:
 
 ### Priorità ALTA (bloccanti)
 
-1. **Configurare il tracking conversioni Google Ads — 32° giorno senza tracciamento**
-   Implementare almeno un evento di conversione (invio form, click su numero/email, click "Contattaci"). Fino ad allora AI Max sta ottimizzando solo sui click. Senza questo intervento, ogni euro speso su Google in giugno-luglio è budget sub-ottimale.
-   *Owner: team tecnico Bognolo + Elisa. Deadline: entro 5 giorni.*
+1. **Diagnosticare i 0 eventi `form_submit` su Google Ads**
+   Il tracking è stato configurato (GA4 key event `iper_form_submit` + import in Google Ads, 1 giugno) ma non ha ancora registrato nessun evento. Tre cause da verificare in ordine:
+   - **A** — Il Fusion Form non emette l'evento generico `form_submit` su GA4: aprire GA4 DebugView e compilare il form in tempo reale per verificare se l'evento appare.
+   - **B** — Il filtro `page_location contains /iperammortamento-2026/` non matcha: verificare l'URL esatto al momento del submit (potrebbe includere query string o trailing slash).
+   - **C** — Il Google Tag non è presente sulla pagina del form: verificare con Tag Assistant.
+   Federico ha già accesso all'account per verificare. Fino a risoluzione AI Max ottimizza solo sui click.
+   *Owner: Federico + Elisa. Deadline: entro 48h.*
 
 2. **Risolvere LCP (4,54s vs soglia 2,5s)**
    Il CLS è stato risolto, ora il punto critico è il Largest Contentful Paint. Probabili interventi: lazy-load immagini hero, ottimizzare web fonts, ridurre payload JavaScript above-the-fold.

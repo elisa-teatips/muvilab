@@ -3,11 +3,12 @@ client: bognolo
 phase: 04-campaigns
 campaign: 2026-iperammortamento
 date: 2026-05-28
-status: draft
+status: in-review
 owner: elisa
 audience: dev interno Muvi
 related: ./audit-roadmap.md, ./brief-dev-fase-0.md
 prerequisite: Fase 0 completata (tracking attivo)
+last_updated: 2026-06-11
 ---
 
 # Brief implementativo Fase 1 — Quick wins landing Iperammortamento
@@ -22,12 +23,12 @@ Prerequisito: tracking conversioni attivo (vedi `brief-dev-fase-0.md`). Senza GA
 
 ## Interventi previsti (4)
 
-| # | Intervento | Effort dev | Impatto atteso |
-|---|---|---|---|
-| 1 | Sticky CTA bar in alto (telefono + form scroll) | bassa | +30-50% click-to-form |
-| 2 | Form corto ATF (4 campi) + multi-step in fondo invariato | media | +100-300% submit rate |
-| 3 | Hero rewrite (H1 + bullet + trust badge ATF) | bassa | -quick back, +scroll depth |
-| 4 | Fix tecnico LCP/CLS | media | già in Fase 0 (collegato) |
+| # | Intervento | Effort dev | Impatto atteso | Stato al 11 giu |
+|---|---|---|---|---|
+| 1 | Sticky CTA bar in alto (telefono + form scroll) | bassa | +30-50% click-to-form | **da fare** |
+| 2 | Form corto ATF (4 campi) + multi-step in fondo invariato | media | +100-300% submit rate | **parzialmente fatto** — vedi §2 aggiornato |
+| 3 | Hero rewrite (H1 + bullet + trust badge ATF) | bassa | -quick back, +scroll depth | **parzialmente fatto** — mobile completato, testo hero da aggiornare |
+| 4 | Fix tecnico LCP/CLS | media | già in Fase 0 (collegato) | **parzialmente fatto** — CLS risolto, LCP ancora critico |
 
 > ⚠️ Pubblicare **tutti gli interventi insieme** in unica deploy, non incrementali. La misurazione before/after richiede una finestra netta di confronto.
 
@@ -67,55 +68,69 @@ Due CTA affiancate al 50% di larghezza, altezza 56px, font 14-15px, fondo bianco
 
 ## 2. Form corto ATF
 
+> **⚠️ AGGIORNAMENTO 4-5 giugno 2026** — Le decisioni su form e Meta sono state allineate in una catena email interna (vedi `inputs/feedbacks.md`). Le specifiche qui sotto riflettono quanto concordato e già parzialmente implementato da Elisa (form Meta) e Federico (landing).
+
 ### Posizionamento
 Subito sotto l'hero, prima della sezione "Step 1-6". Ancora HTML: `#form-short`.
 Visivamente: box con sfondo leggermente differenziato (grigio chiaro o colore brand al 5% opacity), padding generoso, no distrazioni laterali.
 
-### Struttura form
+### Struttura form — **AGGIORNATA**
 
-**Titolo box**:
-> Scopri in 3 giorni se il tuo investimento è agevolabile
+**Titolo box** (aggiornato rispetto alla prima versione):
+> Compila il form e verrai ricontattato entro 3 giorni lavorativi.
 
-**Sottotitolo**:
-> Risposta tecnica gratuita di un ingegnere iscritto MIMIT. Nessun impegno.
+*(Il titolo originale "Scopri in 3 giorni se il tuo investimento è agevolabile" è stato sostituito con questa dicitura più diretta su indicazione del cliente — Elena, 29 maggio 2026)*
 
-**Campi (4 in totale)**:
+**Campi (aggiornati) — landing page**:
 
 | Campo | Tipo | Obbligatorio | Note |
 |---|---|---|---|
-| Nome e cognome | text | ✅ | placeholder "Mario Rossi" |
-| Azienda | text | ✅ | placeholder "Nome azienda srl" |
-| Telefono | tel | ✅ | placeholder "+39 ..." — validazione pattern numerico |
-| Tipo investimento | select | ✅ | opzioni: Macchinario / Software / Fotovoltaico / Progetto combinato / Non so ancora |
+| Ragione Sociale | text | ✅ | placeholder "Nome azienda srl" |
+| P.IVA | text | ⬜ facoltativo | |
+| Nome e Cognome | text | ✅ | placeholder "Mario Rossi" |
+| Email | email | ✅ | |
+| Telefono | tel | ⬜ facoltativo | placeholder "+39 ..." |
+
+> **Nota**: rispetto al brief originale (4 campi: nome, azienda, telefono, tipo investimento) la struttura è stata riallineata a quanto implementato su Meta (29 maggio) e confermata da Elena il 3 giugno. P.IVA e Telefono sono facoltativi. Il campo "Tipo investimento" è stato rimosso dalla prima slide.
+
+**Seconda slide**: **ELIMINATA** (confermato da Federico il 5 giugno).
 
 **Checkbox privacy**: obbligatoria, testo: "Accetto la Privacy Policy e autorizzo il trattamento dei dati per essere ricontattato."
 
 **CTA submit**:
 > Richiedi consulenza gratuita
 
-Colore brand Bognolo, full-width su mobile, larghezza naturale desktop.
+**Aggiunta link prenotazione call** (dopo il submit o come alternativa):
+Link Google Calendar: `https://calendar.app.google/UApLCnj6vwcp22ZTA`
+*(Inserito già nel form Meta da Elisa il 4 giugno — da portare anche nella landing)*
 
 ### Trust elements sotto form
 Riga unica orizzontale, font 13px, colore grigio scuro:
 > ✓ Risposta entro 3 giorni ・ ✓ Nessun impegno ・ ✓ Iscritto MIMIT & INNOVENETO
 
 ### Behavior tecnico
-- Submit → stesso endpoint del Fusion Form esistente (riusare configurazione email/CRM)
-- Tracking: trigger evento dataLayer `lead_form_submit` con `form_step: 'short'` per distinguerlo dal multi-step (`form_step: 'final'`) → permette di misurare la conversione per variante
-- Conferma submit: stesso messaggio "Invio completato con successo" del form attuale
-- Errori: validazione inline (HTML5 + custom messaggi italiano)
+- Submit → endpoint Fusion Form esistente (configurazione email/CRM invariata)
+- Tracking: evento `iper_form_submit` configurato in GA4 il 2026-06-01 (vedi `inputs/brief-dev-tracking-form.md`). Evento `form_start` già predisposto lato form da Federico.
+- **Stato tracking al 11 giugno**: GA4 key event configurato; import in Google Ads ancora in sospeso per un problema tecnico identificato — Federico ha ricevuto accesso per verificare.
+- Conferma submit: messaggio "Invio completato con successo"
+- Errori: validazione inline (HTML5 + messaggi in italiano)
 
-### Form multi-step in fondo
-**Resta invariato**. Non rimuovere. Razionale: utenti più consapevoli/qualificati che scrollano fino in fondo trovano il form di profilazione approfondita. Misureremo la distribuzione short vs final dopo 30 gg.
+### Form Meta — **già aggiornato da Elisa (4 giugno)**
+- Campi: ragione sociale, P.IVA (fac.), nome, cognome, telefono, email (fac.), settore di appartenenza
+- Link prenotazione call Calendly/Google Calendar aggiunto in coda
+- Nuovo Google Sheet per raccolta lead: `https://docs.google.com/spreadsheets/d/1WUa4tSqdxkQLLPj__MQBJ4gJhDPNbDnyP_QKpy-fFEQ/`
+- Form Meta: **nuovo form creato** (necessario per le modifiche) — il vecchio form non è più attivo
 
 ---
 
 ## 3. Hero rewrite (above the fold)
 
+> **⚠️ AGGIORNAMENTO 3-5 giugno 2026** — Federico ha completato i lavori lato mobile (confermato 3 giugno). Rimane aperta la questione dell'immagine hero su mobile (vedi sotto).
+
 ### H1 attuale (da sostituire)
 > IPERAMMORTAMENTO 2026-2028: scopri se il tuo investimento è agevolabile e ottieni documentazione tecnica completa e difendibile in caso di verifica.
 
-(28 parole, troppo lungo, è una promessa di valore non un titolo)
+*(Federico ha segnalato che i testi attuali sono troppo lunghi per la hero section su mobile — serve versione più corta)*
 
 ### H1 nuovo
 > Iperammortamento 2026: la tua perizia asseverata, senza rischi di contestazione.
@@ -124,9 +139,11 @@ Riga unica orizzontale, font 13px, colore grigio scuro:
 > Ingegneri industriali iscritti MIMIT. Ti seguiamo dall'analisi di agevolabilità alla comunicazione al GSE, con un unico referente.
 
 ### Bullet ATF (3, in quest'ordine)
-1. ✓ **Oltre 200 perizie asseverate** completate per imprese del Nord-Est *(⚠️ verificare numero con cliente)*
+1. ✓ **Oltre 200 perizie asseverate** completate per imprese del Nord-Est *(⚠️ verificare numero con cliente — non ancora confermato)*
 2. ✓ **Iscritti MIMIT** ed accreditati **INNOVENETO**
 3. ✓ Risposta entro **3 giorni lavorativi**, prima consulenza gratuita
+
+> **Nota Federico (3 giugno)**: il "3 giorni" compare già nella prima slide e nell'ultima — ha valutato la ripetizione eccessiva e non ha modificato il titolo. Allineare con Elena se mantenere o variare la dicitura in uno dei due punti.
 
 ### CTA hero
 Pulsante primario:
@@ -135,6 +152,12 @@ Pulsante primario:
 
 Link secondario sotto pulsante (font più piccolo):
 > oppure chiamaci al +39 0444 XXX XXX
+
+### Immagine hero mobile — **PUNTO APERTO**
+
+Federico (5 giugno): *"L'unico fix per l'immagine per come è posizionata è nasconderla/spostarla sotto da mobile (se la spostiamo sotto tanto vale nasconderla). Aspetto indicazioni."*
+
+**Decisione richiesta a Elisa/Elena**: nascondere l'immagine hero su mobile (`display: none` sotto breakpoint 768px) o spostarla sotto il form corto. Raccomandazione: **nasconderla** — su mobile la priorità è H1 → bullet → CTA → form, l'immagine aggiunge peso senza valore percepito immediato.
 
 ### Trust badge ATF
 Sotto i bullet, riga orizzontale con loghi reali (in grayscale o colore tenue):
@@ -148,13 +171,13 @@ Caption sopra i loghi (font 12px, colore grigio):
 > Hanno scelto Studio Bognolo:
 
 ### Layout suggerito
-- **Desktop**: hero split 60/40 (testo a sx, immagine/grafica a dx). H1 e CTA a sinistra, immagine di un macchinario industriale o foto Ing. Bognolo a destra
-- **Mobile**: stack verticale — H1 → H2 → bullet → CTA → trust badge → form corto immediatamente sotto
+- **Desktop**: hero split 60/40 (testo a sx, immagine/grafica a dx). H1 e CTA a sinistra, immagine a destra
+- **Mobile**: stack verticale — H1 → H2 → bullet → CTA → (immagine nascosta o sotto form)
 
 ### Asset richiesti
 | Asset | Dimensione | Note |
 |---|---|---|
-| Hero image | min 1920×1080 (desktop), WebP | Da fornire/scegliere: foto industriale o ritratto professionale Ing. Bognolo |
+| Hero image | min 1920×1080 (desktop), WebP | Da fornire/scegliere: foto industriale o ritratto professionale Ing. Bognolo — **non ancora confermata** |
 | Logo Euronda/Tomasetto/Tintess | PNG trasparente | già presenti in `context/brand-assets/` — verificare risoluzione |
 | Badge MIMIT | SVG/PNG | da reperire o ricreare |
 | Badge INNOVENETO | SVG/PNG | da reperire o ricreare |
@@ -240,10 +263,11 @@ A 14 gg dal deploy: genero un mini-report comparativo `clients/bognolo/phases/04
 ## 9. Approvazione cliente pre-deploy
 
 Prima di pubblicare in produzione servono OK da Studio Bognolo su:
-- Numero telefono da usare
-- Numero "200 perizie completate" (o cifra reale verificata)
-- Asset hero image (foto da fornire o scelta da stock)
-- Disponibilità loghi clienti per uso ATF (Euronda, Tomasetto, Tintess potrebbero richiedere conferma)
+- Numero telefono da usare (**ancora aperto**)
+- Numero "200 perizie completate" o cifra reale verificata (**ancora aperto**)
+- Asset hero image (**ancora aperto**)
+- Disponibilità loghi clienti per uso ATF (**ancora aperto**)
 - Copy nuovi (H1 + sottotitolo + bullet + CTA)
+- **Decisione immagine hero mobile**: nascondere o spostare sotto (attende indicazione Elisa/Elena)
 
 > Standard playbook: silenzio-assenso a 48h dall'invio per modifiche non strutturali. Sui numeri/asset legali (cifra perizie, loghi clienti) **serve approvazione esplicita scritta**, no silenzio-assenso.

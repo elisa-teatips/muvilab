@@ -11,10 +11,14 @@
             "id": "3043cc7c76b7ce84",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "phases/05-reports/2026-05-26/outputs/report.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "report"
             }
           }
         ]
@@ -181,6 +185,14 @@
   },
   "active": "3043cc7c76b7ce84",
   "lastOpenFiles": [
+    "phases/04-campaigns/2026-iperammortamento/inputs/feedbacks.md",
+    "phases/05-reports/2026-05-26/inputs/Re_ R_ Bognolo + richiesta dati.rtfd/unknown.png",
+    "phases/05-reports/2026-05-26/inputs/Re_ R_ Bognolo + richiesta dati.rtfd/separator.tiff",
+    "phases/05-reports/2026-05-26/inputs/Re_ R_ Bognolo + richiesta dati.rtfd/TXT.rtf",
+    "phases/05-reports/2026-05-26/inputs/Re_ R_ Bognolo + richiesta dati.rtfd/3__#$!@%!#__unknown.png",
+    "phases/05-reports/2026-05-26/inputs/Re_ R_ Bognolo + richiesta dati.rtfd/2__#$!@%!#__unknown.png",
+    "phases/05-reports/2026-05-26/inputs/Re_ R_ Bognolo + richiesta dati.rtfd/1__#$!@%!#__unknown.png",
+    "phases/05-reports/2026-05-26/inputs/Re_ R_ Bognolo + richiesta dati.rtfd",
     "phases/04-campaigns/2026-iperammortamento/outputs/audit-roadmap.md",
     "phases/04-campaigns/2026-iperammortamento/outputs/brief-dev-fase-1.md",
     "phases/05-reports/2026-05-26/outputs/mail.md",
