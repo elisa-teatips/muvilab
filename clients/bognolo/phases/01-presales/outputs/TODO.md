@@ -1,9 +1,9 @@
 ---
 client: bognolo
 phase: 01-presales
-status: draft
-owner: <nome>
-last_updated: 2026-05-23
+status: approved
+owner: elisa
+last_updated: 2026-06-11
 ---
 
 # TODO — Presales

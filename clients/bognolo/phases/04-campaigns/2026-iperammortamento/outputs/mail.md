@@ -2,9 +2,9 @@
 client: bognolo
 phase: 04-campaigns
 campaign: 2026-iperammortamento
-status: in-review
+status: approved
 owner: elisa
-last_updated: 2026-05-28
+last_updated: 2026-06-11
 ---
 
 # Touch-point: 04-campaigns — 2026-iperammortamento

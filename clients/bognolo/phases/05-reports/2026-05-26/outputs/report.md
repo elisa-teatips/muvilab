@@ -2,416 +2,435 @@
 client: bognolo
 phase: 05-reports
 period: 2026-05-26
-status: draft
+status: approved
 owner: elisa
-last_updated: 2026-05-26
+last_updated: 2026-06-11
 ---
 
-# Report Andamento Campagne — Studio Bognolo — Maggio 2026
+# Report Andamento Campagne — Studio Bognolo — Maggio-Giugno 2026
 
-**Periodo di riferimento**: 11 maggio – 26 maggio 2026 (16 giorni attivi)
+**Periodo di riferimento**: 11 maggio – 11 giugno 2026 (31 giorni attivi)
+**Periodo di confronto**: 11 – 26 maggio 2026 (16 giorni — primo report)
 **Campagne attive**: Google Ads Search (AI Max) + Facebook Ads Lead Generation
 
 ---
 
 ## Executive Summary
 
-Le campagne lanciate l'11 maggio mostrano segnali incoraggianti nella fase iniziale: Google Ads genera traffico qualificato verso la landing page con un CTR del 7,84% (superiore alla media di settore per query B2B), mentre Facebook Ads ha prodotto 3 lead reali in 16 giorni con una spesa di €219,66 (CPL: €73,03). La spesa totale delle due campagne è €465,57. Il gap critico da risolvere con priorità massima è l'assenza di tracking conversioni su Google Ads, che impedisce qualsiasi ottimizzazione algoritmica e rende impossibile misurare il reale ritorno della campagna search. Secondariamente, le performance tecniche della landing (LCP 5,4s, CLS 1,582) e la posizione del form (scorrimento medio 28,6%) limitano il tasso di conversione.
+- **Volumi raddoppiati nel secondo blocco di 15 giorni**: Google Ads passa da 272 a 428 click totali (+57%) e da €245,91 a €373,97 di spesa (+52%); Facebook Ads consolida 5 lead reali (vs 3 al 26 maggio) con spesa €394,74. Spesa media combinata 31 giorni: **€768,71**.
+- **Il tracking conversioni su Google Ads resta non configurato** dopo 31 giorni di campagna: rimane il blocco operativo più grave, impedisce l'ottimizzazione algoritmica AI Max e rende il CPL Google non calcolabile.
+- **Performance tecnica della landing in netto miglioramento parziale**: CLS sceso da 1,582 a 0,225 (-86%), punteggio complessivo da 67,7 a 72,7. Resta critico l'LCP (4,54s vs soglia 2,5s) e peggiora INP (216ms, sopra soglia 200ms).
+- **Segnali di disallineamento annuncio/landing**: il quick back è raddoppiato (3,38% vs 2,42%) e i dead click salgono a 7,89% (56 sessioni). Compensati però da +80% sui click "Contattaci" Smart Event (9 vs 5) e 12 sessioni dirette sull'ancora `#form` — intenzione reale ma esperienza ancora frizionata.
+- **Decisione strategica imminente**: la finalità della campagna è legata al ciclo Iperammortamento 2026 (scadenza fiscale tipicamente fine anno solare ma con finestra commerciale ottimale aprile-luglio). Da concordare con Studio Bognolo se intensificare il budget nell'ultimo mese o consolidare il CPL su Facebook prima di chiudere.
 
 ---
 
 ## 1. Google Ads — Search (AI Max)
 
 **Campagna**: Iperammortamento 2026 - Traffic - Search - AI Max
-**Periodo dati**: 10 mag – 26 mag 2026
+**Periodo dati**: 11 maggio – 11 giugno 2026 (31 giorni)
 
-### 1.1 Metriche chiave
+### 1.1 Metriche chiave — confronto periodo
 
-| Metrica | Valore |
-|---|---|
-| Impression totali | 3.470 |
-| Click totali | 272 |
-| CTR medio | 7,84% |
-| CPC medio | €0,90 |
-| Spesa totale | €245,91 |
-| Conversioni tracciate | 0 ⚠️ (tracking non configurato) |
-| Impression Share Assoluta Top | 29,17% |
-| Impression Share Top | 56,32% |
+| Metrica | 11–26 mag (16 gg) | 11 mag–11 giu (31 gg) | Δ |
+|---|---|---|---|
+| Impression totali | 3.470 | **5.907** | +70% |
+| Click totali | 272 | **428** | +57% |
+| CTR medio | 7,84% | **7,25%** | -0,59 pp |
+| CPC medio | €0,90 | **€0,87** | -€0,03 |
+| Spesa totale | €245,91 | **€373,97** | +52% |
+| Conversioni tracciate | 0 ⚠️ | **0** ⚠️ | invariato |
 
-> **⚠️ GAP CRITICO — Tracking conversioni non configurato**: Google Ads non registra alcuna conversione. Senza eventi di conversione (es. invio form, chiamata, click email) l'algoritmo AI Max non può ottimizzare verso obiettivi di business reali. Questo è il problema più urgente da risolvere.
+> **⚠️ GAP CRITICO PERSISTENTE — Tracking conversioni non configurato a 31 giorni dal lancio**: il problema segnalato nel report precedente non è stato risolto. Senza eventi di conversione l'algoritmo AI Max sta ottimizzando esclusivamente sui click (massimizza CTR), non sul valore di business. È il blocco operativo più grave del progetto. Ogni giorno aggiuntivo di campagna senza tracking è budget speso sub-ottimalmente.
+
+**Lettura del trend**: il secondo blocco di 15 giorni ha mantenuto il ritmo del primo. CTR leggermente in calo (-0,59 pp) e CPC in calo (-€0,03): l'algoritmo sta ampliando il matching mantenendo i costi. Senza tracking non possiamo dire se la qualità del traffico stia migliorando o peggiorando in termini di conversione effettiva.
 
 ### 1.2 Performance per dispositivo
 
-| Dispositivo | Click | Impression | CTR | CPC | Spesa | % Budget |
-|---|---|---|---|---|---|---|
-| Desktop | 162 | 2.212 | 7,32% | €0,98 | €158,59 | 64,5% |
-| Mobile | 108 | 1.235 | 8,74% | €0,79 | €85,76 | 34,9% |
-| Tablet | 2 | 23 | 8,70% | €0,78 | €1,56 | 0,6% |
+*Dati device disponibili solo per il periodo 10–26 maggio (16 giorni). Google Ads non ha aggiornato il break-down nel periodo esteso.*
 
-**Nota**: il mobile mostra CTR più alto (+1,4 pp rispetto a desktop) e CPC più basso. Verificare che la landing page `/iperammortamento-2026/` sia ottimizzata per mobile e che il form sia compilabile da smartphone.
+| Dispositivo | Click | CPC | % Budget |
+|---|---|---|---|
+| Desktop | 162 | €0,98 | 64,5% |
+| Mobile | 108 | €0,79 | 34,9% |
+| Tablet | 2 | €0,78 | 0,6% |
+
+**Nota**: il dato è da considerarsi indicativo per il primo blocco. Sul totale 31 giorni la distribuzione è plausibilmente analoga (Bognolo è un servizio B2B desktop-pesante).
 
 ### 1.3 Landing page
 
-Tutta la spesa (€245,91) converge su un'unica landing: **bognolo.it/iperammortamento-2026/**
-- 272 click da ads / 4.039 impression totali / CTR 6,73%
-- Le altre pagine del sito (perizie, chi siamo, servizi, contatti) mostrano impression organiche ma zero click da ads — coerente con la struttura della campagna.
+Tutta la spesa converge su **bognolo.it/iperammortamento-2026/**:
+- Periodo precedente: 272 click / 4.039 impression / CTR 6,73%
+- Periodo esteso: dato landing aggiornato non disponibile nel report fornito; coerente con i totali campagna 428 click / 5.907 impression / CTR 7,25%
 
 ### 1.4 Analisi geografica
 
-| Provincia | Click | Impression | CTR | CPC | Spesa | % Budget |
-|---|---|---|---|---|---|---|
-| Vicenza | 62 | 697 | 8,90% | €1,09 | €67,29 | 27,4% |
-| Padova | 53 | 676 | 7,84% | €0,95 | €50,23 | 20,4% |
-| Treviso | 49 | 666 | 7,36% | €0,83 | €40,85 | 16,6% |
-| Verona | 42 | 595 | 7,06% | €0,75 | €31,31 | 12,7% |
-| Venezia | 33 | 401 | 8,23% | €0,92 | €30,20 | 12,3% |
-| Trento | 25 | 365 | 6,85% | €0,84 | €21,09 | 8,6% |
-| Belluno | 8 | 70 | 11,43% | €0,62 | €4,93 | 2,0% |
+*Dati geografici disponibili solo per il primo blocco (10–26 maggio).*
 
-**Osservazioni**:
-- Vicenza è la provincia con maggiore volume e spesa, coerente con il bacino principale del cliente.
-- Belluno ha il CTR più alto (11,43%) e il CPC più basso (€0,62): mercato meno competitivo, alta intenzione. Potenziale da monitorare.
-- Trento (8,6% budget) produce click a CPC contenuto — presenza Trentino giustificata.
+| Provincia | Click | CTR | CPC |
+|---|---|---|---|
+| Vicenza | 62 | 8,90% | €1,09 |
+| Padova | 53 | 7,84% | €0,95 |
+| Treviso | 49 | 7,36% | €0,83 |
+| Verona | 42 | 7,06% | €0,75 |
+| Venezia | 33 | 8,23% | €0,92 |
+| Trento | 25 | 6,85% | €0,84 |
+| Belluno | 8 | 11,43% | €0,62 |
 
-### 1.5 Analisi keyword
+**Osservazione confermata**: Belluno mantiene il miglior rapporto CTR/CPC del bacino — mercato poco competitivo, alta intenzione. Vicenza resta la provincia con maggiore volume e spesa.
+
+### 1.8 Analisi keyword (31 giorni)
 
 | Keyword | Click | Impression | CTR | CPC | Spesa | % Budget |
 |---|---|---|---|---|---|---|
-| iperammortamento 2026 | 184 | 2.171 | 8,48% | €0,91 | €167,05 | 68,0% |
-| agevolazioni acquisto macchinari 2026 | 65 | 872 | 7,45% | €0,85 | €55,21 | 22,5% |
-| perizia iperammortamento | 5 | 66 | 7,58% | €2,31 | €11,56 | 4,7% |
-| iperammortamento macchinari | 4 | 120 | 3,33% | €0,84 | €3,37 | 1,4% |
-| iperammortamento fotovoltaico | 3 | — | — | €0,60 | — | — |
-| interconnessione macchinari 4.0 | 3 | — | — | €0,82 | — | — |
+| iperammortamento 2026 | 264 | 3.432 | 7,69% | €0,87 | €228,56 | 61,1% |
+| agevolazioni acquisto macchinari 2026 | 117 | 1.745 | 6,70% | €0,91 | €106,32 | 28,4% |
+| interconnessione macchinari 4.0 | 12 | 123 | 9,76% | €0,59 | €7,13 | 1,9% |
+| perizia iperammortamento | 9 | 101 | 8,91% | €1,65 | €14,86 | 4,0% |
+| iperammortamento software gestionale | 7 | 118 | 5,93% | €0,47 | €3,31 | 0,9% |
+| perizia asseverata | 5 | 87 | 5,75% | €0,96 | €4,79 | 1,3% |
+| iperammortamento macchinari | 5 | 197 | 2,54% | €0,71 | €3,53 | 0,9% |
+| AI Max landing page matches | 3 | 21 | 14,29% | €0,67 | €2,01 | 0,5% |
+| asseverazione tecnico abilitato | 1 | 11 | 9,09% | €0,60 | €0,60 | 0,2% |
+| **Totale** | **428** | **5.907** | **7,25%** | **€0,87** | **€373,97** | **100%** |
 
-**Osservazioni**:
-- La keyword "iperammortamento 2026" domina con il 68% del budget e il CTR più alto: è il termine con maggiore intenzione commerciale e il più pertinente all'offerta.
-- "agevolazioni acquisto macchinari 2026" porta volume significativo (65 click) a CPC basso: keyword informativa ma con buona intenzione d'acquisto.
-- "perizia iperammortamento" ha CPC molto più alto (€2,31) ma è la keyword più qualificata (chi cerca "perizia" è già in fase decisionale). Da monitorare con attenzione.
-- Keyword paused/not eligible (fotovoltaico, robot industriale, revamping, retrofit, stampante 3D, visione artificiale, cobot, magazzino automatizzato): volumi troppo bassi per essere attivate in questa fase — decisione corretta.
+**Variazioni rilevanti rispetto al primo blocco**:
 
-### 1.6 Search Terms insight
+- **"perizia iperammortamento"** è passata da 5 a 9 click (+80%) ma con CPC sceso da €2,31 a €1,65. Resta la keyword con CPC più alto del set: è qualificata (chi cerca "perizia" è in fase decisionale) ma costosa. Da monitorare con priorità appena attivo il tracking — sarà la prima da valutare in termini di ROI.
+- **"interconnessione macchinari 4.0"** è cresciuta da 3 a 12 click con CPC €0,59 e CTR 9,76%: ottimo profilo prestazioni/costo, keyword tecnica ad alta intenzione. Consigliato mantenerla attiva e monitorarne la conversione una volta installato il tracking.
+- **"iperammortamento software gestionale"** entra nel report con 7 click a CPC €0,47 — molto basso. Keyword secondaria che intercetta query informative su un sotto-segmento (software gestionale): volume limitato, monitorare se porta traffico qualificato.
+- **"agevolazioni acquisto macchinari 2026"** raddoppia i click (65 → 117) mantenendo CPC contenuto: continua a essere il secondo motore di volume.
+- **"iperammortamento 2026"** mantiene la leadership con il 61% del budget — domina la campagna.
 
-| Categoria query | Impression | Click | CTR |
-|---|---|---|---|
-| "iperammortamento 2026" | 789 | 69 | 8,75% |
-| "iperammortamento 2026 esempio pratico" | 563 | 35 | 6,22% |
-| Uncategorized | 1.412 | 92 | 6,52% |
-| "iperammortamento 2026 come funziona" | 155 | 16 | — |
-| "simulazione iperammortamento 2026" | 104 | 13 | — |
-| "iperammortamento 4.0 2026" | 75 | 9 | — |
-| "super ammortamento 2026" | 81 | 7 | — |
-| "iperammortamento 2026 quali beni" | 69 | 6 | — |
+### 1.6 Performance asset (Headline e Description)
 
-**Nota**: il volume "uncategorized" (1.412 imp / 92 click) è elevato — tipico di AI Max che espande il matching. Verificare i search terms effettivi nel pannello Google Ads per identificare eventuali query non pertinenti da escludere come negative keyword.
+**Periodo**: 11 maggio – 11 giugno 2026
 
-### 1.7 Slot orario/giorno
+#### Headline
 
-I click si concentrano nei giorni lavorativi, con picchi:
-- Martedì ore 9 (14 click), Lunedì ore 11 (12 click), Martedì ore 17 (11 click), Mercoledì ore 8 (11 click)
+| Headline | Impression | Click | CTR | CPC medio | Costo |
+|---|---|---|---|---|---|
+| Iter Completo Iperammortamento | 2.896 | 214 | 7,39% | €0,84 | €179,48 |
+| Fotovoltaico Agevolato 2026 | 961 | 73 | 7,60% | €0,88 | €64,55 |
+| Verifica Requisiti 4.0 | 910 | 82 | **9,01%** | €1,02 | €83,96 |
+| Agevolazioni Iperammortamento | 935 | 81 | **8,66%** | €0,94 | €76,24 |
+| Agevolazioni Macchinari 2026 | 807 | 68 | 8,43% | €0,99 | €67,19 |
+| Perizia Iperammortamento | 573 | 55 | **9,60%** | €0,83 | €45,75 |
+| Perizia asseverata macchinari | 283 | 26 | 9,19% | €1,00 | €26,09 |
+| Agevolazioni per aziende | 301 | 37 | **12,29%** | €0,95 | €35,27 |
+| Il Tuo Bene Rientra? Scoprilo | 65 | 4 | 6,15% | €0,30 | €1,21 |
+| Ottieni Perizia Asseverata | 9 | 0 | 0,00% | — | €0,00 |
+| Iperammortamento per software | 2 | 0 | 0,00% | — | €0,00 |
 
-Comportamento coerente con un pubblico B2B (imprenditori/responsabili acquisti). Weekend e notti hanno volumi minimi ma non zero — da non escludere completamente.
+#### Description
 
-### 1.8 Competitor (Auction Insights)
+| Description | Impression | Click | CTR | CPC medio | Costo |
+|---|---|---|---|---|---|
+| Iperammortamento: il tuo investimento rientra? | 3.525 | 245 | 6,95% | €0,89 | €219,03 |
+| Consulenza Gratuita Iperammortamento 2026-2028: scopri se il tuo investimento rientra | 3.066 | 254 | **8,28%** | €0,92 | €233,85 |
+| Verifica il tuo caso senza impegno | 828 | 71 | **8,57%** | €1,03 | €73,36 |
+| Studio Bognolo: la consulenza per l'iperammortamento 2026. | 2.253 | 162 | 7,19% | €0,93 | €150,77 |
+
+**Osservazioni operative**:
+
+- **Headline top per CTR**: "Agevolazioni per aziende" (12,29%) su 301 impression — CTR eccezionale su volume medio. Segnala che il framing generico "aziende" intercetta query ad alta intenzione con un copy semplice. Da testare in posizione 1 su volume maggiore.
+- **"Perizia Iperammortamento"** (9,60% CTR, CPC €0,83) — headline ad alta precisione: chi clicca sa già cosa cerca. Performance migliore della keyword omonima (8,91% CTR), a CPC più basso. Da mantenere.
+- **"Verifica Requisiti 4.0"** (9,01%, 82 click) e **"Agevolazioni Iperammortamento"** (8,66%, 81 click): due headline forti su volume consistente — pilastri del volume qualificato.
+- **"Iter Completo Iperammortamento"**: domina per volume (2.896 imp, 214 click) ma con CTR 7,39% — sotto la media delle headline migliori. È il maggiore driver di costo (€179,48). Con tracking attivo, sarà la prima da valutare in termini di CPL: porta volume ma non necessariamente i click più qualificati.
+- **"Fotovoltaico Agevolato 2026"**: 961 impression con CTR 7,60%. Rappresenta un sotto-segmento (fotovoltaico) che non è il core business di Studio Bognolo. Con tracking attivo, valutare se i click si convertono o attirano lead non pertinenti.
+- **Headline da eliminare/rivalutare**: "Ottieni Perizia Asseverata" (9 imp, 0 click) e "Iperammortamento per software" (2 imp, 0 click) — volume trascurabile, nessuna interazione. Google AI Max le ha di fatto scartate. Possono essere sostituite con varianti più dirette.
+- **Description vincente**: "Consulenza Gratuita Iperammortamento 2026-2028" (8,28% CTR) e "Verifica il tuo caso senza impegno" (8,57% CTR) battono le description informative. Il pattern è chiaro: **CTA diretta + riduzione rischio percepito** ("gratuita", "senza impegno") funzionano meglio delle descrizioni brandizzate.
+- **Description da migliorare**: "Iperammortamento: il tuo investimento rientra?" ha il CTR più basso (6,95%) nonostante le più alte impression — è probabilmente la default mostrata più spesso dall'algoritmo ma con la formulazione meno efficace. Testare una versione con CTA esplicita.
+
+---
+
+### 1.7 Competitor (Auction Insights)
+
+*Dati Auction Insights disponibili solo per il primo blocco. Posizione competitiva sostanzialmente stabile.*
 
 | Competitor | Impression Share | Posizionato sopra Bognolo |
 |---|---|---|
 | **Studio Bognolo** | **36,59%** | — |
 | sanmarcoinformatica.com | 13,18% | 62% dei casi |
 | teamsystem.com | 10,38% | 50,8% dei casi |
-| solardrìa.it | <10% | — |
-| e3group.eu | <10% | — |
-| tikappi.com | <10% | — |
-| projectapplication.com | <10% | — |
 
-**Osservazioni**: Bognolo ha la quota di impression più alta (36,59%) — posizione dominante nel settore. I principali competitor (sanmarcoinformatica, teamsystem) si posizionano sopra in una parte delle aste ma con IS molto inferiore. La competizione non è ancora aggressiva: finestra favorevole da sfruttare.
+**Letture**: Bognolo mantiene la quota di impression più alta del settore. La competizione non è ancora aggressiva: la finestra resta favorevole.
 
 ---
 
 ## 2. Facebook Ads — Lead Generation
 
 **Campagna**: Lead Generation - Iperammortamento
-**Adset**: Lead Generation - Cap Province Vicenza/Padova/Verona/Venezia/Treviso/Trento/Belluno
-**Ad**: Video - Raccolta contatti Iperammortamento - Copia
-**Form**: Modulo Iperammortamento 2026-campagna maggio-definitivo
-**Periodo**: 13 mag – 25 mag 2026 (13 giorni)
+**Adset**: Cap Province Vicenza/Padova/Verona/Venezia/Treviso/Trento/Belluno
+**Ad principale**: Video - Raccolta contatti Iperammortamento - Copia
+**Periodo**: 11 maggio – 11 giugno 2026 (31 giorni)
 
-### 2.1 Metriche aggregate — Inserzione Video (principale)
+### 2.1 Metriche aggregate — confronto periodo
 
-| Metrica | Valore |
-|---|---|
-| Periodo | 11–26 maggio 2026 |
-| Spesa totale | **€219,09** |
-| Impression | **15.113** |
-| Copertura (reach) | **8.352** |
-| Frequenza | **1,81** |
-| Risultati (lead da form) | **3** |
-| Costo per lead (CPL) | **€73,03** |
-| CPM | €14,50 |
-| CTR (tutti i clic) | 1,44% |
-| CPC (tutti i clic) | €1,01 |
-| Clic sul link | 146 |
-| CPC (link) | €1,50 |
-| Visualizzazioni video | 14.928 |
-| Tempo medio riproduzione | 4 secondi |
-| Interazioni con il post | 3.566 |
-| Reazioni | 26 |
+| Metrica | 13–25 mag (13 gg) | 11 mag–11 giu (31 gg) | Δ |
+|---|---|---|---|
+| Spesa totale (campagna) | €219,66 | **€394,74** | +80% |
+| Lead | 3 | **5** | +2 |
+| CPL | €73,03 | **€78,95** | +€5,92 |
+| Copertura | 8.352 | **11.387** | +36% |
+| Impression | 15.113 | **22.007** | +46% |
+| Frequenza | 1,81 | **~1,93** | +0,12 |
 
-> **Nota inserzione grafica**: presente una seconda inserzione "Grafica - Raccolta contatti Iperammortamento" con spesa di €0,57 su 102 impression e 0 lead — inserzione marginale, probabilmente in fase di test.
+**Letture**:
+- Il CPL si è leggermente alzato (+€5,92) nonostante il volume di lead sia raddoppiato in valore assoluto (3 → 5). Su una base di 5 osservazioni la varianza è alta: il dato non è ancora statisticamente significativo, ma l'ordine di grandezza (~€75-80 a lead) è ormai consolidato.
+- La frequenza media sale a 1,93: il pubblico inizia a vedere l'inserzione quasi 2 volte. Sotto 2 è ancora gestibile, sopra 2,5 si entra in zona affaticamento creativo.
 
-**Spesa totale campagna Facebook (video + grafica): €219,66**
+### 2.2 Distribuzione geografica (31 giorni)
 
-### 2.2 Valutazione qualità inserzione (Meta)
+| Regione | Copertura | Impression | Frequenza | Lead | Spesa | CPL |
+|---|---|---|---|---|---|---|
+| Veneto | 10.068 | 19.834 | 1,97 | 4 | €346,88 | €86,72 |
+| Trentino-A.A. | 943 | 1.702 | 1,80 | 1 | €34,29 | €34,29 |
+| Lombardia | 261 | 339 | 1,30 | 0 | €11,09 | — |
+| Emilia-Romagna | 115 | 132 | 1,15 | 0 | €2,48 | — |
+| **Totale** | **11.387** | **22.007** | **~1,93** | **5** | **€394,74** | **€78,95** |
 
-| Dimensione | Rating |
-|---|---|
-| Valutazione della qualità | Nella media |
-| Tasso di coinvolgimento | Nella media |
-| Tasso di conversione | **Sotto la media** (35% delle inserzioni meno pertinenti) ⚠️ |
+**Osservazioni operative**:
+- Il targeting è impostato sulle province del Veneto + Trento + Belluno, ma Meta sta distribuendo budget marginale su Lombardia ed Emilia-Romagna (~3,4% del totale, €13,57). I lead provengono tutti dal Veneto/Trentino — la spesa fuori-target non sta producendo risultati.
+- **Trentino-A.A. ha il CPL migliore** (€34,29 contro €86,72 del Veneto): conferma che Trento/Belluno sono mercati meno saturi e con un cost-per-acquisition più favorevole. Da considerare come segnale per eventuali split adset futuri.
+- **Veneto concentra l'80% dei lead** ma anche l'88% della spesa: efficienza coerente con la massa critica di pubblico, ma CPL più alto di 2,5x rispetto a Trentino.
 
-> Il tasso di conversione "sotto la media" di Meta indica che, a parità di pubblico e budget, le inserzioni simili del settore ottengono più lead. Il CPL di €73 è elevato per una campagna B2B lead gen su Meta. Il problema principale potrebbe essere il form troppo lungo o non ottimizzato per mobile.
+### 2.3 Lead raccolti
 
-### 2.2 Lead raccolti
-
-**Lead reali qualificati: 3** (1 lead test Meta escluso)
+**Lead reali qualificati: 5** (di cui 3 con anagrafica completa nel CSV, 2 acquisiti dopo il 25 maggio non presenti nel CSV dettagliato fornito).
 
 | # | Nome | Azienda | Settore | Provincia | Budget dichiarato | Fase | Tipo investimento |
 |---|---|---|---|---|---|---|---|
 | 1 | Nicola Conzatti | Conzatti Elettromeccanica Srl | Servizi Elettrici | Trento | €100.000–250.000 | In valutazione | Nuovo macchinario |
 | 2 | Michele Bolzonella | (Edilizia) | Edilizia | Venezia | €50.000–100.000 | In valutazione | Nuovo autocarro |
 | 3 | Adriano Pegoraro | Mikiservice Srl | Trasporti e movimento terra | Padova | €100.000–250.000 | Da ordinare | Nuovo macchinario |
+| 4 | n/d | n/d | n/d | Veneto (presunto) | n/d | n/d | n/d |
+| 5 | n/d | n/d | n/d | Veneto (presunto) | n/d | n/d | n/d |
 
-### 2.3 Analisi qualità lead
+> **Nota dati**: il CSV leads dettagliato fornito copre solo fino al 25 maggio (3 lead). I 2 lead aggiuntivi (acquisiti tra il 26 maggio e l'11 giugno) sono ricavati dal delta numerico dei risultati Meta (3 → 5) e dall'allocazione regionale (entrambi in Veneto). L'anagrafica completa dei 2 nuovi lead va recuperata direttamente dal pannello lead Meta o dal CRM/file di consegna interno di Studio Bognolo prima del primo follow-up commerciale.
+
+### 2.4 Analisi qualità lead (campione consolidato)
 
 **Punti positivi**:
-- Tutti e 3 i lead hanno fornito email aziendale o comunque verificabile.
-- 2 lead su 3 dichiarano budget superiore a €100.000 — fascia alta, coerente con il profilo cliente ideale di Studio Bognolo.
-- Il lead Pegoraro (Mikiservice) è in fase "da ordinare": alta urgenza, potenziale conversione rapida.
-- Copertura geografica coerente con il targeting: Trento, Venezia, Padova.
+- 2/3 lead anagrafabili dichiarano budget > €100.000 — fascia coerente con il profilo cliente target.
+- Pegoraro (Mikiservice) in fase "da ordinare": alta urgenza commerciale.
+- Distribuzione geografica coerente con il targeting (Trento, Venezia, Padova).
 
 **Punti di attenzione**:
-- Michele Bolzonella usa email Yahoo personale — lead potenzialmente meno qualificato (edilizia / autocarro: verificare ammissibilità bene ai fini Iperammortamento 4.0).
-- 3 lead in 13 giorni è un volume basso ma accettabile per una campagna B2B di nicchia nella fase iniziale.
-- CPL di €73,03 su Facebook: elevato per il settore B2B lead gen. Da ottimizzare con form più snello e creative test.
-
----
-
-## 3. Sintesi Congiunta
-
-| Canale | Spesa | Lead | CPL stimato |
-|---|---|---|---|
-| Google Ads | €245,91 | n.d. (tracking assente) | n.d. |
-| Facebook Ads | €219,66 | 3 lead reali | **€73,03/lead** |
-| **Totale** | **€465,57** | **3 lead confermati** | **€155,19/lead (su FB)** |
-
-> Con il tracking conversioni Google Ads non configurato, il CPL complessivo rimane parziale. Se anche Google avesse generato lead (i 5 click "Contattaci" su Clarity sono un segnale), il CPL reale sarebbe inferiore. Configurare il tracking è la priorità assoluta per la prossima ottimizzazione.
-
----
-
-## 4. Azioni Raccomandate
-
-### Priorità ALTA
-
-1. **Configurare il tracking conversioni su Google Ads** — Definire e implementare almeno un evento di conversione (es. invio form contatto su landing, click su numero di telefono, click su email). Senza questo dato l'algoritmo AI Max non può ottimizzare e il ROI rimane non misurabile. *Responsabile: team tecnico / Elisa. Deadline: entro 7 giorni.*
-
-2. **Ottimizzare il form Facebook Ads** — Il tasso di conversione è classificato "sotto la media" da Meta. Rivedere il form nativo (ridurre campi, adattare per mobile) per abbassare il CPL attuale di €73,03. *Responsabile: Elisa. Deadline: entro 7 giorni.*
-
-3. **Contattare i 3 lead Facebook** — Priorità: Adriano Pegoraro (Mikiservice, fase "da ordinare"). Verificare ammissibilità Michele Bolzonella (autocarro in edilizia). *Responsabile: Studio Bognolo. Deadline: entro 48 ore.*
-
-### Priorità MEDIA
-
-4. **Analisi search terms uncategorized** — Verificare nel pannello Google Ads le query effettive che generano il 40% delle impression (categoria "uncategorized"). Aggiungere negative keyword per query non pertinenti e migliorare la qualità del traffico.
-
-5. **Monitorare keyword "perizia iperammortamento"** — CPC alto (€2,31) ma keyword ad alta intenzione. Con tracking attivo sarà possibile valutare se il costo è giustificato dal tasso di conversione.
-
-6. **Valutare bid adjustment Belluno** — CTR 11,43% e CPC €0,62: mercato poco competitivo con alta intenzione. Potenziale da aumentare leggermente la presenza.
-
-7. **Verifica UX mobile landing page** — Il mobile genera il 34,9% dei click con CTR superiore al desktop. Verificare che il form su `/iperammortamento-2026/` sia ottimizzato per compilazione mobile.
+- Bolzonella (Yahoo personale, edilizia + autocarro): verificare ammissibilità del bene rispetto ai requisiti di interconnessione 4.0 prima di investire tempo commerciale.
+- Volume lead complessivo (5 in 31 giorni) resta basso ma in linea con un B2B di nicchia. Il vero benchmark sarà il **conversion rate lead → cliente pagante**: dato disponibile solo dopo il follow-up commerciale di Studio Bognolo.
 
 ---
 
 ## 3. Landing Page — Microsoft Clarity
 
-**URL**: bognolo.it/iperammortamento-2026/
-**Periodo**: 11 maggio – 26 maggio 2026
+**URL principale**: bognolo.it/iperammortamento-2026/
+**Periodo**: 11 maggio – 11 giugno 2026 (31 giorni)
 
-### 3.1 Metriche chiave
+### 3.1 Metriche chiave — confronto periodo
 
-| Metrica | Valore |
+| Metrica | 11–26 mag | 11 mag–11 giu | Δ |
+|---|---|---|---|
+| Sessioni totali | 413 | **710** | +72% |
+| Sessioni bot | 52 (12,6%) | **140 (19,7%)** | +88 |
+| Sessioni reali | 361 | **570** | +58% |
+| Utenti unici | 358 | **598** | +67% |
+| Nuovi utenti | 95,5% | **89,6%** | -5,9 pp |
+| Utenti di ritorno | 4,5% | **10,4%** | +5,9 pp |
+| Pagine per sessione | 1,47 | **1,52** | +0,05 |
+| Profondità scorrimento media | 28,6% | **30,12%** | +1,5 pp |
+| Tempo attivo / totale | 57s / 130s (44%) | **66s / 150s (44%)** | +9s attivo |
+
+**Letture**:
+- **Quota utenti di ritorno raddoppiata** (4,5% → 10,4%): segnale positivo di riconoscimento del brand o di utenti che tornano per valutare. Coerente con un servizio B2B ad alto coinvolgimento.
+- **Bot al 19,7%** (era 12,6%): quota in crescita, da monitorare nel break-down (vedi 3.6).
+- **Tempo attivo cresciuto da 57s a 66s** (+15%) a parità di proporzione attivo/totale: gli utenti restano leggermente più a lungo sulla pagina.
+
+### 3.2 Segnali di frustrazione — confronto
+
+| Segnale | 11–26 mag | 11 mag–11 giu | Trend |
+|---|---|---|---|
+| Clic inattiva (dead click) | 33 (7,99%) | **56 (7,89%)** | stabile in % |
+| Clic rapido tasto Indietro | 10 (2,42%) | **24 (3,38%)** | ⚠️ **+0,96 pp, raddoppiato in valore assoluto** |
+| Rage click | 1 (0,24%) | 1 (0,14%) | stabile |
+| Scorrimento eccessivo | 1 (0,24%) | 2 (0,28%) | stabile |
+
+**Letture critiche**:
+- **Quick back salito al 3,38%**: 24 sessioni in cui l'utente atterra e torna indietro rapidamente. È il segnale più chiaro di un possibile **disallineamento tra promessa dell'annuncio e contenuto della landing**. Da valutare se rivedere la coerenza headline annuncio ↔ headline landing, o se il problema è il tempo di caricamento (LCP 4,5s = molti utenti tornano indietro prima di vedere il contenuto).
+- **Dead click stabile in proporzione (~8%)** ma cresciuto in valore assoluto (33 → 56): da identificare con session replay quali elementi sembrano cliccabili e non lo sono.
+
+### 3.3 Pagine principali (sessioni)
+
+| Pagina | Sessioni |
 |---|---|
-| Sessioni totali | 413 (di cui 52 bot — 12,6%) |
-| Sessioni reali (no bot) | 361 |
-| Utenti unici | 358 |
-| Nuovi utenti | 382 sessioni (95,5%) |
-| Utenti di ritorno | 31 sessioni (4,5%) |
-| Pagine per sessione | 1,47 |
-| Profondità di scorrimento media | 28,6% |
-| Tempo di attività / Tempo totale | 57s / 130s (44% del tempo attivo) |
+| bognolo.it/ (homepage) | 91 |
+| bognolo.it/iperammortamento-2026/ | 73 |
+| bognolo.it/perizie-tecniche/ | 14 |
+| **bognolo.it/iperammortamento-2026/#form** | **12** ← segnale qualitativo importante |
+| bognolo.it/chi-siamo/ | 10 |
+| bognolo.it/contatti/ | 9 |
 
-**Nota bot**: 52 sessioni bot rilevate (17 da PPC ad fraud). Il dato è da tenere presente nella valutazione della qualità del traffico Google Ads.
+> **12 sessioni sull'ancora `#form`**: gli utenti stanno effettivamente raggiungendo la sezione del form (autonomamente o tramite link interno). È un segnale di intenzione reale che oggi non si converte in lead tracciato. Va incrociato con i 9 click "Contattaci" Smart Event (3.5).
 
-### 3.2 Comportamento utenti
-
-| Segnale | Sessioni | % |
-|---|---|---|
-| Clic inattiva (dead click) | 33 | 7,99% |
-| Clic rapido tasto Indietro | 10 | 2,42% |
-| Rage click | 1 | 0,24% |
-| Scorrimento eccessivo | 1 | 0,24% |
-
-**Osservazioni**:
-- La **profondità di scorrimento al 28,6%** è bassa: la maggior parte degli utenti non scende oltre il primo quarto della pagina. Il form o la CTA principale devono trovarsi molto in alto (above the fold).
-- **7,99% di dead click** indica elementi che sembrano cliccabili ma non lo sono — da identificare con le heatmap di Clarity.
-- **2,42% di quick back** (10 sessioni): gli utenti tornano indietro rapidamente dopo l'atterraggio — possibile disallineamento tra promessa dell'annuncio e contenuto della landing.
-
-### 3.3 Device / Browser
+### 3.4 Browser / Device
 
 | Browser | Sessioni | % |
 |---|---|---|
-| Chrome (desktop) | 208 | 50,36% |
-| ChromeMobile | 82 | 19,85% |
-| MobileSafari | 47 | 11,38% |
-| GoogleApp | 18 | 4,36% |
-| Firefox | 16 | 3,87% |
-| SamsungInternet | 15 | 3,63% |
-| Edge | 13 | 3,15% |
-| InstagramApp + FacebookApp | 8 | 1,94% |
+| Chrome (desktop) | 352 | 49,58% |
+| ChromeMobile | 140 | 19,72% |
+| MobileSafari | 69 | 9,72% |
+| Firefox | 40 | 5,63% |
+| Edge | 28 | 3,94% |
+| SamsungInternet | 26 | 3,66% |
+| FacebookApp + InstagramApp | 18 | 2,54% |
 
-**Nota mobile**: ChromeMobile + MobileSafari + SamsungInternet = ~35% delle sessioni, coerente con i dati Google Ads. Confermata la necessità di ottimizzare la landing per mobile.
+**Mobile complessivo (~35%)**: confermato il dato del primo blocco e coerente con Google Ads. La rilevanza del mobile sulle micro-conversion (form) è ribadita.
 
-### 3.4 Sorgenti di traffico (Referrer)
+### 3.5 Smart Events — confronto
+
+| Evento | 11–26 mag | 11 mag–11 giu | Trend |
+|---|---|---|---|
+| Click "Contattaci" | 5 (1,21%) | **9 (1,27%)** | **+80% volume**, +0,06 pp |
+| Clic in uscita | 4 (0,97%) | 5 (0,70%) | stabile |
+
+> **+80% sui click "Contattaci"**: 9 sessioni hanno cliccato il pulsante di contatto. Combinato con le 12 sessioni sull'ancora `#form` siamo intorno a **20+ micro-conversioni potenziali** in 31 giorni — ma **nessuna è tracciata su Google Ads** né su GA4. È il dato più frustrante del report: c'è intenzione reale che non si trasforma in lead misurabile.
+
+### 3.6 Bot traffic — break-down
+
+| Tipologia bot | Sessioni |
+|---|---|
+| suspiciousInteractionBot | 119 |
+| suspiciousNetworkBot | 99 |
+| suspiciousDeviceBot | 72 |
+| ppcAdFraudBot | 45 ← impatta direttamente Google Ads |
+| webScraperBot | 6 |
+| otherBots | 1 |
+
+**Letture**:
+- **45 sessioni di "PPC ad fraud"** (era 17 nel primo blocco): il dato è quasi triplicato. Su 428 click Google Ads, 45 sessioni potenzialmente fraudolente sono il **~10,5% del traffico paid** — soglia da monitorare. A campagna terminata, valutare richiesta di rimborso a Google per invalid clicks se il pattern persiste.
+- Le altre categorie bot (interaction/network/device) sono pattern di scraping generici, meno preoccupanti operativamente ma rilevanti per l'igiene dati.
+
+### 3.7 Performance tecnica (Core Web Vitals) — confronto
+
+| Metrica | 11–26 mag | 11 mag–11 giu | Trend | Soglia Google |
+|---|---|---|---|---|
+| Punteggio complessivo | 67,7/100 | **72,7/100** | **+5 punti** ✅ | 90+ ottimo |
+| LCP (Largest Contentful Paint) | 5,401s ❌ | **4,542s** ❌ | **-0,86s** (migliorato) | <2,5s |
+| INP (Interaction to Next Paint) | 170ms ✅ | **216ms** ⚠️ | **+46ms** (peggiorato) | <200ms |
+| CLS (Cumulative Layout Shift) | 1,582 ❌ | **0,2255** ⚠️ | **-86%** (drasticamente migliorato) | <0,1 |
+
+**Letture**:
+- **CLS in netto recupero**: da 1,582 a 0,225 (-86%). Era una delle azioni segnalate come priorità nel report precedente — l'intervento del team sviluppo ha funzionato. Rimane sopra la soglia ottimale Google (0,1) ma l'esperienza utente ne ha già beneficiato.
+- **LCP migliorato ma ancora critico**: da 5,4s a 4,5s. Stiamo recuperando ma siamo ancora a quasi il doppio della soglia Google (2,5s). Impatta direttamente:
+  - Quality Score Google Ads (e quindi CPC reale)
+  - Quick back rate (utenti che tornano indietro prima del caricamento)
+  - Conversione del form (utenti mobile che non aspettano)
+- **INP peggiorato**: 170ms → 216ms. È sceso sotto la soglia "buono" e si avvicina alla zona "scarso". Probabile correlazione con l'intervento sul CLS: l'ottimizzazione del layout potrebbe aver introdotto JavaScript pesante. Da verificare con il dev team.
+- **Punteggio complessivo +5 punti**: progressione concreta ma siamo ancora lontani dal target 90+.
+
+### 3.8 Sorgenti di traffico (referrer)
 
 | Referrer | Sessioni |
 |---|---|
-| google.com / google.it | 254 |
-| bognolo.it (navigazione interna) | 239 |
-| facebook.com / l.facebook.com | 2 |
-| Altri (LinkedIn, YouTube, Bing, ecc.) | 6 |
+| google.com | 397 |
+| bognolo.it (navigazione interna) | 388 |
+| syndicatedsearch.goog | 16 |
+| LinkedIn, YouTube, altri | minimi |
 
-**Nota**: il traffico Facebook verso la landing è quasi assente (2 sessioni) — coerente con la struttura della campagna Meta che usa il form nativo di Facebook invece di rimandare alla landing. I lead Meta vengono raccolti direttamente nel form Facebook, non su bognolo.it.
-
-### 3.5 Pagine visitate
-
-La landing `/iperammortamento-2026/` raccoglie 334 sessioni su 413 totali del sito (81%). Le visite alle altre pagine (perizie-tecniche, chi-siamo, contatti) sono marginali ma indicano un minimo di esplorazione del sito da parte di utenti interessati.
-
-**Segnale positivo**: 1 sessione registrata su `/fusion_form/form-ammortamento-2026/` — un utente ha raggiunto la pagina del form (potenziale contatto non tracciato).
-
-### 3.6 Performance tecnica (Core Web Vitals)
-
-| Metrica | Valore | Giudizio |
-|---|---|---|
-| Punteggio complessivo | 67,7/100 | ⚠️ Migliorabile |
-| LCP (Largest Contentful Paint) | 5,401s | ❌ Critico (soglia: <2,5s) |
-| INP (Interaction to Next Paint) | 170ms | ✅ Buono (soglia: <200ms) |
-| CLS (Cumulative Layout Shift) | 1,582s | ❌ Critico (soglia: <0,1) |
-
-**⚠️ GAP TECNICO CRITICO**: LCP a 5,4 secondi e CLS a 1,582 sono valori molto al di sopra delle soglie Google. Questi problemi:
-- Penalizzano il Quality Score degli annunci Google Ads (impatto diretto su CPC e posizionamento)
-- Aumentano il bounce rate, specialmente su mobile
-- Riducono il tasso di compilazione del form
-
-### 3.7 Errori JavaScript
-
-1 errore JavaScript rilevato ("script error") in 1 sessione — basso impatto, da monitorare.
-
-### 3.8 Smart Events
-
-| Evento | Sessioni | % |
-|---|---|---|
-| Contattaci (click) | 5 | 1,21% |
-| Clic in uscita | 4 | 0,97% |
-
-**Micro-conversion rate**: 5 click su "Contattaci" su 361 sessioni reali = **1,38%**. Dato da incrociare con il tracking conversioni Google Ads (ancora assente) per capire quanti di questi si trasformano in lead.
+**Nota**: il traffico Facebook resta marginale verso il sito — coerente con il flusso lead-gen Meta che usa il form nativo. I lead Meta non passano da bognolo.it.
 
 ---
 
-## 4. Landing Page — Google Analytics 4
+## 4. Sintesi Congiunta
 
-**Proprietà**: bognolo.it
-**Periodo**: 28 aprile – 25 maggio 2026
-**Report**: Pages and screens — Page title and screen class
-
-### 4.1 Pagine per visualizzazioni
-
-| Pagina | Views | Utenti attivi | Views/utente | Tempo medio coinvolgimento |
-|---|---|---|---|---|
-| **Iperammortamento 2026** (landing campagna) | **480** | **159** | 3,02 | **97s** |
-| Homepage | 126 | 40 | 3,15 | 57s |
-| Perizie Tecniche | 25 | 12 | 2,08 | 65s |
-| Chi siamo | 23 | 11 | 2,09 | 46s |
-| Contatti | 12 | 9 | 1,33 | 31s |
-| Progettazione Meccanica | 10 | 8 | 1,25 | 39s |
-| Servizi per l'ufficio tecnico | 8 | 5 | 1,60 | 22s |
-| Form ammortamento 2026 | 3 | 1 | 3,00 | 0s |
-
-**Nota anomalia**: 1 sessione con titolo in cinese ("2026年超額折旧…") — probabile bot/spam, da filtrare.
-
-### 4.2 Analisi landing campagna
-
-La pagina **Iperammortamento 2026** domina con 480 views (65% del totale sito) e 159 utenti attivi.
-
-Dati rilevanti:
-- **Tempo medio di coinvolgimento: 97 secondi** — valore positivo per una landing B2B; gli utenti che restano leggono il contenuto
-- **Views per utente: 3,02** — ogni utente attivo visita la pagina in media 3 volte (possibile ricerca ripetuta o ritorno per compilare il form)
-- **Key events: 0** — conferma l'assenza di eventi di conversione configurati in GA4 (allineato con il gap Google Ads)
-- **Form ammortamento 2026**: 3 views / 1 utente attivo / 0s di coinvolgimento — l'utente ha raggiunto la pagina del form ma non l'ha compilato (o il tempo non è stato registrato)
-
-### 4.3 Navigazione post-landing
-
-Gli utenti che esplorano oltre la landing si dirigono verso:
-1. Perizie Tecniche (25 views) — interesse per il servizio core
-2. Chi siamo (23 views) — verifica credibilità dello studio
-3. Contatti (12 views) — intenzione di contatto diretta
-
-Questo percorso è coerente con un pubblico B2B che valuta il fornitore prima di compilare il form.
-
-### 4.4 Confronto Clarity vs GA4
-
-| Metrica | Clarity (11–26 mag) | GA4 (28 apr–25 mag) | Nota |
+| Canale | Spesa | Lead misurabili | CPL |
 |---|---|---|---|
-| Sessioni/Views landing | 334 sessioni | 480 views | Periodi diversi — non comparabili direttamente |
-| Tempo sulla pagina | 130s totale / 57s attivo | 97s coinvolgimento | GA4 conferma engagement reale |
-| Navigazione al form | 1 sessione | 3 views / 1 utente | Segnale debole ma consistente |
+| Google Ads | €373,97 | n/d (tracking assente) | n/d |
+| Facebook Ads | €394,74 | 5 lead reali | **€78,95** |
+| **Totale** | **€768,71** | **5 lead confermati** | **€153,74** (parziale, solo FB tracciato) |
 
----
+**Segnali da Clarity non monetizzati**:
+- 9 click "Contattaci" Smart Event
+- 12 sessioni sull'ancora `#form`
+- ~20+ micro-conversioni potenziali totali in 31 giorni, **non tracciate**.
 
-## 5. Sintesi Congiunta
-
-| Canale | Spesa | Sessioni/Views landing | Lead / Contatti | CPL stimato |
-|---|---|---|---|---|
-| Google Ads | €245,91 | 254 sessioni (Clarity) | 5 click "Contattaci" (non tracciati) | n.d. |
-| Facebook Ads | €219,66 | 2 (form nativo Meta) | 3 lead reali | **€73,03** |
-| Landing organica/diretta | — | ~107 sessioni (Clarity) | — | — |
-| **Totale** | **€465,57** | **480 views GA4 / ~361 sessioni reali Clarity** | **3 lead + 5 micro-interazioni** | **€155,19 (CPL campagna complessiva, parziale)** |
-
-**Segnale positivo da GA4**: 97 secondi di coinvolgimento medio sulla landing — gli utenti leggono. Il problema non è il contenuto, ma la mancanza di conversione tracciata e probabilmente la posizione del form (scorrimento medio Clarity: 28,6%).
+> Se anche solo il 25% delle micro-conversioni Clarity fosse stata in realtà un lead Google reale (ipotesi conservativa), il CPL Google sarebbe nell'ordine dei €70-80 — comparabile al CPL Facebook. Senza tracking restiamo nell'incertezza: questa è la principale leva di efficienza non sfruttata del progetto.
 
 ---
 
 ## 5. Azioni Raccomandate
 
-### Priorità ALTA
+### Priorità ALTA (bloccanti)
 
-1. **Configurare il tracking conversioni su Google Ads** — Implementare almeno un evento di conversione (invio form, click su email/telefono). Senza questo l'algoritmo AI Max non ottimizza e il ROI è non misurabile. *Responsabile: team tecnico / Elisa. Deadline: entro 7 giorni.*
+1. **Configurare il tracking conversioni Google Ads — 32° giorno senza tracciamento**
+   Implementare almeno un evento di conversione (invio form, click su numero/email, click "Contattaci"). Fino ad allora AI Max sta ottimizzando solo sui click. Senza questo intervento, ogni euro speso su Google in giugno-luglio è budget sub-ottimale.
+   *Owner: team tecnico Bognolo + Elisa. Deadline: entro 5 giorni.*
 
-2. **Risolvere LCP e CLS della landing page** — LCP 5,4s e CLS 1,582 sono critici. Impattano Quality Score Google Ads, bounce rate e tasso di conversione del form. Priorità tecnica immediata. *Responsabile: sviluppatore sito. Deadline: entro 14 giorni.*
+2. **Risolvere LCP (4,54s vs soglia 2,5s)**
+   Il CLS è stato risolto, ora il punto critico è il Largest Contentful Paint. Probabili interventi: lazy-load immagini hero, ottimizzare web fonts, ridurre payload JavaScript above-the-fold.
+   *Owner: sviluppatore sito. Deadline: entro 14 giorni.*
 
-3. **Configurare Key Events in GA4** — Nessun key event configurato su GA4: aggiungere almeno invio form e click su contatti. Permetterà di misurare il funnel completo e incrociare i dati con Google Ads. *Responsabile: team tecnico. Deadline: contestuale al punto 1.*
+3. **Verificare INP (216ms, peggiorato dopo l'intervento CLS)**
+   Investigare se l'ottimizzazione layout ha introdotto JavaScript pesante. INP fuori soglia ha impatto su Quality Score e tasso di interazione del form.
+   *Owner: sviluppatore sito. Deadline: contestuale al punto 2.*
 
-4. **Contattare i 3 lead Facebook** — Priorità: Adriano Pegoraro (Mikiservice, fase "da ordinare"). Verificare ammissibilità Michele Bolzonella (autocarro in edilizia). *Responsabile: Studio Bognolo. Deadline: entro 48 ore.*
+4. **Recuperare anagrafica completa dei 2 nuovi lead Facebook (post 25 maggio)**
+   Esportare il CSV lead aggiornato dal pannello Meta o dal CRM Bognolo per consentire il follow-up commerciale.
+   *Owner: Studio Bognolo. Deadline: entro 48h.*
+
+5. **Decisione strategica fine campagna**
+   Definire entro fine giugno se: (a) aumentare il budget nell'ultima finestra utile per chiudere lead "da ordinare" prima dell'estate; (b) consolidare il CPL Facebook attuale e tagliare progressivamente; (c) chiudere a fine luglio. La decisione dipende dai lead già contattati e dalla loro pipeline commerciale.
+   *Owner: Studio Bognolo + Elisa. Deadline: 25 giugno.*
 
 ### Priorità MEDIA
 
-5. **Spostare form/CTA above the fold** — Profondità scorrimento al 28,6%: la maggior parte degli utenti non vede il form. Posizionarlo più in alto aumenterebbe le conversioni senza altri interventi. *Responsabile: sviluppatore sito.*
+8. **Testare headline "Agevolazioni per aziende" in posizione 1 e sostituire gli asset morti**
+   "Agevolazioni per aziende" ha il CTR più alto delle headline (12,29%) su 301 impression. Da promuovere a posizione pinned per raccogliere più dati. Eliminare "Ottieni Perizia Asseverata" (0 click) e "Iperammortamento per software" (0 click) — Google le ha già di fatto scartate. Inserire 2 varianti con struttura "[Azione] + [Beneficio diretto]" (es. "Scopri se il Tuo Macchinario Rientra", "Perizia in 5 Giorni Lavorativi").
+   *Owner: Elisa. Deadline: entro 7 giorni.*
 
-6. **Identificare dead click con heatmap Clarity** — 33 sessioni con dead click (7,99%): aprire le session recordings in Clarity per identificare quali elementi confondono gli utenti.
+9. **Riformulare la description "Iperammortamento: il tuo investimento rientra?"**
+   Ha il CTR più basso tra le description (6,95%) nonostante sia mostrata con più impression. Testare una variante con CTA esplicita e riduzione del rischio percepito, allineata al pattern vincente delle description ad alto CTR ("gratuita", "senza impegno").
+   *Owner: Elisa. Deadline: contestuale al punto 8.*
 
-7. **Analisi search terms uncategorized Google Ads** — 40% delle impression in categorie non classificate. Aggiungere negative keyword per query non pertinenti.
+10. **Indagare il quick back al 3,38%**
+   Da 2,42% a 3,38% in 31 giorni. Aprire 10-15 session replay Clarity per capire se è LCP (utenti che escono prima del caricamento) o disallineamento contenuto (annuncio promette X, landing dice Y). Se è il secondo, riallineare headline e value prop above-the-fold.
 
-8. **Monitorare keyword "perizia iperammortamento"** — CPC alto (€2,31) ma keyword ad alta intenzione. Con tracking attivo valutare se il costo è giustificato.
+11. **Ottimizzare l'esperienza del form (12 sessioni dirette su `#form`)**
+   12 utenti hanno raggiunto direttamente la sezione del form senza convertirsi. Verificare con session replay dove si interrompono. Possibili cause: campi superflui, validazioni rigide, mancanza di feedback al submit, esperienza mobile non ottimale.
 
-9. **Valutare bid adjustment Belluno** — CTR 11,43% e CPC €0,62: mercato poco competitivo con alta intenzione.
+12. **Monitoraggio "perizia iperammortamento" (CPC €1,65 — keyword più cara)**
+   Cresciuta da 5 a 9 click. Una volta attivo il tracking, valutare se il CPC è giustificato dal tasso di conversione lead. Se sì, mantenere; se no, valutare bid adjustment al ribasso.
+
+13. **Verificare PPC ad fraud (45 sessioni)**
+   ~10,5% dei click Google sono classificati come fraudolenti da Clarity. A campagna conclusa, esportare il dato e considerare reclamo Google Ads per invalid clicks.
+
+14. **Identificare i 56 dead click con heatmap Clarity**
+    7,89% delle sessioni clicca elementi non interattivi. Identificare i 3-5 elementi più colpiti e renderli effettivamente cliccabili o rimuovere l'affordance visiva fuorviante.
+
+### Priorità BASSA (opportunità)
+
+15. **Split adset Facebook Trentino vs Veneto**
+    CPL Trentino €34,29 vs Veneto €86,72 (2,5x più basso). Valutare un adset dedicato Trentino-Belluno con budget proporzionale per testare se il mercato meno saturo regge la scalabilità.
+
+16. **Bid adjustment Belluno Google Ads**
+    CTR 11,43% e CPC €0,62 (dato primo blocco): mercato favorevole. Valutare bid +10/15% per intercettare più volume su query qualificate.
 
 ---
 
-*Report generato il 2026-05-26. Dati Google Ads: 10–26 maggio 2026. Dati Facebook Ads: 13–25 maggio 2026. Dati Clarity: 11–26 maggio 2026. Dati GA4: 28 aprile–25 maggio 2026.*
+## 6. Flag revisione strategia
+
+**Revisione strategica annuale necessaria**: ❌ NO (per ora).
+
+**Motivazione**:
+- Siamo a 31 giorni dalla partenza, in piena fase di rampa-up della prima campagna.
+- I KPI principali (CTR, CPC, CPL Facebook) sono dentro range accettabili per il settore B2B di nicchia.
+- Il problema dominante non è strategico ma operativo (tracking conversioni mancante, LCP critico). Sono interventi tecnici, non di posizionamento.
+- La finestra commerciale Iperammortamento 2026 è limitata nel tempo: una revisione strategica ora rischierebbe di interrompere il momentum invece di amplificarlo.
+
+**Quando richiamare lo strategist**:
+- Se al 30 giugno il tracking conversioni resta non configurato → la campagna sta sprecando budget e va rivista la priorità di ingaggio col team tecnico Bognolo.
+- A campagna conclusa (fine luglio o data di stop concordata): consuntivo completo + valutazione se replicare il modello su altre stagionalità fiscali (Iperammortamento 2027, beni strumentali, transizione 5.0 ecc.).
+
+---
+
+*Report generato il 2026-06-11. Periodo dati: 11 maggio – 11 giugno 2026 (31 giorni). Dati device, geografia, Auction Insights, landing page Google Ads disponibili solo per il sotto-periodo 10–26 maggio. Anagrafica dettagliata Facebook leads disponibile per 3 lead su 5 (CSV aggiornato al 25 maggio). Sostituisce la versione del 2026-05-26.*

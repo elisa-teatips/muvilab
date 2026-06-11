@@ -1,0 +1,34 @@
+Ad group report
+"May 11, 2026 - June 11, 2026"
+Ad group status,Ad group,Status,Status reasons,Currency code,Target CPA,Conversions,Currency code,Cost / conv.,Ad group type,Clicks,Impr.,CTR,Avg. CPC,Cost,Brand Inclusions,Locations of interest,Conv. rate
+Enabled,Gruppo Inserzioni Iperammortamento,Eligible,unknown,EUR, --,0.00,EUR,0.00,Standard,428,"5,907",7.25%,0.87,373.97,[],"[geo_target_criterion_id: 	 20608
+localized_full_name: ""Autonomous Province of Trento""
+name: ""Autonomous Province of Trento, Trentino-South Tyrol, Italy""
+country_code: ""IT""
+, geo_target_criterion_id: 	 20620
+localized_full_name: ""Province of Verona""
+name: ""Province of Verona, Veneto, Italy""
+country_code: ""IT""
+, geo_target_criterion_id: 	 20618
+localized_full_name: ""Metropolitan City of Venice""
+name: ""Metropolitan City of Venice, Veneto, Italy""
+country_code: ""IT""
+, geo_target_criterion_id: 	 20619
+localized_full_name: ""Province of Vicenza""
+name: ""Province of Vicenza, Veneto, Italy""
+country_code: ""IT""
+, geo_target_criterion_id: 	 20613
+localized_full_name: ""Province of Treviso""
+name: ""Province of Treviso, Veneto, Italy""
+country_code: ""IT""
+, geo_target_criterion_id: 	 20532
+localized_full_name: ""Province of Belluno""
+name: ""Province of Belluno, Veneto, Italy""
+country_code: ""IT""
+, geo_target_criterion_id: 	 20580
+localized_full_name: ""Province of Padua""
+name: ""Province of Padua, Veneto, Italy""
+country_code: ""IT""
+]",0.00%
+Total: Ad groups,,,,,,0.00,EUR,0.00,,428,"5,907",7.25%,0.87,373.97,,,0.00%
+Total: Campaign,,,,,,0.00,EUR,0.00,,428,"5,907",7.25%,0.87,373.97,,,0.00%
