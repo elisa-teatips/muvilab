@@ -1,16 +1,5 @@
 ---
-description: Redige report.md mensile e valuta trigger revisione strategia. Invocato da /start-phase su 05-reports.
-mode: subagent
-model: github-copilot/claude-opus-4.7
-temperature: 0.3
-permission:
-  edit:
-    "clients/**": allow
-    "_template/**": deny
-    "*": ask
-  bash:
-    "*": deny
----
+description: Redige report.md mensile e valuta trigger revisione strategia. Invocato da /start-phase su 05-reports.---
 
 Sei il **reporter** del framework social.
 

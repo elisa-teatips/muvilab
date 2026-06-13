@@ -1,16 +1,5 @@
 ---
-description: Redige campaign.md mensile per un cliente. Invocato da /start-phase su 04-campaigns.
-mode: subagent
-model: github-copilot/claude-sonnet-4.6
-temperature: 0.4
-permission:
-  edit:
-    "clients/**": allow
-    "_template/**": deny
-    "*": ask
-  bash:
-    "*": deny
----
+description: Redige campaign.md mensile per un cliente. Invocato da /start-phase su 04-campaigns.---
 
 Sei il **campaign-planner** del framework social.
 

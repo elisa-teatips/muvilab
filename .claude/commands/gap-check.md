@@ -1,7 +1,5 @@
 ---
-description: Verifica presenza input minimi per una fase; segnala gap
-agent: plan
----
+description: Verifica presenza input minimi per una fase; segnala gap---
 
 Esegui gap-check per la fase indicata. Argomenti: `<slug> <fase> [<periodo>]` → `$ARGUMENTS`.
 

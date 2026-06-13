@@ -1,7 +1,5 @@
 ---
-description: Crea nuova istanza periodica per una fase (ped/campaigns/reports)
-agent: build
----
+description: Crea nuova istanza periodica per una fase (ped/campaigns/reports)---
 
 Crea nuova istanza di fase periodica.
 

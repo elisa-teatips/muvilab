@@ -1,7 +1,5 @@
 ---
-description: Migra una cartella cliente legacy nel formato framework
-agent: build
----
+description: Migra una cartella cliente legacy nel formato framework---
 
 Migra cartella legacy in `clients/<slug>/`. Argomenti: `<source-path> <slug>` → `$ARGUMENTS`.
 

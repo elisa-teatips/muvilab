@@ -1,7 +1,5 @@
 ---
-description: Mappa stato di tutte le fasi del cliente
-agent: plan
----
+description: Mappa stato di tutte le fasi del cliente---
 
 Status report per il cliente `$ARGUMENTS`.
 

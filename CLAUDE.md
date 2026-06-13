@@ -1,8 +1,3 @@
----
-name: social-framework
-description: Procedure operative del framework gestione clienti social. Usa questa skill quando l'utente lavora su un cliente (`clients/<slug>/`), avvia una fase (presales/strategy/ped/campaigns/reports), invoca un command custom (`/new-client`, `/new-month`, `/start-phase`, `/gap-check`, `/send-mail`, `/status`, `/migrate`), o chiede di applicare le regole di playbook (touch-point mail, gap-check, MVI, silenzio-assenso, isolamento clienti).
----
-
 # Social framework skill
 
 Operatività del mono-repo `framework/`. Letture obbligatorie prima di agire:

@@ -1,7 +1,5 @@
 ---
-description: Compila mail.md 5-blocchi e marca artefatto in-review
-agent: build
----
+description: Compila mail.md 5-blocchi e marca artefatto in-review---
 
 Compila il touch-point mail della fase. Argomenti: `<slug> <fase> [<periodo>]` → `$ARGUMENTS`.
 

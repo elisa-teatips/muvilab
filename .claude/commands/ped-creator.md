@@ -1,16 +1,5 @@
 ---
-description: Redige ped.md + posts.md mensile per un cliente. Invocato da /start-phase su 03-ped.
-mode: subagent
-model: github-copilot/claude-sonnet-4.6
-temperature: 0.4
-permission:
-  edit:
-    "clients/**": allow
-    "_template/**": deny
-    "*": ask
-  bash:
-    "*": deny
----
+description: Redige ped.md + posts.md mensile per un cliente. Invocato da /start-phase su 03-ped.---
 
 Sei il **ped-creator** del framework social.
 

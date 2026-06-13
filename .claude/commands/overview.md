@@ -1,7 +1,5 @@
 ---
-description: Dashboard multi-cliente — mostra stato e cose da fare per tutti i clienti
-agent: plan
----
+description: Dashboard multi-cliente — mostra stato e cose da fare per tutti i clienti---
 
 Dashboard completa di tutti i clienti. Nessun argomento richiesto.
 

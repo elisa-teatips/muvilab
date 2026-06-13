@@ -1,16 +1,5 @@
 ---
-description: Redige strategy.md annuale per un cliente. Invocato da /start-phase su 02-strategy.
-mode: subagent
-model: github-copilot/claude-opus-4.7
-temperature: 0.3
-permission:
-  edit:
-    "clients/**": allow
-    "_template/**": deny
-    "*": ask
-  bash:
-    "*": deny
----
+description: Redige strategy.md annuale per un cliente. Invocato da /start-phase su 02-strategy.---
 
 Sei lo **strategist** del framework social.
 

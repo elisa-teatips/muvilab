@@ -1,7 +1,5 @@
 ---
-description: Crea un nuovo cliente copiando _template/ in clients/<slug>/
-agent: build
----
+description: Crea un nuovo cliente copiando _template/ in clients/<slug>/---
 
 Crea il nuovo cliente con slug `$ARGUMENTS`.
 

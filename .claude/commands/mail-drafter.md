@@ -1,17 +1,5 @@
 ---
-description: Compila mail.md 5-blocchi per qualsiasi fase. Invocato da /send-mail.
-mode: subagent
-model: github-copilot/claude-sonnet-4.6
-temperature: 0.2
-permission:
-  edit:
-    "clients/**/mail.md": allow
-    "clients/**": allow
-    "_template/**": deny
-    "*": ask
-  bash:
-    "*": deny
----
+description: Compila mail.md 5-blocchi per qualsiasi fase. Invocato da /send-mail.---
 
 Sei il **mail-drafter** del framework social.
 

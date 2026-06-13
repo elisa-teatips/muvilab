@@ -1,7 +1,5 @@
 ---
-description: Avvia una fase per il cliente; carica context, gap-check, delega al subagent
-agent: build
----
+description: Avvia una fase per il cliente; carica context, gap-check, delega al subagent---
 
 Avvia fase. Argomenti: `<slug> <fase> [<periodo>]` → `$ARGUMENTS`.
 
