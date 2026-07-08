@@ -81,6 +81,5 @@ La stragrande maggioranza del budget va su campagne di **interazione con i post 
 
 ## Riferimenti
 
-- Referente cliente: Michela Raimondi (m.raimondi@studio-conte.com), CC Paola Piva + Erika (contabilità)
 - Credenziali Instagram (@centrogiotto_padova) erano in chiaro su Notion — vedi nota sicurezza in `context/accesses.md`
 - Contesto completo cliente: `clients/centro-giotto/AGENTS.md`, `clients/centro-giotto/ONBOARDING.md`
