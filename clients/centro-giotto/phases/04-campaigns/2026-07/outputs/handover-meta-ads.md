@@ -49,7 +49,7 @@ Verificato a campione su più gruppi di inserzioni (Engagement, Traffico), il cr
 | 11 | Traffico Social Arrivi Primavera | Completata | Traffico | €119,99 | n.d. |
 | 12 | Interazioni evento 19 aprile Furettomania | Completata | Interazioni | €89,98 | n.d. |
 | 13 | [Interazioni] Video Mese di marzo 2026 | Completata | Interazioni | €79,92 | n.d. |
-| 14 | [Engagement] Post nuovi arrivi primavera FB+IG *(vedi nota sotto)* | Completata | Interazioni | €79,98 | n.d. |
+| 14 | [Engagement] Post nuovi arrivi primavera FB+IG | Completata | Interazioni | €79,98 | n.d. |
 | 15 | [Engagement] Evento Ama Discount febbraio 2026 | Completata | Interazioni | €119,99 | n.d. |
 | 16 | [Engagement] VideoPadova + 30km IG+FB | Completata | Interazioni | €161,67 | n.d. |
 | 17 | [Engagement] Video Pop up store + 25km | Completata | Interazioni | €24,58 | n.d. |
@@ -60,8 +60,6 @@ Verificato a campione su più gruppi di inserzioni (Engagement, Traffico), il cr
 | 22 | [Engagement] Video views Forpen FB+IG Padova +25km | Completata | Interazioni | €111,88 | n.d. |
 
 **Totale verificato: €3.022,51** (coincide con lo Spend totale mostrato da Ads Manager per il periodo).
-
-> Nota riga 14: esiste una seconda campagna con lo stesso nome esatto di riga 5 ("[Engagement] Post nuovi arrivi primavera FB+IG"), ma stato e spesa diversi (Completata/€79,98 vs Non attiva/€218,53). Potrebbe essere un duplicato involontario o due iniziative distinte rinominate per errore — da chiarire con chi ha creato le campagne prima di intervenire su una delle due.
 
 ## Ripartizione spesa per obiettivo
 
@@ -77,8 +75,9 @@ La stragrande maggioranza del budget va su campagne di **interazione con i post 
 
 1. **18 elementi in sospeso** nel pannello "Controlla e pubblica" (5 gruppi di inserzioni + 13 inserzioni con modifiche non pubblicate), di cui **1 gruppo di inserzioni con un errore bloccante**. Non ho pubblicato né corretto nulla: va rivisto da chi prende in mano l'account prima di premere "Pubblica", perché non è chiaro se le modifiche in sospeso siano intenzionali o bozze dimenticate.
 2. **12 campagne "Elemento non pubblicato"** con spesa €0, mai andate live — alcune molto datate (es. due bozze del 2022 su "Mostra del Cinema di Venezia"). Sono bozze morte che appesantiscono l'account; da valutare se eliminarle o è materiale riciclabile.
-3. **Nome campagna duplicato** — vedi nota alla riga 14 della tabella sopra.
-4. **Data fine contratto errata su Notion** (01/02/2025) — già segnalato in [[project_centro_giotto_muvilab]], il contratto è attivo, il campo va corretto sulla scheda cliente.
+3. **Data fine contratto errata su Notion** (01/02/2025) — già segnalato in [[project_centro_giotto_muvilab]], il contratto è attivo, il campo va corretto sulla scheda cliente.
+
+> Nota: righe 5 e 14 della tabella sopra hanno lo stesso nome ("[Engagement] Post nuovi arrivi primavera FB+IG") ma sono **due campagne distinte** (confermato da Elisa), non un duplicato.
 
 ## Riferimenti
 
