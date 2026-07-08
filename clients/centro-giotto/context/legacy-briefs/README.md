@@ -10,8 +10,9 @@ Su richiesta di Elisa (2026-07-08), questo storico è tenuto **solo come riferim
 - Report_CentroGiotto_gennaio-agosto 2024.pdf
 - Report_CentroGiotto_gennaio-settembre 2025.key
 - Report_CentroGiotto_gennaio-dicembre 2025.key
-- Report Remax-gennaio 2025 - luglio 2025.key (nome file anomalo — da verificare con Elisa se pertinente a questo cliente o refuso)
 - 86 task completati, 65 contenuti pubblicati, 177 programmati (snapshot Notion al 2026-07-08)
+
+> Nota: la pagina Notion cliente conteneva anche un file "Report Remax-gennaio 2025 - luglio 2025.key" — confermato da Elisa (2026-07-08) come riferimento errato/estraneo a questo cliente, va tolto anche dalla pagina Notion sorgente.
 
 Pagine Notion collegate non ancora lette in dettaglio (da aprire se servono per `02-strategy` o revisione brand):
 - "File Strategia" (link interno Notion)

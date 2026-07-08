@@ -64,7 +64,6 @@ Su decisione di Elisa (2026-07-08), lo storico pregresso **non è stato migrato*
 ## 6. Punti aperti / da chiarire con Elisa
 
 - **Credenziali Instagram in chiaro su Notion** (`@centrogiotto_padova`) — non riportate nel repo (vedi `context/accesses.md`); da valutare spostamento a password manager, come già fatto per altri clienti.
-- File "Report Remax-gennaio 2025 - luglio 2025.key" tra i materiali del cliente — nome anomalo, verificare se pertinente a Centro Giotto o refuso/file di un altro cliente caricato per errore.
 - Pagine Notion collegate non ancora lette in dettaglio: "File Strategia", "Nuova strategia punti vendita", "Piano editoriale generale", "Piano contenuti 2026 Centro Giotto" (SOSPESO) — utili se/quando si apre la fase `02-strategy`.
 - Nessuna strategia annuale formalizzata nel framework al momento (`phases/02-strategy` vuota).
 
