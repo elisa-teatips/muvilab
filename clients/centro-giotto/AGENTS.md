@@ -27,7 +27,8 @@ Qualunque riferimento ad altri clienti è violazione del framework.
 
 - **Fa ads a pagamento** (Meta, €600/mese fisso) → fase `phases/04-campaigns` mantenuta e attiva, a differenza di `competenze-in-rete`.
 - **Cliente esistente da formalizzare**, non nuovo (MVI): storico dal 2019, vedi `context/legacy-briefs/README.md` — tenuto solo come riferimento, non migrato nelle fasi.
-- Data fine contratto su Notion (01/02/2025) è disallineata rispetto allo Status "In corso" — considerato dato Notion non aggiornato, cliente trattato come regolarmente attivo (deciso da Elisa 2026-07-08).
+- **Contratto attivo** (confermato da Elisa 2026-07-08) — il campo "Data Fine" su Notion (01/02/2025) è errato/da correggere sulla scheda, non riflette lo stato reale.
+- **Budget ADV 2026** confermato: €600/mese fisso, Gen-Dic → €7.200/anno.
 - Copy: il nome del negozio/punto vendita deve sempre apparire nella prima riga.
 - Non usare mai la parola "concorso" per l'iniziativa "Blu Giotto".
 - Volantino Unieuro: non pubblicare se esce "UNINEWS"; se il volantino non è disponibile, il contenuto salta.

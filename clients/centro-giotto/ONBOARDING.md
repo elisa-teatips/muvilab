@@ -9,9 +9,7 @@
 
 **Centro Commerciale Giotto** (Padova). Si gestisce la comunicazione multi-punto vendita: contenuti trasversali sul centro + contenuti dedicati ai singoli negozi che lo compongono.
 
-Cliente attivo dal **settembre 2019**, rapporto tuttora in corso (Status "In corso" su Notion).
-
-> ⚠️ **Da chiarire**: su Notion compare "Data Fine: 01/02/2025" in due campi separati, ed è il valore che genera esattamente il "Totale Mesi: 65" mostrato in scheda — non sembra un refuso isolato. Prima di trattarlo come "dato vecchio da ignorare", chiedere a Michela: il contratto formale è scaduto a febbraio 2025 e si sta lavorando su base informale/di fatto? Cambia la base di fatturazione da conoscere.
+Cliente attivo dal **settembre 2019**, **contratto attivo** (confermato da Elisa 2026-07-08). Il campo "Data Fine: 01/02/2025" su Notion (presente in due punti della scheda) è quindi da correggere/ignorare — non riflette lo stato reale del contratto.
 
 ---
 
@@ -55,22 +53,20 @@ Nelle email tenere sempre in CC: **Paola Piva** e **Erika** (contabilità).
 
 ## 4. Advertising (Meta)
 
-Budget fisso **€600/mese** (€7.200/anno se confermato su 12 mesi). Le campagne riusano i contenuti già prodotti per il piano editoriale, non servono asset dedicati. Obiettivi tipici:
+Budget **2026**: fisso **€600/mese, Gennaio-Dicembre → €7.200/anno** (confermato da Elisa 2026-07-08). Le campagne riusano i contenuti già prodotti per il piano editoriale, non servono asset dedicati. Obiettivi tipici:
 - Engagement sui post di eventi
 - Engagement/visualizzazioni sui video
 - Traffico ai profili social (è la leva principale per far crescere Instagram)
-
-> ⚠️ **Da chiarire**: il dettaglio mensile su Notion è etichettato "aggiornamento novembre 2025" ma elenca già tutti i 12 mesi Gennaio-Dicembre — non è chiaro se si riferisca al 2025 (a novembre 2025 Nov/Dic sarebbero ancora proiezioni) o sia il piano per il 2026. Confermare a quale anno si riferisce prima di usarlo per un preventivo o un report.
 
 ---
 
 ## 5. Report
 
-Il campo Notion si chiama "Report Trimestrale", ma i report storici **non seguono affatto una cadenza trimestrale**: sono cumulativi da inizio anno con lunghezze diverse (luglio 2022-febbraio 2023, gennaio-agosto 2024, gennaio-settembre 2025, gennaio-dicembre 2025). La cadenza reale concordata con il cliente non è chiara dal nome del campo — da confermare con Michela prima di promettere una scadenza precisa.
+Il campo Notion si chiama "Report Trimestrale", ma i report storici **non seguono affatto una cadenza trimestrale**: sono cumulativi da inizio anno con lunghezze diverse (luglio 2022-febbraio 2023, gennaio-agosto 2024, gennaio-settembre 2025, gennaio-dicembre 2025). La cadenza reale concordata con il cliente resta da confermare con Michela prima di promettere una scadenza precisa.
 
 Gli ultimi 3 periodi (gennaio-dicembre 2024, gennaio-settembre 2025, gennaio-dicembre 2025) sono archiviati in `phases/05-reports/<periodo>/inputs/`.
 
-> Nota: su Notion i report sono sparsi in due punti diversi — alcuni nel campo strutturato "Report Trimestrale", altri (i più recenti) buttati nella sezione di testo libero "RISORSE UTILI" in fondo alla pagina. Controllare entrambi i posti se si cerca un report vecchio non ancora migrato qui.
+> Nota confermata: su Notion i report sono sparsi in due punti diversi — alcuni nel campo strutturato "Report Trimestrale", altri (i più recenti) buttati nella sezione di testo libero "RISORSE UTILI" in fondo alla pagina. Controllare entrambi i posti se si cerca un report vecchio non ancora migrato qui.
 
 ---
 
