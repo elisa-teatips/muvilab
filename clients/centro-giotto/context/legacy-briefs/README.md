@@ -4,12 +4,16 @@ Brief storici / TODO ereditati da fasi pre-framework. Archiviati per memoria, no
 
 ## Storico pregresso (fonte: pagina Notion "Comunicazione Centro Giotto", cliente attivo dal 01/09/2019)
 
-Su richiesta di Elisa (2026-07-08), questo storico è tenuto **solo come riferimento** — non migrato dentro `phases/05-reports/`. Il framework parte dal prossimo periodo utile in avanti.
+Aggiornamento 2026-07-08: Elisa ha caricato i PDF di 3 periodi, ora **migrati** come report ufficiali del framework (PDF grezzo in `inputs/`, nessun `report.md` ristrutturato per scelta esplicita):
+
+- `phases/05-reports/2024-12-31/inputs/Report_CentroGiotto_gennaio-dicembre 2024.pdf`
+- `phases/05-reports/2025-09-30/inputs/Report_CentroGiotto_gennaio-settembre 2025.pdf`
+- `phases/05-reports/2025-12-31/inputs/Report_CentroGiotto_gennaio-dicembre 2025.pdf`
+
+Restano **solo come riferimento** (non migrati), storico ancora più vecchio non coperto dai PDF sopra:
 
 - Report_CentroGiotto_Luglio_2022_Febbraio_2023 (Keynote, link iCloud su Notion)
-- Report_CentroGiotto_gennaio-agosto 2024.pdf
-- Report_CentroGiotto_gennaio-settembre 2025.key
-- Report_CentroGiotto_gennaio-dicembre 2025.key
+- Report_CentroGiotto_gennaio-agosto 2024.pdf (su Notion — periodo parziale, probabilmente superato dal gennaio-dicembre 2024 ora migrato; verificare con Elisa se va ancora tenuto)
 - 86 task completati, 65 contenuti pubblicati, 177 programmati (snapshot Notion al 2026-07-08)
 
 > Nota: la pagina Notion cliente conteneva anche un file "Report Remax-gennaio 2025 - luglio 2025.key" — confermato da Elisa (2026-07-08) come riferimento errato/estraneo a questo cliente, va tolto anche dalla pagina Notion sorgente.

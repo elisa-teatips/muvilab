@@ -55,9 +55,14 @@ Tag interno agenzia: **TREND** (tipologia cliente). Cliente attivo dal **01/09/2
 
 ## 5. Report
 
-Storicamente **trimestrali**, prodotti come Keynote/PDF caricati direttamente su Notion (non in un formato standard del framework). Ultimo report strutturato: gennaio-dicembre 2025. Cadenza attuale da confermare col cliente.
+Storicamente **trimestrali**, prodotti come Keynote/PDF caricati direttamente su Notion (non in un formato standard del framework). Cadenza attuale da confermare col cliente.
 
-Su decisione di Elisa (2026-07-08), lo storico pregresso **non è stato migrato** dentro `phases/05-reports/` — resta solo come riferimento in `context/legacy-briefs/README.md`. Si riparte con il primo report nuovo dal prossimo periodo utile.
+3 periodi migrati in `phases/05-reports/` come PDF grezzi (nessun `report.md` ristrutturato, per scelta di Elisa 2026-07-08):
+- `2024-12-31/inputs/` — gennaio-dicembre 2024
+- `2025-09-30/inputs/` — gennaio-settembre 2025
+- `2025-12-31/inputs/` — gennaio-dicembre 2025
+
+Storico ancora più vecchio (2022-2023, e un report parziale gennaio-agosto 2024 probabilmente superato) resta solo come riferimento in `context/legacy-briefs/README.md`, non migrato.
 
 ---
 
