@@ -1,79 +1,80 @@
 # Onboarding — Centro Giotto
 
-> Documento per chi prende in gestione questo cliente per la prima volta. Ultimo aggiornamento: 2026-07-08 (Elisa Moratello).
-> Fonti: pagina Notion cliente ["Comunicazione Centro Giotto"](https://app.notion.com/p/muvilab/Comunicazione-Centro-Giotto-f083a2057ccc435695a792ad350e8cb5) (aperta via estensione browser — l'integrazione Notion collegata a Claude non ha accesso diretto a questa pagina).
+> Documento di passaggio per la nuova Social Media Manager che subentra sul cliente. Ultimo aggiornamento: 2026-07-08.
+> Fonte primaria per l'operatività quotidiana: pagina Notion cliente ["Comunicazione Centro Giotto"](https://app.notion.com/p/muvilab/Comunicazione-Centro-Giotto-f083a2057ccc435695a792ad350e8cb5).
 
 ---
 
 ## 1. Chi è il cliente
 
-**Centro Commerciale Giotto** (Padova). Comunicazione multi-punto vendita: contenuti trasversali sul centro + contenuti dedicati ai singoli negozi/punti vendita che lo compongono.
+**Centro Commerciale Giotto** (Padova). Si gestisce la comunicazione multi-punto vendita: contenuti trasversali sul centro + contenuti dedicati ai singoli negozi che lo compongono.
 
-Tag interno agenzia: **TREND** (tipologia cliente). Cliente attivo dal **01/09/2019** (65 mesi al 2026-07-08), Status Notion "In corso". Il campo "Data Fine: 01/02/2025" su Notion è disallineato/obsoleto — ignoralo, il cliente è trattato come regolarmente attivo (deciso da Elisa 2026-07-08, verificare comunque con Michela se serve un aggiornamento formale della scheda).
+Cliente attivo dal **settembre 2019**, rapporto tuttora in corso. Su Notion il campo "Data Fine" riporta 01/02/2025, ma è un dato non aggiornato — il cliente è regolarmente attivo (se serve un aggiornamento formale della scheda, verificare con Michela).
 
 ---
 
-## 2. Team
+## 2. Team e referenti
 
-| Ruolo | Persona | Note |
-|-------|---------|------|
+| Ruolo | Persona | Contatto |
+|-------|---------|----------|
 | Social Media Manager | Elisa Moratello | |
-| Social Media Manager | Sara Albertini | anche referente iniziativa "Blu Giotto" |
-| Grafico | — | vuoto su Notion |
-| Web Designer | — | vuoto su Notion |
+| Social Media Manager | Sara Albertini | referente anche per l'iniziativa "Blu Giotto" |
+| Grafico | — | da assegnare |
+| Web Designer | — | da assegnare |
 
-**Referente cliente**: Michela Raimondi (m.raimondi@studio-conte.com). Comunicazioni via email: tenere in CC **Paola Piva** e **Erika** ("Info centro giotto", contabilità).
+**Referente cliente**: Michela Raimondi — m.raimondi@studio-conte.com
+Nelle email tenere sempre in CC: **Paola Piva** e **Erika** (contabilità).
 
 ---
 
-## 3. Canali gestiti e cadenza
+## 3. Canali e linee guida editoriali
 
-**Instagram (@centrogiotto_padova) + Facebook** — non gestiti LinkedIn/TikTok.
+**Canali gestiti**: Instagram (@centrogiotto_padova) e Facebook. Non si gestiscono LinkedIn né TikTok.
 
-**Cadenza post**: 3 post/settimana (lunedì, mercoledì, venerdì/sabato). Orari: ore 12 nei feriali, ore 9 nel weekend.
+**Cadenza**: 3 post/settimana, lunedì – mercoledì – venerdì/sabato. Orari di pubblicazione: ore 12 nei giorni feriali, ore 9 nel weekend.
 
-**Regole copy/grafica**:
-- Nome del negozio/punto vendita sempre in prima riga del copy
-- Video: loghi Centro Giotto + negozio nel frame finale (o solo Centro Giotto se l'insegna del negozio è già visibile a inizio video)
-- Foto/grafiche: maschere Canva per tema; nei caroselli solo-foto, loghi fuori dal quadrato ma non troppo piccoli
+**Regole da rispettare sempre**:
+- Il nome del negozio/punto vendita deve comparire sempre nella prima riga del copy
+- Video: se l'insegna del negozio NON è visibile a inizio video, mettere i loghi (Centro Giotto + negozio) nel frame finale; se è già visibile, basta il logo Centro Giotto
+- Foto/grafiche: usare le maschere Canva divise per tema; nei caroselli di sole foto, i loghi vanno fuori dal quadrato ma leggibili, non troppo piccoli
+- Iniziativa "Blu Giotto": **non usare mai la parola "concorso"**
+- Volantino Unieuro: non pubblicare se nel frattempo esce il volantino "UNINEWS"; se il volantino non è disponibile, si salta il contenuto
 
 **Ricorrenze operative**:
-- Shooting contenuti ogni 2 mesi con Michela (selezione punti vendita + linee guida, non script completi)
-- Volantini promozionali Conad e Unieuro: check ogni 2 settimane → screenshot copertina + link in stories IG (in evidenza) e post FB. Unieuro: **salta se esce UNINEWS o se il volantino non è disponibile**
-- Moderazione 1 volta/settimana (commenti + repost storie punti vendita)
-- Invio link PostPickr a Michela intorno al 20 del mese
+- Shooting contenuti ogni 2 mesi con Michela (si concordano insieme i punti vendita da coprire e le linee guida, non serve uno script completo)
+- Volantini promozionali Conad e Unieuro: check ogni 2 settimane → screenshot copertina con link nelle stories IG (in evidenza) e come post Facebook
+- Promozioni ricevute via email dal cliente: ricondividere nelle stories
+- Moderazione: 1 volta a settimana (risposta ai commenti, repost di contenuti dei punti vendita nelle stories)
+- Verso il 20 del mese: condividere con Michela il link PostPickr del piano contenuti
 
-**Iniziativa "Blu Giotto"** (con Sara Albertini): weekend a tema con artisti/eventi in calendario (maggio-giugno 2026 già pianificati su Notion). **Non usare mai la parola "concorso"** in questi contenuti. Template Canva dedicati (story + post).
+**Iniziativa "Blu Giotto"**: weekend a tema con artisti/eventi, calendarizzati in anticipo (maggio-giugno 2026 già pianificati). Template Canva dedicati per story e post.
 
 ---
 
 ## 4. Advertising (Meta)
 
-**Budget fisso: €600/mese, tutto l'anno → €7.200/anno** (aggiornamento novembre 2025, da riverificare se ancora valido). Tipologia campagne: engagement su post evento, engagement/view su video, traffico ai profili social (driver principale per la crescita Instagram) — riusano i contenuti del PED, non asset ad-hoc.
+Budget fisso **€600/mese tutto l'anno** (€7.200/anno totali). Le campagne riusano i contenuti già prodotti per il piano editoriale, non servono asset dedicati. Obiettivi tipici:
+- Engagement sui post di eventi
+- Engagement/visualizzazioni sui video
+- Traffico ai profili social (è la leva principale per far crescere Instagram)
 
 ---
 
 ## 5. Report
 
-Storicamente **trimestrali**, prodotti come Keynote/PDF caricati direttamente su Notion (non in un formato standard del framework). Cadenza attuale da confermare col cliente.
-
-3 periodi migrati in `phases/05-reports/` come PDF grezzi (nessun `report.md` ristrutturato, per scelta di Elisa 2026-07-08):
-- `2024-12-31/inputs/` — gennaio-dicembre 2024
-- `2025-09-30/inputs/` — gennaio-settembre 2025
-- `2025-12-31/inputs/` — gennaio-dicembre 2025
-
-Storico ancora più vecchio (2022-2023, e un report parziale gennaio-agosto 2024 probabilmente superato) resta solo come riferimento in `context/legacy-briefs/README.md`, non migrato.
+Storicamente **trimestrali**. Gli ultimi 3 periodi (gennaio-dicembre 2024, gennaio-settembre 2025, gennaio-dicembre 2025) sono archiviati in `phases/05-reports/<periodo>/inputs/`. La cadenza per i prossimi report è da riconfermare con il cliente.
 
 ---
 
-## 6. Punti aperti / da chiarire con Elisa
+## 6. Da tenere d'occhio
 
-- **Credenziali Instagram in chiaro su Notion** (`@centrogiotto_padova`) — non riportate nel repo (vedi `context/accesses.md`); da valutare spostamento a password manager, come già fatto per altri clienti.
-- Pagine Notion collegate non ancora lette in dettaglio: "File Strategia", "Nuova strategia punti vendita", "Piano editoriale generale", "Piano contenuti 2026 Centro Giotto" (SOSPESO) — utili se/quando si apre la fase `02-strategy`.
-- Nessuna strategia annuale formalizzata nel framework al momento (`phases/02-strategy` vuota).
+- Le credenziali Instagram del cliente non sono nel repo per policy interna — chiedere a chi gestiva l'account prima dove sono conservate (password manager)
+- Non esiste ancora una strategia annuale scritta per questo cliente — se emerge l'esigenza, ci sono materiali su Notion ("File Strategia", "Nuova strategia punti vendita") da recuperare come base
+- "Piano contenuti 2026 Centro Giotto" risulta SOSPESO su Notion — verificare con Michela lo stato prima di riprenderlo
 
 ---
 
 ## 7. Dove trovare le cose
 
-- **Pagina cliente Notion**: [Comunicazione Centro Giotto](https://app.notion.com/p/muvilab/Comunicazione-Centro-Giotto-f083a2057ccc435695a792ad350e8cb5) — anagrafica, linee guida, budget adv, task, contenuti, report storici, iniziativa "Blu Giotto". **Non accessibile all'integrazione Notion collegata a Claude** al 2026-07-08 — va aperta via estensione browser o condivisa esplicitamente con l'integrazione.
+- **Pagina cliente Notion**: [Comunicazione Centro Giotto](https://app.notion.com/p/muvilab/Comunicazione-Centro-Giotto-f083a2057ccc435695a792ad350e8cb5) — anagrafica, linee guida, budget adv, task, calendario contenuti, report storici, materiali "Blu Giotto". È la fonte primaria per l'operatività quotidiana.
+- **Repo cliente**: `clients/centro-giotto/` — contesto strutturato (`context/brand.md`, `context/contracts/contract.md`, `context/accesses.md`) e fasi di lavoro (`phases/`).
