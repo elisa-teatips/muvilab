@@ -2,7 +2,7 @@
 client: muvi-neogela
 phase: 03-ped
 period: 2026-09
-status: draft
+status: in-review
 owner: elisa
 last_updated: 2026-07-29
 ---
@@ -27,22 +27,22 @@ Fonte selezione: colonna Stato = 💻 Da montare, database "Comunicazione Neogel
 
 ## Calendario post
 
-| Data | Canale | Formato | Pillar | Titolo/Hook | Fonte | Stato |
-|------|--------|---------|--------|-------------|-------|-------|
-| 01/09 | Instagram/TikTok | Video | Rientro/vita quotidiana | Neogela nella vita reale: ufficio, palestra, casa | Da montare | draft |
-| 04/09 | Instagram/TikTok | Video | Rientro/Educazione Semplice | Postura e carico quotidiano: gli errori che stressano ossa e articolazioni | Da montare | draft |
-| 07/09 | Instagram | Carosello | Educazione Semplice | Carosello 1 — "Rientro in ufficio: 5 abitudini per non stressare postura e articolazioni" | Da scrivere (v. caroselli.md) | draft |
-| 09/09 | Instagram/TikTok | Video | Calamita/prevenzione | Ho 30-40 anni, devo già preoccuparmi delle ossa? | Da montare | draft |
-| 11/09 | Instagram/TikTok | Video | Performance & Sport | Sport e ossa: cosa è sicuro fare (e cosa no) | Da montare | draft |
-| 14/09 | Instagram/TikTok | Video | Performance & Sport | Dolore al ginocchio durante sport o movimento: modifiche immediate all'allenamento | Da montare | draft |
-| 16/09 | Instagram/TikTok | Video | Performance & Sport (collab PT) | Condrosi | Da montare | draft |
-| 18/09 | Instagram/TikTok | Video | Caregiver Smart | Se in famiglia c'è osteoporosi, cosa posso fare prima? | Da montare | draft |
-| 21/09 | Instagram/TikTok | Video | Autorevolezza medica/Calamita | Differenza tra osteopenia e osteoporosi | Da montare | draft |
-| 23/09 | Instagram/TikTok | Video | Performance & Sport/Caregiver | Se ho familiarità per osteoporosi, come mi alleno in palestra? | Da montare | draft |
-| 25/09 | Instagram/TikTok | Video | Nutrimento (collab dott. Magi) | Che acqua bere in caso di osteoporosi? | Da montare | draft |
-| 28/09 | Instagram | Carosello | Differenziazione prodotto | Carosello 2 — "Aminoacidi del collagene: cosa significa davvero 'alta qualità'" | Da scrivere (v. caroselli.md) | draft |
-| 29/09 | Instagram/TikTok | Video | Differenziazione prodotto | Quanto conta la composizione aminoacidica | Da montare | draft |
-| 30/09 | Instagram/TikTok | Video | Prova sociale | Esperienza cliente con Neogela - video 1 | Da montare | draft |
+| Data  | Canale           | Formato   | Pillar                          | Titolo/Hook                                                                               | Fonte                         | Stato |
+| ----- | ---------------- | --------- | ------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------- | ----- |
+| 01/09 | Instagram/TikTok | Video     | Rientro/vita quotidiana         | Neogela nella vita reale: ufficio, palestra, casa                                         | Da montare                    | draft |
+| 04/09 | Instagram/TikTok | Video     | Rientro/Educazione Semplice     | Postura e carico quotidiano: gli errori che stressano ossa e articolazioni                | Da montare                    | draft |
+| 07/09 | Instagram        | Carosello | Educazione Semplice             | Carosello 1 — "Rientro in ufficio: 5 abitudini per non stressare postura e articolazioni" | Da scrivere (v. caroselli.md) | draft |
+| 09/09 | Instagram/TikTok | Video     | Calamita/prevenzione            | Ho 30-40 anni, devo già preoccuparmi delle ossa?                                          | Da montare                    | draft |
+| 11/09 | Instagram/TikTok | Video     | Performance & Sport             | Sport e ossa: cosa è sicuro fare (e cosa no)                                              | Da montare                    | draft |
+| 14/09 | Instagram/TikTok | Video     | Performance & Sport             | Dolore al ginocchio durante sport o movimento: modifiche immediate all'allenamento        | Da montare                    | draft |
+| 16/09 | Instagram/TikTok | Video     | Performance & Sport (collab PT) | Condrosi                                                                                  | Da montare                    | draft |
+| 18/09 | Instagram/TikTok | Video     | Caregiver Smart                 | Se in famiglia c'è osteoporosi, cosa posso fare prima?                                    | Da montare                    | draft |
+| 21/09 | Instagram/TikTok | Video     | Autorevolezza medica/Calamita   | Differenza tra osteopenia e osteoporosi                                                   | Da montare                    | draft |
+| 23/09 | Instagram/TikTok | Video     | Performance & Sport/Caregiver   | Se ho familiarità per osteoporosi, come mi alleno in palestra?                            | Da montare                    | draft |
+| 25/09 | Instagram/TikTok | Video     | Nutrimento (collab dott. Magi)  | Che acqua bere in caso di osteoporosi?                                                    | Da montare                    | draft |
+| 28/09 | Instagram        | Carosello | Differenziazione prodotto       | Carosello 2 — "Aminoacidi del collagene: cosa significa davvero 'alta qualità'"           | Da scrivere (v. caroselli.md) | draft |
+| 29/09 | Instagram/TikTok | Video     | Differenziazione prodotto       | Quanto conta la composizione aminoacidica                                                 | Da montare                    | draft |
+| 30/09 | Instagram/TikTok | Video     | Prova sociale                   | Esperienza cliente con Neogela - video 1                                                  | Da montare                    | draft |
 
 **Riserva** (se serve un 15° contenuto o slittamento): "Sarcopenia aspetto clinico" (collab PT) o "Lesione al crociato" (collab PT) — entrambi in Da montare.
 

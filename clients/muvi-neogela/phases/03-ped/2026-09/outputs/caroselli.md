@@ -3,7 +3,7 @@ client: muvi-neogela
 phase: 03-ped
 period: 2026-09
 type: caroselli
-status: draft
+status: in-review
 owner: elisa
 last_updated: 2026-07-29
 ---
