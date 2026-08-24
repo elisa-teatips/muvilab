@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clients/bognolo/phases/05-reports/2026-05-26/outputs/note-asset-landing.md",
+                "file": "clients/muvi-neogela/phases/03-ped/2026-08/outputs/caroselli.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "note-asset-landing"
+              "title": "caroselli"
             }
           }
         ]
@@ -182,13 +182,42 @@
   },
   "active": "97d47e75c024229f",
   "lastOpenFiles": [
-    "clients/bognolo/phases/05-reports/2026-05-26/outputs/report.md",
-    "clients/bognolo/phases/05-reports/2026-05-26/outputs/note-asset-landing.md",
-    "clients/muvi-neogela/phases/02-strategy/2025/outputs/piano-editoriale-equilibrato.md",
-    "clients/muvi-neogela/phases/02-strategy/2025/outputs/strategy.md",
-    "2026-05-26.md",
-    "Untitled.canvas",
-    "clients/bognolo/context/brand.md",
-    "clients/bognolo/context/baseline-audit/README.md"
+    "clients/competenze-in-rete/phases/02-strategy/Re_ Contenuti shooting CIR - 21 MAGGIO 2026.rtf",
+    "clients/centro-giotto/ONBOARDING.md",
+    "clients/centro-giotto/phases/04-campaigns/2026-07/outputs/handover-meta-ads.md",
+    "clients/centro-giotto/phases/04-campaigns/2026-07/outputs",
+    "clients/centro-giotto/phases/04-campaigns/2026-07",
+    "clients/centro-giotto/phases/05-reports/2026-06-30/inputs/Report_CentroGiotto_gennaio-giugno 2026.pdf",
+    "clients/centro-giotto/phases/05-reports/2026-06-30/inputs",
+    "clients/centro-giotto/phases/05-reports/2026-06-30",
+    "clients/competenze-in-rete/ONBOARDING.md",
+    "clients/centro-giotto/phases/05-reports/2025-12-31/inputs/Report_CentroGiotto_gennaio-dicembre 2025.pdf",
+    "clients/centro-giotto/phases/05-reports/2025-12-31/inputs",
+    "clients/centro-giotto/phases/05-reports/2025-12-31",
+    "clients/centro-giotto/phases/05-reports/2025-09-30/inputs/Report_CentroGiotto_gennaio-settembre 2025.pdf",
+    "clients/centro-giotto/phases/05-reports/2025-09-30/inputs",
+    "clients/centro-giotto/phases/05-reports/_template/outputs/report.md",
+    "clients/centro-giotto/phases/05-reports/_template/outputs/mail.md",
+    "clients/centro-giotto/phases/05-reports/_template/inputs/_scratch.md",
+    "clients/centro-giotto/phases/04-campaigns/_template/outputs/results.md",
+    "clients/centro-giotto/phases/04-campaigns/_template/outputs/mail.md",
+    "clients/centro-giotto/phases/04-campaigns/_template/outputs/campaign.md",
+    "clients/centro-giotto/phases/04-campaigns/_template/outputs/TODO.md",
+    "clients/centro-giotto/phases/04-campaigns/_template/inputs/feedbacks.md",
+    "clients/centro-giotto/phases/04-campaigns/_template/inputs/_scratch.md",
+    "clients/centro-giotto/phases/03-ped/_template/outputs/results.md",
+    "clients/centro-giotto/phases/03-ped/_template/outputs/posts.md",
+    "clients/centro-giotto/phases/03-ped/_template/outputs/ped.md",
+    "clients/centro-giotto/phases/03-ped/_template/outputs/mail.md",
+    "clients/centro-giotto/phases/03-ped/_template/outputs/TODO.md",
+    "clients/centro-giotto/phases/03-ped/_template/inputs/feedbacks.md",
+    "clients/centro-giotto/phases/03-ped/_template/inputs/_scratch.md",
+    "clients/centro-giotto/phases/02-strategy/_template/outputs/strategy.md",
+    "clients/centro-giotto/phases/02-strategy/_template/outputs/mail.md",
+    "clients/centro-giotto/phases/02-strategy/_template/outputs/TODO.md",
+    "clients/centro-giotto/phases/02-strategy/_template/inputs/feedbacks.md",
+    "clients/centro-giotto/phases/02-strategy/_template/inputs/_scratch.md",
+    "clients/centro-giotto/phases/01-presales/outputs/mail.md",
+    "Untitled.canvas"
   ]
 }
