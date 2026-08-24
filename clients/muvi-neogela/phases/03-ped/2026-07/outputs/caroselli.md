@@ -3,9 +3,10 @@ client: muvi-neogela
 phase: 03-ped
 period: 2026-07
 type: caroselli
-status: draft
+status: approved
 owner: elisa
-last_updated: 2026-06-03
+last_updated: 2026-07-27
+note: chiuso in approved il 27/7 (confermato da Elisa in weekly check-in — draft fermo da 54gg).
 ---
 
 # Caroselli — PED Luglio 2026 — Neogela

@@ -5,7 +5,7 @@ period: 2026-09
 type: caroselli
 status: in-review
 owner: elisa
-last_updated: 2026-07-29
+last_updated: 2026-08-03
 ---
 
 # Caroselli — PED Settembre 2026 — Neogela
@@ -103,84 +103,120 @@ last_updated: 2026-07-29
 
 ---
 
-## Carosello 2 — Differenziazione prodotto
+## Carosello 2 — Accompagnamento / Inizio rubrica "5 Passi Dopo la Diagnosi"
 
-**Argomento:** Aminoacidi del collagene: cosa significa davvero "alta qualità"
-**Categoria:** Educational / Differenziazione
-**Pillar:** Differenziazione prodotto (EduCollagene)
+**Argomento:** Passo 1 — Il giorno della diagnosi: cosa fare (e cosa non fare) nelle prime 48 ore
+**Categoria:** Educational / Accompagnamento (pillar nuovo)
+**Pillar:** Accompagnamento — apertura rubrica in vista della Campagna mese dell'osteoporosi di ottobre
 
-**Nota performance:** pillar di differenziazione prodotto (es. "collagene vs glucosamina/condroitina") ha generato il tasso di salvataggio più alto nell'analisi organica di maggio-luglio 2026 (18 salvataggi, 86 interazioni nette) — contenuto "di riferimento" da salvare, non da consumare una volta sola. Questo carosello riprende lo stesso registro.
+**Nota di adattamento:** il copy sorgente (`rubrica-5-passi-diagnosi.md`) era scritto come script video a camera per Giulia. Qui è riadattato in struttura slide-by-slide, mantenendo il contenuto e il registro validati (nessun elemento nuovo, solo redistribuzione su carosello). Segnalare a Giulia il cambio di formato rispetto al concept condiviso.
+
+**Tono:** evitare framing allarmistico o clinico-freddo — coerente con `tone-of-voice.md`, sezione "Comunicazione Rassicurante". Nessun assolutismo, nessuna promessa di risoluzione della paura (stessa attenzione riservata ai temi sensibili di Sara Lampis).
+
+---
+
+### Nota per Marina — elemento grafico ricorrente della rubrica
+
+Questo è l'episodio 1 di 5. Serve un sistema visivo fisso, riutilizzabile identico negli episodi 2-5 di ottobre, così che il pubblico riconosca "è la stessa serie" a colpo d'occhio, anche scorrendo il feed velocemente:
+
+- **Badge rubrica**: lettering fisso "5 Passi Dopo la Diagnosi" (stesso font/colore su ogni episodio), presente almeno su cover e slide di chiusura — idealmente in un angolo su tutte le slide interne, in piccolo, per chi capita su una slide centrale via condivisione.
+- **Indicatore di step**: 5 pallini/tacche in fila, con lo step corrente evidenziato (episodio 1 → 1° pieno, altri 4 vuoti). Stesso posizionamento su cover e chiusura.
+- **Variante cromatica dedicata**: una variante leggera della palette Neogela (non il colore primario "EduCollagene", non quello "Calamita/prevenzione") per segnalare visivamente "modalità accompagnamento" — tono più caldo/umano, meno clinico.
+- **Icona rubrica**: qualcosa che comunichi "percorso/passo" (es. impronta, sentiero, freccia progressiva) da riusare come mini-logo della serie, anche fuori da questo carosello (story highlights, ecc.).
+
+Chiediamo a Marina di costruire questi elementi come componente riutilizzabile, non solo come grafica una tantum — ci serve identico a ottobre per gli episodi 2-5.
 
 ---
 
 ### SLIDE 1 — Cover
 
-**Titolo principale:** `Non tutti i collageni sono uguali`
-**Sottotitolo:** `Cosa significa davvero "alta qualità" quando si parla di aminoacidi del collagene.`
+**Titolo principale:** `5 Passi Dopo la Diagnosi`
+**Sottotitolo:** `Passo 1 — Il giorno della diagnosi: cosa fare (e cosa non fare) nelle prime 48 ore`
 
-*Visual:* sfondo colore primario Neogela, struttura a "catena" di aminoacidi stilizzata, prodotto Neogela in evidenza. Tono scientifico-divulgativo, coerente con gli altri contenuti "EduCollagene".
-
----
-
-### SLIDE 2 — Concetto 1
-
-**Headline:** `Il collagene è fatto di aminoacidi specifici`
-**Testo:** Il collagene non è una proteina generica: è composto soprattutto da glicina, prolina e idrossiprolina, aminoacidi che si trovano in proporzioni molto diverse rispetto alle proteine "comuni" della dieta.
-**Icona:** catena/molecola
-**Approfondimento:** Sono proprio queste proporzioni a rendere il collagene la "struttura" del tessuto connettivo — non basta assumere proteine qualsiasi per ottenere lo stesso effetto.
+*Visual:* badge rubrica + indicatore step (1/5 evidenziato) — vedi nota sopra. Sfondo variante cromatica "accompagnamento", tono caldo, non clinico. Nessun elemento da laboratorio/scientifico qui: è la slide più umana del mese.
 
 ---
 
-### SLIDE 3 — Concetto 2
+### SLIDE 2 — Apertura emotiva
 
-**Headline:** `Non basta che ci sia scritto "collagene" in etichetta`
-**Testo:** Il grado di idrolisi (quanto le catene proteiche sono state "spezzate" in frammenti piccoli) determina quanto il collagene viene effettivamente assorbito dall'organismo.
-**Icona:** lente d'ingrandimento
-**Approfondimento:** Un collagene poco idrolizzato può risultare meno disponibile per l'organismo, a prescindere dalla quantità dichiarata in etichetta.
-
----
-
-### SLIDE 4 — Concetto 3
-
-**Headline:** `La provenienza della materia prima conta`
-**Testo:** Aminoacidi identici sulla carta possono provenire da allevamenti e lavorazioni molto diverse tra loro, con impatti diversi su purezza e assenza di contaminanti.
-**Icona:** filiera/allevamento
-**Approfondimento:** Per questo Neogela rende pubbliche le certificazioni sulla materia prima: trasparenza verificabile, non solo una promessa in etichetta.
+**Headline:** `Sei uscita dallo studio con più domande che risposte?`
+**Testo:** È normale. Non sei tu che non hai capito qualcosa — in quel momento è difficile assorbire tutto quello che senti.
+**Icona:** persona con nuvoletta di pensieri/domande
+**Approfondimento:** —
 
 ---
 
-### SLIDE 5 — Concetto 4
+### SLIDE 3 — Cosa aiuta (1/3)
 
-**Headline:** `"Alta qualità" si misura, non si dichiara`
-**Testo:** Concentrazione di collagene, grado di idrolisi, purezza della materia prima: sono questi i parametri che fanno davvero la differenza tra un integratore e l'altro — non il prezzo in etichetta.
-**Icona:** bilancia/grafico
-**Approfondimento:** Neogela contiene collagene al 98%, con dosaggio pensato per raggiungere i 5 grammi/die indicati come soglia di supporto per ossa e articolazioni.
+**Headline:** `Fatti dare il referto della MOC per iscritto`
+**Testo:** Non serve capirlo subito tutto: serve averlo, per poterlo rileggere con calma.
+**Icona:** documento/referto medico
+**Marcatore:** spunta verde ✅ (coerente con le altre slide "cosa aiuta")
 
 ---
 
-### SLIDE 6 — Slide finale / CTA
+### SLIDE 4 — Cosa aiuta (2/3)
 
-**Headline:** `Vuoi sapere cosa c'è davvero nel tuo collagene?`
-**CTA primaria:** `Scrivici in privato → ti mostriamo le certificazioni.`
-**CTA secondaria:** `Salva questo post per la prossima volta che scegli un integratore.`
-**Disclaimer:** *Integratore alimentare. Non sostituisce terapie mediche prescritte.*
+**Headline:** `Scrivi le domande che ti vengono in mente`
+**Testo:** Anche se ti sembrano scontate. Le porterai alla prossima visita: non c'è una domanda "stupida" quando si parla della tua salute.
+**Icona:** block notes/penna
+**Marcatore:** ✅
+
+---
+
+### SLIDE 5 — Cosa aiuta (3/3)
+
+**Headline:** `Parlane con qualcuno`
+**Testo:** Anche solo per dirlo ad alta voce. Tenerselo dentro rende tutto più pesante.
+**Icona:** due persone/fumetto di conversazione
+**Marcatore:** ✅
+
+---
+
+### SLIDE 6 — Cosa non aiuta (3 punti raggruppati)
+
+**Headline:** `3 cose da evitare nelle prime 48 ore`
+**Testo (lista):**
+- ❌ Passare la notte a cercare "aspettativa di vita osteoporosi" online — i forum non conoscono la tua situazione specifica, solo il tuo medico.
+- ❌ Decidere da sola di cambiare terapia o abitudini prima di riparlarne con lo specialista.
+- ❌ Pensare che da oggi la vita cambi radicalmente — una diagnosi è un punto di partenza, non una sentenza.
+
+**Icona:** X rossa/cerchio barrato ripetuto sui 3 punti
+**Nota grafica:** stessa gabbia delle slide 3-5 ma con marcatore rosso invece di verde, per leggibilità immediata "questo evitalo" vs "questo fai".
+
+---
+
+### SLIDE 7 — Chiusura / arco rubrica
+
+**Headline:** `Questo è il primo di 5 passi`
+**Testo:** Dalla diagnosi, alla lettura dei valori, fino a costruire la tua nuova routine — un passo alla volta, senza sentirti sola in nessun momento del percorso.
+**Visual:** stesso indicatore a 5 step della cover, per anticipare visivamente i prossimi episodi (senza svelarne i titoli, ancora da validare con Giulia).
+
+---
+
+### SLIDE 8 — CTA / Disclaimer
+
+**Headline:** `Hai appena ricevuto una diagnosi?`
+**CTA primaria:** `Scrivici: non hai bisogno di affrontarlo da sola.`
+**CTA secondaria:** `Segui la rubrica #5PassiDopoLaDiagnosi per non perdere i prossimi passi.`
+**Disclaimer:** *Neogela è un integratore alimentare e non sostituisce terapie mediche prescritte. Per qualsiasi decisione sulla tua terapia, parla sempre con il tuo medico.*
 
 ---
 
 ### Copy post (caption)
 
-> "È collagene" non vuol dire che sono tutti uguali. 🧬
+> Sei uscita dallo studio con un referto in mano... e più domande che risposte? 🤍
 >
-> Aminoacidi, grado di idrolisi, provenienza della materia prima: sono questi i parametri che decidono se un collagene funziona davvero, non il prezzo in etichetta.
+> È il momento più difficile: capire cosa fare (e cosa non fare) nelle prime ore dopo una diagnosi di osteoporosi.
 >
-> Ecco cosa guardare prima di scegliere. ➡️ Scorri il carosello.
+> Iniziamo oggi una rubrica in 5 passi per accompagnarti, uno step alla volta. Questo è il Passo 1. ➡️ Scorri il carosello.
 >
-> 💬 Sapevi che il grado di idrolisi conta più della quantità dichiarata?
+> 💬 Se hai vissuto questo momento, raccontaci: cosa ti avrebbe aiutato a saperlo prima?
 >
-> #collagene #neogela #saluteossea #integratorialimentari #aminoacidi #trasparenza #articolazioni #osteoporosi #benessere #salvaquestopost
+> #5PassiDopoLaDiagnosi #osteoporosi #collagene #neogela #saluteossea #nonseisola #diagnosi #prevenzione #settembre2026
 
-**Hashtag primari:** #collagene #neogela #saluteossea
-**Hashtag secondari:** #integratorialimentari #aminoacidi #trasparenza
-**Hashtag engagement:** #articolazioni #osteoporosi #salvaquestopost
+**Hashtag primari:** #5PassiDopoLaDiagnosi #osteoporosi #neogela
+**Hashtag secondari:** #saluteossea #collagene #diagnosi
+**Hashtag engagement:** #nonseisola #prevenzione #settembre2026
 
-**Targeting ADV consigliato:** pubblico caldo — chi ha già interagito con contenuti EduCollagene/differenziazione prodotto negli ultimi 90 giorni. Ottimo per retention e per pre-scaldare l'audience in vista della campagna di ottobre.
+**Targeting ADV consigliato:** non spingere in ADV a freddo su questo episodio — è un contenuto di fiducia/community, meglio lasciarlo organico e osservare risposte/DM come primo segnale (KPI già previsto in `ped.md`) prima di decidere se amplificare gli episodi successivi a ottobre.

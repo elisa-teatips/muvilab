@@ -3,9 +3,9 @@ client: muvi-neogela
 phase: 04-campaigns
 period: 2026-06
 type: campaign
-status: draft
+status: approved
 owner: elisa-moratello
-last_updated: 2026-06-03
+last_updated: 2026-07-06
 ---
 
 # Neogela | Piano Campagne — Giugno 2026
@@ -200,6 +200,52 @@ Vai allo shop
 | Shopping/Merchant Center | ⚠️ 4 prodotti non approvati | Problema prezzo confezioni multiple — strutturale, non bloccante |
 
 **Azione mese**: solo monitoraggio e ottimizzazione micro. Nessuna nuova campagna Google a giugno.
+
+---
+
+## Google Ads — Risultati 11 mag – 11 giu 2026
+
+> Fonte: export Google Ads (`inputs/Campaign report.csv`, `Ad group report.csv`, `Asset groups report.csv`, `Ad report.csv`)
+
+### Riepilogo campagne
+
+| Campagna | Spesa (€) | Impr. | Interazioni | Conv. | Conv. value (€) | CPA (€) | ROAS |
+|----------|-----------|-------|-------------|-------|-----------------|---------|------|
+| Brand Search | 549,51 | 8.269 | 1.525 | 123,67 | 13.360,97 | 4,44 | 24,3x |
+| Pmax Hot&Cold | 554,14 | 157.956 | 4.099 | 19,67 | 1.679,94 | 28,18 | 3,0x |
+| Search Traffico Cold | 283,65 | 40.935 | 6.635 | 11,17 | 908,47 | 25,40 | 3,2x |
+| **TOTALE ACCOUNT** | **1.387,30** | **207.160** | **12.259** | **154,50** | **15.949,38** | **8,98** | **11,5x** |
+
+Spesa totale nel periodo: **€1.387,30** su budget mensile ~€1.500 — in linea.
+
+### Brand Search — top performer
+- ROAS 24x, CPA €4,44: campagna più efficiente dell'account
+- Conv. rate 8,11% — alto per Search, conferma intenzione d'acquisto forte su branded
+- Ad strength Excellent su entrambi gli annunci
+- Non toccare: qualsiasi modifica rischia di destabilizzare
+
+### Pmax Hot&Cold — da ottimizzare
+- Status **Eligible (Limited)**: doppio blocco — budget giornaliero (€18) e policy su asset
+- 3 asset group attivi con performance molto diverse:
+  - **Retargeting**: top performer (conversioni concentrate qui)
+  - **Interessi_affinità di mercato**: ROAS 3x, CPA €29,92 — accettabile
+  - **Interessi**: 0 conversioni nel periodo — angolo da rivedere
+- Asset disapprovati (4 immagini Not eligible) → causa principale della limitation
+- Azione: rimuovere o sostituire gli asset disapprovati per sbloccare la campagna
+
+### Search Traffico Cold — traffico informativo
+- CTR 16,21%: keyword pertinenti, annunci rilevanti
+- Conv. rate 0,17% — molto basso
+- Landing: blog osteoporosi rimedi naturali → utenti in fase informativa, non commerciale
+- Coerente con il bounce rate sito rilevato nel report maggio
+- La campagna porta traffico qualificato ma la conversione dipende dalla landing, non dall'annuncio
+
+### Issue aperti
+| Issue | Campagna | Impatto | Azione |
+|-------|----------|---------|--------|
+| Asset disapprovati (4 immagini) | Pmax | Limitazione budget + reach | Sostituire con asset compliant |
+| 4 prodotti non approvati Merchant Center | Pmax/Shopping | Impression perse su prodotti multipli | Issue strutturale prezzi — da risolvere lato Shopify |
+| Ad group dinamico Brand in pausa | Brand Search | Nessuno (gruppo non performante) | Mantenere in pausa |
 
 ---
 

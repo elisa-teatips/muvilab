@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8f93d154dac02f4c",
+        "id": "bb891d3d13aa692d",
         "type": "tabs",
         "children": [
           {
-            "id": "1f96e09526c24335",
+            "id": "b05f39c45aed94bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "phases/04-campaigns/2026-07/outputs/campaign.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "campaign"
+              "title": "New tab"
             }
           }
         ]
@@ -41,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -183,16 +181,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "1f96e09526c24335",
+  "active": "0208634049c2a112",
   "lastOpenFiles": [
+    "context/brand-assets/Copia di farmacie ed erboristerie (1).pdf",
+    "context/brand-assets/Copia di Bibliografia internazionale.pdf",
+    "Untitled.canvas",
+    "phases/03-ped/2026-09/outputs/mail.md",
+    "Untitled",
+    "phases/03-ped/2026-09/outputs/rubrica-5-passi-diagnosi.md",
+    "phases/03-ped/2026-09/outputs/ped.md",
+    "phases/03-ped/2026-08/outputs/ped.md",
+    "phases/03-ped/2026-08/outputs/caroselli.md",
+    "context/iniziative-in-corso.md",
+    "phases/04-campaigns/2026-07/inputs/feedbacks.md",
+    "context/internal-notes/2026-07-06-call-interna-elisa-elena.md",
+    "context/internal-notes",
+    "phases/03-ped/2026-07/outputs/ped.md",
+    "phases/03-ped/2026-08/outputs/pianificazione contenuti agosto 2026.rtf",
+    "phases/04-campaigns/2026-06/outputs/google-ads-analysis.md",
+    "phases/03-ped/2026-07/outputs/caroselli.md",
+    "phases/04-campaigns/2026-07/outputs/campaign.md",
+    "phases/04-campaigns/2026-06/inputs/Campaign report.csv",
+    "phases/04-campaigns/2026-06/inputs/Ad group report (1).csv",
+    "phases/04-campaigns/2026-06/inputs/Ad report.csv",
+    "phases/04-campaigns/2026-06/inputs/Asset groups report.csv",
+    "phases/04-campaigns/2026-06/inputs/Asset association report.csv",
     "phases/04-campaigns/2026-06/outputs/campaign.md",
     "phases/04-campaigns/2026-06/outputs/mail.md",
-    "phases/04-campaigns/2026-07/outputs/campaign.md",
-    "phases/03-ped/2026-07/outputs/caroselli.md",
     "phases/03-ped/2026-07/inputs/feedbacks.md",
     "phases/03-ped/2026-07/inputs/_scratch.md",
-    "phases/03-ped/2026-07/outputs",
-    "phases/03-ped/2026-07/inputs",
-    "phases/03-ped/2026-07"
+    "phases/03-ped/2026-07/outputs"
   ]
 }

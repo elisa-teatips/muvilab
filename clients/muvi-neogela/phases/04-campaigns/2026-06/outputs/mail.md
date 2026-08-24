@@ -2,9 +2,9 @@
 client: muvi-neogela
 phase: 04-campaigns
 period: 2026-06
-status: in-review
+status: approved
 owner: elisa-moratello
-last_updated: 2026-06-03
+last_updated: 2026-07-06
 ---
 
 # Touch-point: 04-campaigns — Giugno + Luglio 2026

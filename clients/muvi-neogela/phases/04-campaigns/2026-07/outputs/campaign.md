@@ -3,9 +3,9 @@ client: muvi-neogela
 phase: 04-campaigns
 period: 2026-07
 type: campaign
-status: draft
+status: approved
 owner: elisa-moratello
-last_updated: 2026-06-03
+last_updated: 2026-07-06
 ---
 
 # Neogela | Piano Campagne — Luglio 2026

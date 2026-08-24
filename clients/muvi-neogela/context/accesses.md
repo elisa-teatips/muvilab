@@ -2,7 +2,7 @@
 client: muvi-neogela
 type: accesses
 status: in-review
-last_updated: 2026-05-23
+last_updated: 2026-07-16
 ---
 
 # Accessi e strumenti — muvi-neogela
@@ -37,6 +37,8 @@ last_updated: 2026-05-23
 | Meta Business | `2592880621024751` | <pixel da censire> | Notion |
 | Google Ads | ocid `119354005` | n/a | Notion |
 | TikTok Ads | <DA ATTIVARE — fase 2> | <DA ATTIVARE> | Notion |
+
+> ⚠️ **TikTok Business Center — parzialmente sbloccato (aggiornato 2026-07-16)**: il catalogo Shopify è stato collegato con successo all'account pubblicitario TikTok (risolto il blocco tecnico segnalato il 2026-07-06). **Resta aperto** però il tema policy/ads: una campagna con obiettivo acquisto è stata rifiutata per violazione policy relativa a prodotti integratori, e non è chiaro se ci siano limitazioni analoghe per l'apertura di un TikTok Shop. In attesa che il referente TikTok (Valerio) fornisca un contatto dedicato al supporto ads. Vedi [context/internal-notes/2026-07-16-call-tiktok-valerio-giulia.md](internal-notes/2026-07-16-call-tiktok-valerio-giulia.md) (segue [2026-07-06-call-interna-elisa-elena.md](internal-notes/2026-07-06-call-interna-elisa-elena.md)).
 
 ## Analytics
 

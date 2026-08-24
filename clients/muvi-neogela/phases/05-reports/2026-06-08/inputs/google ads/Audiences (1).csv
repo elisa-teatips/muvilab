@@ -1,0 +1,25 @@
+Audiences
+"May 1, 2026 - June 18, 2026"
+Audience segment,Audience segment state,Campaign,Ad group,Currency code,Ad group default max. CPC,Audience segment max CPC,Audience Segment Bid adj.,Targeting Setting,Clicks,Impr.,CTR,Avg. CPC,Cost,Avg. CPM
+People not in audiences,,IT | Search | Traffico | Cold,Rimedi,EUR,0.01,0, --,Observation,"3,917","25,744",15.22%,0.05,176.62,6.86
+People not in audiences,,IT | Search | Conv | Brand,Branding,EUR,0.01,0, --,Observation,"2,353","12,800",18.38%,0.40,935.50,73.09
+Shoppers › Luxury Shoppers,,IT | Search | Traffico | Cold,Rimedi,EUR,0.01,0, --,Observation,"1,156","7,170",16.12%,0.05,57.62,8.04
+Beauty & Wellness,,IT | Search | Traffico | Cold,Rimedi,EUR,0.01,0, --,Observation,883,"4,865",18.15%,0.05,41.15,8.46
+Beauty & Wellness › Beauty Mavens,,IT | Search | Traffico | Cold,Rimedi,EUR,0.01,0, --,Observation,799,"4,632",17.25%,0.04,34.30,7.41
+Beauty & Personal Care,,IT | Search | Traffico | Cold,Rimedi,EUR,0.01,0, --,Observation,730,"4,201",17.38%,0.05,34.23,8.15
+Sports & Fitness › Health & Fitness Buffs,,IT | Search | Traffico | Cold,Rimedi,EUR,0.01,0, --,Observation,583,"3,291",17.71%,0.04,25.31,7.69
+Home & Garden › Home Decor Enthusiasts,,IT | Search | Traffico | Cold,Rimedi,EUR,0.01,0, --,Observation,503,"3,040",16.55%,0.04,21.80,7.17
+Shoppers › Value Shoppers,,IT | Search | Traffico | Cold,Rimedi,EUR,0.01,0, --,Observation,409,"2,272",18.00%,0.04,15.45,6.80
+Sports & Fitness,,IT | Search | Traffico | Cold,Rimedi,EUR,0.01,0, --,Observation,279,"1,795",15.54%,0.07,18.67,10.40
+Sports & Fitness › Fitness Products & Services,,IT | Search | Traffico | Cold,Rimedi,EUR,0.01,0, --,Observation,157,818,19.19%,0.04,6.17,7.55
+People not in audiences,,IT | Search | Conv | Brand,Keyword Navigazione,EUR,0.01,0, --,Observation,49,273,17.95%,0.62,30.31,111.01
+People not in audiences,,IT | Search | Traffico | Cold,Prodotti,EUR,0.01,0, --,Observation,7,22,31.82%,0.17,1.18,53.50
+Beauty & Personal Care,,IT | Search | Traffico | Cold,Prodotti,EUR,0.01,0, --,Observation,6,11,54.55%,0.45,2.68,243.29
+Beauty & Wellness,,IT | Search | Traffico | Cold,Prodotti,EUR,0.01,0, --,Observation,3,3,100.00%,0.19,0.56,186.67
+Sports & Fitness › Health & Fitness Buffs,,IT | Search | Traffico | Cold,Prodotti,EUR,0.01,0, --,Observation,2,6,33.33%,0.72,1.43,238.36
+Beauty & Wellness › Beauty Mavens,,IT | Search | Traffico | Cold,Prodotti,EUR,0.01,0, --,Observation,2,10,20.00%,0.02,0.05,4.99
+Shoppers › Luxury Shoppers,,IT | Search | Traffico | Cold,Prodotti,EUR,0.01,0, --,Observation,1,6,16.67%,0.27,0.27,45.00
+Shoppers › Value Shoppers,,IT | Search | Traffico | Cold,Prodotti,EUR,0.01,0, --,Observation,1,5,20.00%,0.15,0.15,30.54
+Home & Garden › Home Decor Enthusiasts,,IT | Search | Traffico | Cold,Prodotti,EUR,0.01,0, --,Observation,0,1,0.00%,0,0.00,0.00
+Sports & Fitness › Fitness Products & Services,,IT | Search | Traffico | Cold,Prodotti,EUR,0.01,0, --,Observation,0,4,0.00%,0,0.00,0.00
+Sports & Fitness,,IT | Search | Traffico | Cold,Prodotti,EUR,0.01,0, --,Observation,0,3,0.00%,0,0.00,0.00
