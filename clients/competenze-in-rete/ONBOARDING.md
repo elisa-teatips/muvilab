@@ -25,13 +25,13 @@ Cliente attivo dal 2023, rapporto tuttora in corso (il campo "Data Fine: 28/02/2
 
 ## 2. Team
 
-| Ruolo | Persona | Note |
-|---|---|---|
-| Social Media Manager | Elisa Moratello | Riferimento principale operativo |
-| Grafico | Enrico Grigolon | |
-| Video | Giovanni | Shooting esterni, content plan separato (vedi §7) |
-| Web | Matteo Munaretto (Innove) | Esterno, referente sito competenzeinrete.net |
-| Newsletter / preventivi extra | Elena Caccia | |
+| Ruolo                           | Persona                   | Note                                              |
+| ------------------------------- | ------------------------- | ------------------------------------------------- |
+| Social Media Manager/newsletter | Elisa Moratello           | Riferimento principale operativo                  |
+| Grafico                         | Enrico Grigolon           |                                                   |
+| Video                           | Giovanni                  | Shooting esterni, content plan separato (vedi §7) |
+| Web                             | Matteo Munaretto (Innove) | Esterno, referente sito competenzeinrete.net      |
+| Account manager                 | Elena Caccia              |                                                   |
 
 Non esiste un Web Designer interno assegnato — la gestione sito è esternalizzata a Innove.
 
@@ -39,7 +39,7 @@ Non esiste un Web Designer interno assegnato — la gestione sito è esternalizz
 
 ## 3. Canali gestiti e cadenza (contratto da gennaio 2026)
 
-**LinkedIn è il canale primario.** Facebook e Instagram sono cross-posting da LinkedIn (con gestione commenti mensile). Nessuna campagna a pagamento attiva — **Meta Ads non si fa per questo cliente**, nonostante un tag residuo "Meta Ads" ancora presente sulla scheda Notion (da ignorare, confermato da Elisa l'8/07/2026).
+**LinkedIn è il canale primario.** Facebook e Instagram sono cross-posting da LinkedIn (con gestione commenti mensile). Nessuna campagna a pagamento attiva — **Meta Ads non si fa per questo cliente**.
 
 **Cadenza post:**
 - 2 post/settimana, mix grafica + video
@@ -47,18 +47,15 @@ Non esiste un Web Designer interno assegnato — la gestione sito è esternalizz
 - 1 post/mese dedicato a NODUS ("rubrica" che racconta il legame NODUS-CIR)
 
 **Contenuti WINE (annunci di lavoro):**
-1. CIR manda via email l'azienda che cerca personale + link al sito (dove l'informazione è già pubblicata)
-2. Esce prima sul sito, poi si pubblica su LinkedIn
-3. Story su IG/FB
-4. Sempre invio anteprima al cliente prima di pubblicare
-5. Tempistiche: 24-48 ore dalla ricezione
-6. **Post candidature/grafiche**: il cliente pubblica per primo su LinkedIn → noi ripostiamo su Meta entro 2 giorni lavorativi (ci mandano email con grafica + copy già postato su LinkedIn). Su Instagram: storia con link alla candidatura sul sito.
 
-**Shooting video**: 4/anno (1/trimestre) con Giovanni — questo è ciò a cui si riferisce il campo Notion "Frequenza Uscite Multimedia: a necessità", **non** alla cadenza dei post che è invece fissa (vedi sopra).
+1. **Post candidature/grafiche**: il cliente pubblica per primo su LinkedIn → noi ripostiamo su Meta entro 2 giorni lavorativi (ci mandano email con grafica + copy già postato su LinkedIn). Su Instagram: storia con link alla candidatura sul sito.
+2. 4. Tempistiche: 24-48 ore dalla ricezione
+
+**Shooting video**: 4/anno (1/trimestre) con Giovanni
 
 **Linguaggio**: sensibilità di genere richiesta — usare sempre "un/una" + carica (es. "un/una Sales Manager"), mai il solo maschile.
 
-**Flusso PED**: preparato a inizio mese ma **non inviato al cliente**. Al suo posto: invio CED intorno al 20 del mese via PostPickr con vista cliente e annotazioni dirette.
+**Flusso PED**: invio intorno al 20 del mese via PostPickr con vista cliente e annotazioni dirette.
 
 ---
 
@@ -72,11 +69,10 @@ Non esiste un Web Designer interno assegnato — la gestione sito è esternalizz
 
 **File contatti condiviso col cliente** (da aggiungere al database Mailchimp): [Google Sheet](https://docs.google.com/spreadsheets/d/1SdDFEC3-e8MGjMYN_6C6FbSdF2JqgU607HKQaKy548w/edit).
 
-**Nota operativa**: la revisione strutturale della newsletter (test su posizionamento CTA, formato, ecc.) **non è inclusa nel contratto attuale** — le ottimizzazioni fatte finora sono un'iniziativa in più concordata internamente (Elena Caccia / Elisa Moratello, thread interno maggio 2026), non richiesta dal cliente. Tienilo presente se il cliente dovesse notare/chiedere di questi cambi.
+**Nota operativa**: la revisione strutturale della newsletter (test su posizionamento CTA, formato, ecc.) **non è inclusa nel contratto attuale** — le ottimizzazioni fatte finora sono un'iniziativa in più concordata internamente (Elena Caccia / Elisa Moratello), non richiesta dal cliente. Tienilo presente se il cliente dovesse notare/chiedere di questi cambi.
 
 **Problema aperto**: bounce rate ricorrente di 13-22 contatti a invio su più campagne consecutive (marzo-giugno 2026) — segnalato ma non ancora risolto. Vedi raccomandazioni nei report di marzo/aprile.
 
----
 
 ## 5. White paper
 
@@ -92,7 +88,7 @@ I "vecchi" white paper (Temporary Manager, Clima Aziendale) vanno ripubblicati p
 ## 6. Temi editoriali 2026 (must-have, da calendario cliente)
 
 - **HR Fractional Manager / Temporary Manager** — tema ricorrente, molto performante (vedi §9)
-- **Passaggio generazionale** — in collaborazione con Drapelli Partners, collegabile a temporary manager e HR fractional
+- **Passaggio generazionale** — in collaborazione con Drapelli Partners, collegabile a temporary manager e HR fractional. Strategia contenuti approvata: https://app.notion.com/p/muvilab/Strategia-contenuti-3586e1358be180f0b7fdefa73ff3866b?source=copy_link
 - **Clima aziendale** — tema trasversale da toccare da più angolazioni; case study/interviste previste giu-lug 2026, pubblicazione set-ott 2026
 - **Comunicazione interna** — possibile nuovo servizio da sviluppare (house organ, eventi interni, social network interno)
 - **Case study e interviste** — coinvolgere clienti e fractional manager per testimonianze (es. progetto Iras)
@@ -113,34 +109,5 @@ I "vecchi" white paper (Temporary Manager, Clima Aziendale) vanno ripubblicati p
 - **Pagina cliente Notion**: [Comunicazione Competenze in Rete](https://app.notion.com/p/muvilab/Comunicazione-Competenze-in-Rete-2c68360c6e1546299459c3b935ca8315) — contratto operativo, credenziali (ora su password manager), risorse, temi editoriali. È la fonte primaria per tutto ciò che riguarda l'operatività quotidiana.
 - **Content plan video (Giovanni)**: pagina Notion collegata "Competenze in Rete - Content Plan" (linkata dalla pagina cliente).
 - **Report social**: pagine Notion "Dati report social <mese> 2026" (marzo, aprile, maggio-giugno finora) — dati grezzi con grafici Meta/LinkedIn.
-- **Framework MUVI (repo `muvilab`)**: `clients/competenze-in-rete/`
-  - `AGENTS.md` — regole operative e anagrafica cliente aggiornata (leggerlo sempre prima di agire su questo cliente)
-  - `context/` — brand, contratto, accessi, strategia (`strategia 2025.pdf` + `Competenze in Rete.pdf`, entrambi ancora da leggere/riassumere in `context/brand.md`, che al momento è un template vuoto)
-  - `phases/05-reports/2026-03-31/`, `2026-04-30/`, `2026-06-30/` — report mensili già formalizzati nel framework, ciascuno con dati FB, IG, LinkedIn e Newsletter
-  - `phases/01-presales/`, `02-strategy/`, `03-ped/` — ancora scheletri vuoti, storico da recuperare
-  - **Non esiste** `phases/04-campaigns/` per questo cliente (nessuna attività a pagamento)
 
----
 
-## 8. Snapshot performance (marzo → giugno 2026)
-
-| Canale | Trend | Nota |
-|---|---|---|
-| LinkedIn | In calo (impression) ma commenti in crescita | Reach dipende molto da eventi/annunci puntuali; senza un evento nel mese, la reach cala |
-| Instagram | In forte crescita | +71,7% visualizzazioni mag→giu; trainato da eventi (Global Summit, Vinitaly) e volume contenuti |
-| Facebook | Stabile/lieve calo reach, interazioni in crescita | Cross-posting da LinkedIn |
-| Newsletter | Aperture/click in crescita, bounce rate da risolvere | Vedi §4 |
-
-Post/contenuti più performanti del periodo: "Il Fast-Job" e "Il Manager Potenziato" (LinkedIn, video), carosello "HR Fractional Manager" del 16 giugno (Instagram, 1.451 visualizzazioni in un giorno). I job posting generano più diffusioni/condivisioni ma meno commenti; i contenuti narrativi/valoriali generano più commenti e CTR.
-
-Report completi con tutti i numeri: `phases/05-reports/2026-03-31/`, `2026-04-30/`, `2026-06-30/`.
-
----
-
-## 9. Cose ancora aperte (da non dare per scontate)
-
-- `context/brand.md`, `context/contracts/contract.md`, `context/accesses.md` nel framework sono ancora template vuoti — le informazioni vere vivono su Notion e nei PDF di strategia, non ancora trascritte qui.
-- Nessun confronto formale tra i report e la Strategia 2025 (`context/strategia 2025.pdf`) — utile farlo per capire se i risultati sono in linea con gli obiettivi.
-- Bounce rate newsletter da approfondire (§4).
-- Verificare se il white paper "Temporary Manager" è stato riattivato dopo la pausa di giugno.
-- Nessun report di gennaio-febbraio 2026 importato nel framework (se esiste una pagina Notion equivalente, andrebbe aggiunta per continuità).
