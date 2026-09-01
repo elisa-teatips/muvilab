@@ -32,5 +32,18 @@ Allargando la finestra Meta a giugno si conferma (e peggiora) il problema di fre
 ## Azioni proposte (invariate rispetto alla settimana scorsa, ancora aperte)
 - [ ] Isolare/mettere un cap di frequenza sul Retargeting Agosto — priorità più alta ora che il dato è peggiorato
 - [ ] Refresh creativo su Retargeting Agosto
-- [ ] Check dell'ad group Estate | Kit Viaggio (Traffico | Cold) — ancora da fare
+- [x] ~~Check dell'ad group Estate | Kit Viaggio (Traffico | Cold)~~ — risolto: l'ad group risulta **in pausa** (vedi sotto), non serve più un check di performance
 - [ ] Risolvere il problema di policy sulla Pmax prima di valutare una riattivazione
+
+## Aggiornamento — keyword, Shopping e TikTok (1 lug – 31 ago 2026)
+
+*Analisi completa: [keyword-shopping-tiktok-1lug-31ago.md](./keyword-shopping-tiktok-1lug-31ago.md)*
+
+- **Estate | Kit Viaggio è in pausa**: l'ad group creato il 22/07 dentro Traffico|Cold non è più attivo — da capire se è stata una scelta esplicita non ancora registrata.
+- **Shopping Google quasi azzerato dal 22/07**: un solo prodotto ha venduto in tutto il periodo (€654,16, ROAS 2,83x), e oggi tutto il catalogo risulta "Not eligible" — diretta conseguenza della Pmax in pausa.
+- **TikTok**: solo 2 campagne su 10 hanno avuto delivery nel periodo (€281,74 spesi). "Conversione Agosto" ha speso €81,74 senza generare **nessuna** conversione tracciata — da verificare il tracciamento prima di investirci altro. ROAS e valore conversioni restano a zero su tutto TikTok: la vendita via TikTok Shop non risulta ancora attiva.
+
+### Nuove azioni
+- [ ] Verificare perché "Conversione Agosto" su TikTok non traccia conversioni
+- [ ] Confermare con Elisa se la pausa di Estate | Kit Viaggio è voluta
+- [ ] TikTok Shop: sbloccare il Business Center per abilitare il tracciamento vendite (azione nota da mesi)
