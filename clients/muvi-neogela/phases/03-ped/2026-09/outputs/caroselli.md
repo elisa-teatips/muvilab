@@ -3,9 +3,10 @@ client: muvi-neogela
 phase: 03-ped
 period: 2026-09
 type: caroselli
-status: in-review
+status: approved
 owner: elisa
-last_updated: 2026-08-03
+last_updated: 2026-08-25
+note: silenzio-assenso scaduto il 05/08 (deadline della PED settembre), chiuso in approved il 25/08 (confermato da Elisa nel weekly check-in).
 ---
 
 # Caroselli — PED Settembre 2026 — Neogela

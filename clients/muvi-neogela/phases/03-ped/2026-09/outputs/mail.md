@@ -2,11 +2,12 @@
 client: muvi-neogela
 phase: 03-ped
 period: 2026-09
-status: in-review
+status: approved
 owner: elisa
-last_updated: 2026-07-29
+last_updated: 2026-08-25
 deadline_approvazione: 2026-08-05
 modalita_approvazione: silenzio-assenso
+note: silenzio-assenso scaduto il 05/08, chiuso in approved il 25/08 (confermato da Elisa nel weekly check-in).
 ---
 
 # Touch-point mail — PED 2026-09
