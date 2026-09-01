@@ -2,9 +2,10 @@
 client: muvi-neogela
 phase: 04-campaigns
 period: 2026-08
-status: draft
+status: approved
 owner: elisa-moratello
-last_updated: 2026-07-22
+last_updated: 2026-09-01
+note: chiuso in weekly check-in del 01/09 — la campagna lead-gen agosto è stata lanciata, risultati coperti da 05-reports/2026-08-24 (analisi Meta+Google luglio-agosto). Checklist non riverificata voce per voce.
 ---
 
 # TODO — Campaign 2026-08 (Lead Generation)

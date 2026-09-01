@@ -2,9 +2,10 @@
 client: muvi-neogela
 phase: 03-ped
 period: 2026-09
-status: draft
+status: approved
 owner: elisa
-last_updated: 2026-07-29
+last_updated: 2026-09-01
+note: chiuso in weekly check-in del 01/09. Item operativi (montaggio video, grafica caroselli, data-hygiene) restano da tracciare a livello operativo/Notion, non nel framework. La valutazione "aprire 04-campaigns per ottobre (mese osteoporosi)" resta un item aperto da riprendere in avvio fase campagne ottobre.
 ---
 
 # TODO generati per fase successiva
