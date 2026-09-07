@@ -15,6 +15,6 @@ last_updated: 2026-09-07
 | 2 | Lanciare campagna retargeting Meta (setup in corso) | Elisa | tbd | in lavorazione |
 | 3 | Sollecitare Valerio per contatto ads dedicato TikTok (policy integratori) | Elisa | tbd | pending |
 | 4 | Attivare campagna vendita catalogo TikTok, appena sbloccata la policy | Elisa | dipende da #3 | blocked |
-| 5 | Monitorare nuovo ad group Google "Estate \| Kit Viaggio" | Elisa | continuo | in corso |
+| 5 | ~~Monitorare nuovo ad group Google "Estate \| Kit Viaggio"~~ | Elisa | — | **chiuso 07/09** — ad group in pausa (rilevato 01/09), monitoraggio non più applicabile |
 | 6 | Aprire fase 04-campaigns/2026-10 per campagna mese osteoporosi | Elisa | inizio ottobre | pending |
 | 7 | Valutare **nuova campagna Shopping Google** (standard, non Pmax) per mese osteoporosi e Black Friday | Elisa | entro fine settembre | pending |
