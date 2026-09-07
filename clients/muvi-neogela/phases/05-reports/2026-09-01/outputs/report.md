@@ -9,6 +9,13 @@ last_updated: 2026-09-07
 
 # Neogela — Organico Meta (Facebook + Instagram) e TikTok, 1 giugno – 31 agosto 2026
 
+> **Perimetro di questo file.** È il `report.md` della fase, ma copre la sola parte **organica**. La parte **paid** dello stesso periodo vive nei file di dettaglio accanto, ed è parte integrante del report:
+> - [analisi-dati-meta-giu-ago-google-lifetime.md](./analisi-dati-meta-giu-ago-google-lifetime.md) — Meta Ads giu-ago, Google Ads storico
+> - [keyword-shopping-tiktok-1lug-31ago.md](./keyword-shopping-tiktok-1lug-31ago.md) — keyword, Shopping, TikTok Ads
+> - [recap-team-meta-giu-ago-google-lifetime.md](./recap-team-meta-giu-ago-google-lifetime.md) — recap sintetico paid
+>
+> La lettura trasversale paid + organico, con le considerazioni qualitative per il team, è in [mail.md](./mail.md).
+
 **Fonti:** Meta Business Suite (Insights → Risultati e Contenuti, `time_range` personalizzato 1/6–31/8) e TikTok Studio Analytics, letti da interfaccia via estensione Chrome il 07/09/2026. Nessun export scaricato.
 
 **Perimetro:** completa e sostituisce per il trimestre estivo la lettura parziale di [organico-social-maggio-luglio2026.md](../../2026-08-24/outputs/organico-social-maggio-luglio2026.md), che si fermava al 31 luglio (e per Instagram al solo mese di luglio).

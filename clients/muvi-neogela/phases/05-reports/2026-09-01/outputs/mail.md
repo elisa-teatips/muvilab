@@ -1,7 +1,7 @@
 ---
 client: muvi-neogela
 phase: 05-reports
-period: "Ads: Meta giu-ago 2026 | Google storico+recente al 31/08 | TikTok lug-ago 2026 — Organico: FB mag-lug, IG lug, TikTok 30/06-31/07"
+period: "Ads: Meta giu-ago 2026 | Google storico+recente al 31/08 | TikTok lug-ago 2026 — Organico: Meta e TikTok giu-ago 2026"
 status: draft
 owner: elisa@teatips.it
 last_updated: 2026-09-07
@@ -9,11 +9,13 @@ last_updated: 2026-09-07
 
 # Email interna — Considerazioni qualitative Neogela aggiornate al 31 agosto 2026
 
+> **Nota sul tipo di mail.** Questo è il `mail.md` della fase, ma è una **mail interna al team** (destinataria: Elena Caccia), non il touch-point formale a 5 blocchi verso gli approvatori del cliente descritto in `playbook.md §3`. La fase `05-reports` non prevede un passaggio di approvazione cliente, quindi qui il touch-point è interno. Se servirà una comunicazione formale a Giulia sui risultati del trimestre, va scritta a parte.
+
 **A:** Elena Caccia
 **Oggetto:** Neogela | Considerazioni campagne + organico aggiornate al 31 agosto
 **Data:** 7 settembre 2026
 
-*Dati di riferimento: [analisi-dati-meta-giu-ago-google-lifetime.md](./analisi-dati-meta-giu-ago-google-lifetime.md), [keyword-shopping-tiktok-1lug-31ago.md](./keyword-shopping-tiktok-1lug-31ago.md), [organico-social-maggio-luglio2026.md](../../2026-08-24/outputs/organico-social-maggio-luglio2026.md)*
+*Dati di riferimento: [report.md](./report.md) (organico giu-ago), [analisi-dati-meta-giu-ago-google-lifetime.md](./analisi-dati-meta-giu-ago-google-lifetime.md), [keyword-shopping-tiktok-1lug-31ago.md](./keyword-shopping-tiktok-1lug-31ago.md)*
 
 ---
 
@@ -108,7 +110,7 @@ C'è però un tema di budget da mettere sul tavolo: **restano €5.518 di residu
 
 ## 4. Organico Meta (Facebook e Instagram)
 
-Ho completato l'estrazione sul trimestre pieno 1 giugno – 31 agosto. *Analisi completa: [organico-meta-tiktok-giu-ago2026.md](./organico-meta-tiktok-giu-ago2026.md)*
+Ho completato l'estrazione sul trimestre pieno 1 giugno – 31 agosto. *Analisi completa: [report.md](./report.md)*
 
 | Metrica (1 giu – 31 ago) | Facebook | Instagram |
 |---|---:|---:|
