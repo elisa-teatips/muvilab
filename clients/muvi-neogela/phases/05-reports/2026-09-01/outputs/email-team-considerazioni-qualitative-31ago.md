@@ -80,7 +80,11 @@ Due novità da registrare: l'ad group **"Estate | Kit Viaggio"** (creato il 22/0
 
 Per darti il metro: nel report maggio-giugno lo Shopping aveva 5 formati in vendita e €26.549 di revenue. Adesso è a zero.
 
-**Questa per me è la decisione più urgente del report.** Ottobre e novembre sono i due mesi in cui Neogela fattura di più — mese dell'osteoporosi e Black Friday — e ci stiamo arrivando con il canale feed spento. O risolviamo la policy in tempo, o mettiamo in conto che in alta stagione Shopping non ci sarà e riallochiamo quel budget su Search e Meta in modo consapevole. Quello che non possiamo fare è arrivarci senza aver deciso.
+**Questa per me è la decisione più urgente del report.** Ottobre e novembre sono i due mesi in cui Neogela fattura di più — mese dell'osteoporosi e Black Friday — e ci stiamo arrivando con il canale feed spento.
+
+**La strada che proporrei non è aspettare la Pmax, è aprire una campagna Shopping standard.** Il problema di policy che tiene ferma la Pmax riguarda gli asset generati automaticamente (testi, immagini, combinazioni che l'algoritmo assembla da solo): è quello il punto su cui veniamo penalizzati da giugno, e non è nelle nostre mani risolverlo in fretta. Una **campagna Shopping classica** lavora invece direttamente sul feed Merchant Center, senza asset generati: ci ridà i prodotti in vetrina per ottobre e novembre senza dipendere dallo sblocco della Pmax, e con molto più controllo su cosa spingiamo.
+
+Vale la pena valutarla adesso, non a ottobre inoltrato: se la accendiamo a fine settembre arriva al mese dell'osteoporosi già uscita dalla fase di apprendimento. L'ho messa a TODO su settembre. Se invece decidiamo di non farla, mettiamo in conto che in alta stagione Shopping non ci sarà e riallochiamo quel budget su Search e Meta in modo consapevole — quello che non possiamo fare è arrivarci senza aver deciso.
 
 ---
 
@@ -215,6 +219,7 @@ Rispetto alla prima bozza sono invece **chiusi**: organico Meta e TikTok su tutt
 Riassumo quello che ci siamo dette, così ce l'hai scritto:
 
 - **Ottobre e novembre sono i mesi da vendere.** Focus quasi totale su campagne di **conversione**, sia Meta che Google, che lavorano in sinergia.
+- **Nuova campagna Shopping standard su Google da valutare entro fine settembre**, per riavere i prodotti a catalogo in vetrina durante mese dell'osteoporosi e Black Friday senza dipendere dallo sblocco della Pmax (vedi punto 2).
 - **Notorietà tra metà settembre e inizio ottobre**, per scaldare il pubblico prima del mese dell'osteoporosi. Sporadica, non un canale centrale.
 - **Traffico su Instagram sempre acceso** — costa poco e alimenta l'organico.
 - **Retargeting a dicembre**, con budget ridotto, per raccogliere chi è passato in ottobre-novembre senza comprare.
