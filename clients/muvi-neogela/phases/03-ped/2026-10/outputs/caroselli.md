@@ -5,16 +5,17 @@ period: 2026-10
 type: caroselli
 status: draft
 owner: elisa
-last_updated: 2026-09-07
-note: allineato alla scaletta inviata il 07/09 — in calendario ci sono i caroselli 1 e 2, i concept 3-5 restano disponibili per le uscite mancanti. Carosello 2 riprende la rubrica aperta il 16/09. I valori clinici del Carosello 2 vanno validati dal Dott. Zeggio prima della produzione grafica.
+last_updated: 2026-09-11
+note: allineato alla scaletta inviata il 07/09 — in calendario ci sono i caroselli 1 e 2, i concept 3-5 restano disponibili per le uscite mancanti. Carosello 2 riprende la rubrica aperta il 16/09. Carosello 2 (Passo 2, 05/10) sviluppato l'11/09 sulla struttura del Passo 1, pronto per il grafico dopo la validazione clinica del Dott. Zeggio.
 ---
 
 # Caroselli — PED Ottobre 2026 — Neogela
 
-**In calendario (scaletta inviata a Giulia il 07/09): 2 caroselli.**
+**In calendario (scaletta inviata a Giulia il 07/09): 2 caroselli.** I testi per la grafica sono in due file
+dedicati, indicati in ciascuna sezione.
 
 - **05/10** — Rubrica "5 Passi Dopo la Diagnosi", Passo 2 (era previsto il 26/10, spostato in fase di invio)
-- **20/10** — Giornata Mondiale dell'Osteoporosi
+- **20/10** — Giornata Mondiale dell'Osteoporosi e apertura promo (brief Neogela)
 
 I tre caroselli in fondo al documento (errori alimentari, 5 miti sul collagene, 5 segnali) **non sono in
 calendario**: restano concept pronti, utili a coprire le 2 uscite mancanti del 23/10 e del 30/10 (v. `ped.md`).
@@ -25,174 +26,118 @@ Tutti indipendenti dal blog e senza riprese: si producono con Marina Susanetto.
 
 ## Carosello 1 — Giornata Mondiale dell'Osteoporosi (20/10)
 
-**Pillar**: Autorevolezza medica / Prevenzione
-**Perché qui**: il 20/10 è l'unica data del mese che chiedeva un contenuto "da giornata" e non divulgativo. I
-video girati ad agosto sono tutti didattici; questo prende posizione e dà alla giornata un senso pratico.
-**Nota grafica**: è il contenuto più condivisibile del mese — le slide 4-7 devono funzionare anche estratte
-singolarmente come storia.
+**Testo per la grafica: [`grafica-2026-10-20-giornata-mondiale-osteoporosi.md`](grafica-2026-10-20-giornata-mondiale-osteoporosi.md)**
+— è l'unica versione valida. La bozza scritta qui il 07/09 è superata.
 
-### SLIDE 1 — Cover
-> **20 ottobre**
-> Giornata Mondiale dell'Osteoporosi
->
-> Perché esiste. E cosa puoi fare, da oggi.
-
-### SLIDE 2 — Perché esiste una giornata
-> In Italia quasi **5 milioni di persone** convivono con l'osteoporosi.
->
-> E molte lo scoprono solo dopo la prima frattura.
-
-### SLIDE 3 — Il motivo per cui serve parlarne
-> L'osteoporosi non fa male.
->
-> È una malattia silente: non dà sintomi, finché non arriva una frattura.
->
-> Per questo una giornata dedicata non è un simbolo. È prevenzione.
-
-### SLIDE 4 — Prevenire /1 · Muoviti nel modo giusto
-> Le ossa si rinforzano se le carichi.
->
-> Camminata veloce, esercizi contro resistenza, lavoro sull'equilibrio: sono lo stimolo che dice all'osso di
-> restare denso.
->
-> Anche 20-30 minuti al giorno fanno la differenza.
-
-### SLIDE 5 — Prevenire /2 · Dai all'osso i materiali
-> Calcio, vitamina D e proteine sono i mattoni.
->
-> E c'è una parte di cui si parla poco: la matrice dell'osso è fatta in gran parte di **collagene**, ed è quella
-> che gli dà elasticità oltre alla resistenza.
-
-### SLIDE 6 — Prevenire /3 · Controlla, non aspettare
-> La **MOC** (densitometria ossea) è l'esame di riferimento.
->
-> È rapido, indolore, e misura quanto è densa la tua struttura ossea.
->
-> Indicata soprattutto in menopausa e dopo i 70 anni.
-
-### SLIDE 7 — Prevenire /4 · Togli quello che toglie
-> Fumo, alcol in eccesso e sedentarietà lavorano nella direzione opposta.
->
-> Non è solo questione di cosa aggiungi. È anche questione di cosa smetti.
-
-### SLIDE 8 — Chiusura / CTA
-> La prevenzione non inizia dopo una diagnosi.
-> Inizia molto prima.
->
-> Salva questo post e giralo a una persona a cui vuoi bene.
->
-> *Neogela è un integratore alimentare: non sostituisce terapie mediche prescritte.*
-
-### Copy post (caption)
-> Oggi è la Giornata Mondiale dell'Osteoporosi.
->
-> Serve perché è una malattia che non fa rumore: non dà dolore, non dà sintomi, e spesso si scopre solo dopo una
-> frattura. Quasi 5 milioni di persone in Italia ci convivono.
->
-> Nelle slide trovi le quattro cose che puoi iniziare a fare da oggi — movimento, alimentazione, controlli, e
-> quello che invece conviene togliere.
->
-> Se hai un dubbio sul tuo caso, scrivicelo nei commenti o in DM: rispondiamo noi.
->
-> *Neogela è un integratore alimentare, non sostituisce terapie mediche prescritte.*
-
-### ⚠️ Da verificare prima della pubblicazione
-- Fonte dei dati "quasi 5 milioni" e delle indicazioni MOC (menopausa / over 70) — vanno citate, come da vincoli
-  regolatori del cliente. Sono gli stessi dati usati negli script video di agosto: **usare la stessa fonte** per
-  non avere due versioni dello stesso numero nello stesso mese.
-- Slide 4-6: verificare con il Dott. Zeggio che le indicazioni su attività fisica e MOC siano formulate come
-  informazione generale e non come prescrizione.
+Riscritto l'11/09 sul **brief Neogela di ottobre** (`../inputs/brief-neogela-ottobre-2026.md`), che cambia la
+natura del contenuto: il 20/10 non è più solo un post di sensibilizzazione ma il **main event della campagna**,
+con apertura dello sconto sitewide e della lucina notturna in regalo. Il carosello segue il concept del brief,
+*"Il rischio non è la malattia, è la caduta"*: 7 slide di prevenzione (con la sicurezza in casa di notte come
+quarto pilastro) e il regalo presentato come conseguenza di quel discorso, non come offerta.
 
 ---
 
-## Carosello 2 — Rubrica "5 Passi Dopo la Diagnosi", Passo 2 (05/10)
+## Carosello 2 — Rubrica "5 Passi Dopo la Diagnosi", Passo 2 (lun 05/10)
 
-**Titolo**: Capire i numeri: come leggere la tua MOC senza spaventarti
-**Pillar**: Accompagnamento
-**Voce**: Dott. Zeggio (autorevolezza medica), come da concept
-**Continuità**: riprende la rubrica aperta il **16/09** con il Passo 1. Marina ha costruito l'elemento grafico
-ricorrente proprio per essere riusato qui — v. `../../2026-09/outputs/caroselli.md`, "Nota per Marina".
+**Argomento:** Passo 2 — Capire i numeri: come leggere la tua MOC senza spaventarti
+**Categoria:** Educational / Accompagnamento · Awareness mese dell'osteoporosi
+**Pillar:** Accompagnamento
+**Uscita:** lunedì 05/10 — prima settimana del mese dell'osteoporosi, 15 giorni prima della Giornata Mondiale
+**Voce:** brand, con revisione clinica del Dott. Zeggio (il concept assegna questo episodio alla voce medica)
 
-**Attenzione alla sovrapposizione**: il video "MOC: diagnosticare la fragilità ossea" (batch agosto) è fuori
-calendario ma potrebbe rientrare come sostituzione se il suo articolo esce in tempo. Il video spiega *cos'è
-l'esame e perché farlo*, questo carosello *come leggere il referto che hai già in mano*: angoli diversi, ma se
-finiscono ravvicinati il copy va tenuto ben distinto — o si sceglie l'uno o l'altro.
+**Perché a ottobre:** è il mese in cui si parla di più di prevenzione e controlli delle ossa, quindi è il momento
+in cui il referto della MOC è davvero in mano a molte persone. Il Passo 1 (16/09) ha già preparato il terreno
+con "fatti dare il referto per iscritto": il Passo 2 insegna a leggerlo. E si incastra con il carosello del
+20/10 senza sovrapporsi: quello parla di prevenzione a chi non ha una diagnosi, questo parla a chi il referto
+ce l'ha già.
 
-### SLIDE 1 — Cover
-> **5 Passi Dopo la Diagnosi**
-> Passo 2
->
-> Capire i numeri, senza spaventarsi
+**Tono:** stesso registro del Passo 1 (`tone-of-voice.md`, "Comunicazione Rassicurante"). Qui il rischio è
+doppio: l'ansia (i numeri con il segno meno fanno paura) e il tecnicismo. Due regole: ogni termine tecnico è
+seguito dalla spiegazione in parole semplici; nessun numero viene presentato come un voto o una sentenza.
 
-### SLIDE 2 — Apertura emotiva
-> Hai il referto della MOC in mano.
->
-> E una serie di numeri che non ti dicono niente.
->
-> Partiamo da quello che conta davvero.
+**Cosa NON deve fare:** interpretare il referto al posto del medico, collegare i valori a un prodotto, indicare
+tempi o terapie. Come nel Passo 1, **nessun riferimento a Neogela o al collagene nelle slide**: è il momento in
+cui il brand parla della persona, non del prodotto.
 
-### SLIDE 3 — Il T-score
-> Il valore chiave si chiama **T-score**.
->
-> Confronta la densità delle tue ossa con quella di una persona giovane e sana.
->
-> È il numero su cui si basa la diagnosi.
+---
 
-### SLIDE 4 — I tre intervalli
-> **Da -1 in su** → densità nella norma
-> **Tra -1 e -2,5** → osteopenia
-> **Sotto -2,5** → osteoporosi
+### Nota per Marina
 
-### SLIDE 5 — Lo Z-score
-> Accanto puoi trovare lo **Z-score**.
->
-> Confronta le tue ossa con quelle di chi ha la tua stessa età e sesso.
->
-> Si usa soprattutto nelle persone più giovani e in menopausa precoce.
+**Da riusare identico dal Passo 1** (componente costruito a settembre):
+- badge "5 Passi Dopo la Diagnosi", variante cromatica "accompagnamento", icona rubrica;
+- stessa gabbia delle slide "cosa aiuta" (marcatore ✅) e "cosa non aiuta" (marcatore ❌);
+- **indicatore step**: 1° pallino in stile "completato" (pieno ma più tenue), **2° pieno ed evidenziato**, 3-5
+  vuoti. Così chi segue la serie vede il percorso avanzare.
 
-### SLIDE 6 — Cosa il numero NON dice
-> Il T-score misura una densità. Non è una previsione.
->
-> Non dice se ti romperai un osso, e non dice cosa sarà di te fra dieci anni.
->
-> È una fotografia di oggi — e da oggi si può agire.
+**Nuovo in questo episodio:**
+- **Tag mese**: piccola etichetta `Ottobre · Mese dell'osteoporosi` su cover e ultima slide. Affianca il badge
+  rubrica, non lo sostituisce. Utile riusarla su tutti i contenuti di ottobre, carosello del 20/10 compreso.
+- **Scala del T-score** (slide 3): barra orizzontale a tre fasce. **Niente semaforo verde/giallo/rosso**: una
+  fascia "osteoporosi" rossa comunica pericolo, cioè esattamente il registro da evitare. Usare tre tonalità della
+  variante accompagnamento, dalla più chiara alla più intensa, con le etichette scritte.
+- **Referto stilizzato** (cover e slide 4): mockup generico, senza nomi e senza valori leggibili (campi vuoti o
+  trattini), con le sedi di misura cerchiate. Nessun numero che possa sembrare il referto di qualcuno.
 
-### SLIDE 7 — Cosa portare al medico
-> Alla prossima visita porta il referto **e** le tue domande scritte.
->
-> E chiedi una cosa in particolare: fra quanto tempo ripetere l'esame, e dove.
->
-> La MOC va sempre rifatta nello stesso centro, altrimenti i valori non sono confrontabili.
+---
 
-### SLIDE 8 — Chiusura / CTA
-> Passo 2 di 5.
->
-> Il prossimo: dove trovare chi capisce davvero cosa stai vivendo.
->
-> Segui **#5PassiDopoLaDiagnosi** — se hai appena ricevuto una diagnosi, scrivici.
->
-> *Neogela è un integratore alimentare: non sostituisce terapie mediche prescritte.*
+### Testo per la grafica
 
-### Copy post (caption)
-> Secondo passo della rubrica.
->
-> Dopo la diagnosi arriva il momento del referto: una pagina piena di numeri che sembrano una sentenza e invece
-> sono solo una fotografia. Nelle slide trovi cosa significano T-score e Z-score, cosa quei numeri **non** dicono,
-> e le due domande da portare alla prossima visita.
->
-> Se hai un referto che non riesci a interpretare, scrivici: non serve affrontarlo da sola.
->
-> *Neogela è un integratore alimentare, non sostituisce terapie mediche prescritte.*
+**[`grafica-2026-10-05-rubrica-passo-2-moc.md`](grafica-2026-10-05-rubrica-passo-2-moc.md)** — slide, caption e
+punti da validare. È l'unica versione valida del testo: qui sotto restano solo le note strategiche.
 
-### ⚠️ Da validare con il Dott. Zeggio prima della produzione grafica
-Il concept della rubrica prevedeva solo lo script dell'episodio 1; questo è **nuovo copy**, con contenuto clinico.
-Da far confermare punto per punto:
-- gli intervalli del T-score (slide 4);
-- la descrizione dello Z-score e quando si usa (slide 5);
-- l'indicazione "ripetere la MOC sempre nello stesso centro" (slide 7).
+Aggiornato l'11/09 sul brief Neogela di ottobre: il 05/10 cade nella fase "sensibilizzazione" (1-7/10), quindi
+niente promo; il rischio di cadute entra tra i fattori della slide 6 e il Test del Rischio Osseo in caption.
 
-Come da concept, la rubrica **non deve diventare** una rubrica medica né sostituire il supporto specialistico:
-il ruolo qui è rendere leggibile un referto, non interpretarlo al posto del medico.
+---
+
+### Versioni per canale
+
+| Canale | Formato | Adattamento |
+|--------|---------|-------------|
+| Instagram | Carosello 8 slide | Come sopra, stesso formato del Passo 1 |
+| Facebook | Carosello 8 slide | Stessa caption |
+| TikTok | Modalità foto | Slide 1, 3, 4, 5, 6, 8. Caption breve: `Come leggere la MOC senza spaventarti. Passo 2 di 5 🤍 Salvalo per la prossima visita #5PassiDopoLaDiagnosi #osteoporosi #MOC` |
+| Stories | Singola slide | Slide 3 (scala del T-score) il giorno dopo, 06/10, con sticker link al post. Aggiungere il post all'highlight della rubrica |
+
+### ADV e follow-up
+
+- **Organico**, come il Passo 1. L'unica amplificazione sensata, e solo se il Passo 1 ha avuto salvataggi o DM
+  sopra la media: retargeting leggero su chi ha interagito con il Passo 1 e sui visitatori delle pagine blog
+  su MOC e osteoporosi (segmento già previsto in `target.md`). Nessun pubblico freddo.
+- **Commenti e DM**: chi chiede di interpretare il proprio referto va rimandato al medico; chi chiede di
+  integrazione, alla consulenza gratuita Neogela. **Il community management è fuori dal perimetro contrattuale
+  MUVI Lab**, quindi le risposte le gestisce il team Neogela: da passare a Giulia insieme al carosello queste due
+  risposte tipo.
+  - *Referto:* "Ciao, grazie di averci scritto 🤍 Per capire cosa significano i tuoi valori il riferimento giusto
+    è il tuo medico, che conosce la tua storia. Un consiglio pratico: porta il referto alla visita insieme alle
+    domande che ti sono venute leggendolo."
+  - *Integrazione:* "Ciao, grazie di averci scritto 🤍 Se vuoi capire come l'integrazione può inserirsi nel tuo
+    percorso, puoi prenotare una consulenza gratuita con il nostro team. Per le decisioni sulla terapia, resta
+    sempre il tuo medico il punto di riferimento."
+
+---
+
+### ⚠️ Da validare con il Dott. Zeggio prima di passare a Marina
+
+È copy nuovo con contenuto clinico: il concept della rubrica conteneva solo lo script del Passo 1.
+
+1. Fasce del T-score (slide 3), scritte con un decimale: `-1 o più` / `da -1,1 a -2,4` / `-2,5 o meno`.
+2. Z-score "usato soprattutto prima della menopausa" (slide 3).
+3. Sedi misurate e "per la diagnosi si considera il valore più basso" (slide 4).
+4. "Con macchinari diversi i numeri non sono confrontabili" (slide 5).
+5. Fattori di rischio citati — età, fratture precedenti, familiarità (slide 6).
+6. Il carosello si riferisce alla MOC DEXA. Da chiedere se serve una riga per chi ha fatto misurazioni diverse, per
+   esempio a ultrasuoni in farmacia, dove queste fasce non si applicano allo stesso modo.
+7. Se è d'accordo a firmare con "Contenuto rivisto dal Dott. Daniele Zeggio" (slide 8): nel mese
+   dell'osteoporosi darebbe molta autorevolezza.
+
+### Sovrapposizioni da tenere d'occhio
+
+- **Video "MOC: diagnosticare la fragilità ossea"** (batch agosto): fuori calendario, ma può rientrare come
+  sostituzione se il suo articolo esce in tempo. Se rientra, non metterlo a ridosso del 05/10: il video spiega
+  *cos'è l'esame e perché farlo*, il carosello *come leggere il referto*. Angoli diversi, stesso argomento.
+- **Carosello del 20/10**: la slide 6 cita la MOC come controllo di prevenzione. Coerente, nessun conflitto:
+  usare la stessa terminologia ("densitometria ossea") nei due contenuti.
 
 ---
 

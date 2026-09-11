@@ -4,10 +4,19 @@ phase: 03-ped
 period: 2026-10
 status: draft
 owner: elisa
-last_updated: 2026-09-07
+last_updated: 2026-09-11
 ---
 
 # TODO generati
+
+## Dal brief Neogela di ottobre (11/09)
+
+- **Rivedere la scaletta** per coprire le richieste del brief: video di lancio del concept, video dimostrativo
+  della lucina (serve la lucina fisica → shooting da pianificare), contenuti sul Test del Rischio Osseo nella
+  prima settimana, teaser nella fase 8-19/10, stories/countdown 21-31/10, serie "Porta un Amico".
+- **Da Giulia per il carosello del 20/10:** percentuale di sconto, condizioni del regalo, date della promo, foto
+  della lucina con packaging **entro metà ottobre**, contenuto del link in bio.
+- **Aprire `04-campaigns/2026-10`**: il brief contiene la meccanica promo completa.
 
 ## In attesa di Giulia — mail inviata il 07/09
 
@@ -15,10 +24,9 @@ last_updated: 2026-09-07
   prima uscita del 02/10.
 - **Mappatura articoli di blog ↔ video di agosto.** Determina quali video del batch entrano in calendario al
   posto di 1-2 contenuti attuali. Ricordare che sostituiscono, non aggiungono.
-- **Dettagli promo mese dell'osteoporosi entro il 19/09** → sblocca l'apertura di `04-campaigns/2026-10`.
-- **Kit "Ossa sane": riassortimento previsto?** ⚠️ Il kit include LynUp, **sospeso dal 2026-05-23**
-  (`clients/muvi-neogela/AGENTS.md`). Se la risposta apre a una promo che lo coinvolge, serve conferma esplicita
-  di riattivazione prima di lavorarci.
+- ~~Dettagli promo mese dell'osteoporosi entro il 19/09~~ → arrivati con il brief dell'11/09, restano aperti solo
+  i dettagli elencati sopra.
+- ~~Kit "Ossa sane" con LynUp~~ → superato: la promo di ottobre non lo prevede.
 
 ## Da chiudere internamente
 
@@ -31,8 +39,8 @@ last_updated: 2026-09-07
   DB *Contenuti* che il materiale esista e sia montabile.
 - **Punto Elena ↔ Gio, venerdì 11/09**: stato dei video di agosto e **chi compare in ciascuno** (su Notion il
   campo `Soggetto` è vuoto per tutto il batch, come la `Data di registrazione`).
-- **Far validare al Dott. Zeggio** il carosello del 05/10 (T-score, Z-score, ripetizione MOC nello stesso
-  centro) prima di passarlo a Marina.
+- **Far validare al Dott. Zeggio** i testi grafica dei due caroselli prima di passarli a Marina: 05/10 (T-score,
+  Z-score, sedi, fattori di rischio) e 20/10 (fratture da caduta, indicazioni MOC).
 - **Sbloccare l'enumerazione del bacino Contenuti (MUVI Lab)**: duplicare *I Miei Contenuti* sostituendo il
   filtro "Contains Me" con `Progetto Social = Comunicazione Neogela` e raggruppando per Status, oppure farsi
   esportare la vista da un Member. Serve per sapere cosa resta disponibile per novembre.

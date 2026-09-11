@@ -112,7 +112,7 @@ note: silenzio-assenso scaduto il 05/08 (deadline della PED settembre), chiuso i
 
 **Nota di adattamento:** il copy sorgente (`rubrica-5-passi-diagnosi.md`) era scritto come script video a camera per Giulia. Qui è riadattato in struttura slide-by-slide, mantenendo il contenuto e il registro validati (nessun elemento nuovo, solo redistribuzione su carosello). Segnalare a Giulia il cambio di formato rispetto al concept condiviso.
 
-**Tono:** evitare framing allarmistico o clinico-freddo — coerente con `tone-of-voice.md`, sezione "Comunicazione Rassicurante". Nessun assolutismo, nessuna promessa di risoluzione della paura (stessa attenzione riservata ai temi sensibili di Sara Lampis).
+**Tono:** evitare framing allarmistico o clinico-freddo — coerente con `tone-of-voice.md`, sezione "Comunicazione Rassicurante". Nessun assolutismo, nessuna promessa di risoluzione della paura.
 
 ---
 

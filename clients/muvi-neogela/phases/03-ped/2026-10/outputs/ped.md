@@ -4,7 +4,7 @@ phase: 03-ped
 period: 2026-10
 status: in-review
 owner: elisa
-last_updated: 2026-09-07
+last_updated: 2026-09-11
 note: allineato alla scaletta effettivamente inviata a Giulia il 07/09/2026 (v. mail.md). Sostituisce la versione precedente, che proponeva 13 uscite con 6 video del batch agosto in calendario. Deadline risposta 11/09.
 ---
 
@@ -24,13 +24,13 @@ online prima di ottobre. Così il mese non dipende da una condizione che non con
 | # | Data | Giorno | Formato | Contenuto | Chi | Fonte |
 |---|------|--------|---------|-----------|-----|-------|
 | 1 | 02/10 | ven | Video | Rigidità articolare: quali potrebbero essere le cause | — | Contenuti MUVI Lab |
-| 2 | 05/10 | lun | **Carosello** | Rubrica "5 Passi Dopo la Diagnosi" — Passo 2: capire i numeri della MOC | Marina (grafica), voce Dott. Zeggio | Copy in `caroselli.md` |
+| 2 | 05/10 | lun | **Carosello** | Rubrica "5 Passi Dopo la Diagnosi" — Passo 2: capire i numeri della MOC | Marina (grafica), revisione Dott. Zeggio | Testo grafica: `grafica-2026-10-05-rubrica-passo-2-moc.md` — **da validare con il Dott. Zeggio** |
 | 3 | 07/10 | mer | Video | Dolore articolare da movimento quotidiano: quando ascoltarlo | Personal trainer | Contenuti MUVI Lab (reg. 15/05/2026) |
 | 4 | 09/10 | ven | Video | Quando è meglio assumere il collagene? | — | Contenuti MUVI Lab (reg. 27/10/2025) |
 | 5 | 12/10 | lun | Video | 3 abitudini settimanali per ossa e articolazioni più forti | — | Contenuti MUVI Lab (reg. 15/05/2026) |
 | 6 | 14/10 | mer | Video | Gli specialisti a cui mi sono rivolta mi hanno consigliato solo farmaci e nessuna alternativa… | Cliente (testimonianza) | Contenuti MUVI Lab (reg. 29/09/2025) |
 | 7 | 16/10 | ven | Video | Lo sapevi che… gli spinaci sono ottimi per le tue ossa | Nutrizionista | Contenuti MUVI Lab (reg. 03/04/2026) |
-| 8 | **20/10** | **mar** | **Carosello** | **Giornata Mondiale dell'Osteoporosi: perché esiste e cosa fare per prevenire** | Marina (grafica) | Copy in `caroselli.md` |
+| 8 | **20/10** | **mar** | **Carosello** | **Giornata Mondiale dell'Osteoporosi: perché esiste e cosa fare per prevenire** + apertura promo | Marina (grafica) | Testo grafica: `grafica-2026-10-20-giornata-mondiale-osteoporosi.md` — **sconto, condizioni e foto lucina da confermare** |
 | 9 | 22/10 | **gio** ⚠️ | Video | Posso allenarmi se ho osteopenia/osteoporosi? | Personal trainer | Contenuti MUVI Lab (reg. 15/05/2026) |
 | 10 | 26/10 | lun | Video | 2 area test giocatrici di pallavolo | — | **Da verificare**: non presente nel ZETA 92 - Content Plan |
 | 11 | 28/10 | mer | Video | Mi sono informata online sugli effetti collaterali dei farmaci e mi sono spaventata… | Cliente (testimonianza) | Contenuti MUVI Lab (reg. 29/09/2025) |
@@ -73,6 +73,42 @@ Non c'è nel ZETA 92 - Content Plan. Nel database esistono voci vicine ma divers
 stato, `video riassunto giornata finale Area Test`, `recensione partecipante in presenza Area Test`). Da
 verificare nel DB *Contenuti* che il materiale esista e sia effettivamente montabile.
 
+## Brief Neogela di ottobre — ricevuto l'11/09
+
+Brief in `../inputs/brief-neogela-ottobre-2026.md` (originale `.docx` nella stessa cartella). Risponde in buona
+parte alla domanda sulla promo fatta a Giulia nelle mail del 01/09 e del 07/09.
+
+**In sintesi:** concept *"Il rischio non è la malattia, è la caduta"*; obiettivo acquisire nuovi clienti e
+contatti con un registro di prevenzione, non di saldo. Regalo: **lucina notturna a sensore di movimento** con
+packaging Neogela. Meccaniche: Test del Rischio Osseo (quiz già esistente) per i lead freddi, "Porta un Amico" per
+i clienti esistenti, sconto sitewide indicativo 5% + lucina per chi acquista. L'abbonamento va online ma non si
+comunica.
+
+| Periodo | Fase | Cosa chiede ai contenuti |
+|---------|------|--------------------------|
+| 1-7/10 | Sensibilizzazione | Rischio di caduta, traffico al Test del Rischio Osseo. **Niente prodotto** |
+| 8-19/10 | Riscaldamento | Contenuti sulla lucina, teaser della promo, richiamo al quiz |
+| 20/10 | **Main event** | Apertura sconto + lucina, attivazione "Porta un Amico" |
+| 21-31/10 | Mantenimento | Countdown, riprova sociale, ultimi giorni |
+
+### Cosa cambia per questo PED
+
+- **Già allineati:** il carosello del 05/10 (fase sensibilizzazione, niente promo, Test in caption) e quello del
+  20/10 (riscritto sul concept, con il regalo). Testi per la grafica pronti.
+- **Non coperto dalla scaletta inviata il 07/09**, che è precedente al brief. Il brief chiede a MUVI Lab:
+  - video/reel di lancio del concept, taglio informativo ed emotivo;
+  - **video dimostrativo della lucina in uso** — richiede la lucina fisica e quindi uno shooting, con la data di
+    consegna dal fornitore ancora aperta;
+  - contenuti che spingono al Test del Rischio Osseo nella prima settimana;
+  - stories/countdown dal 21 al 31/10;
+  - serie "Porta un Amico" per i clienti esistenti.
+
+  Nella scaletta attuale non c'è nessun contenuto della fase riscaldamento (8-19/10) che parli della lucina o
+  anticipi la promo, né niente per il mantenimento. **La scaletta va rivista**: le due uscite mancanti del 23 e del
+  30/10 sono il primo spazio naturale, ma non bastano per tutto quello che chiede il brief.
+- **Risolti dal brief:** il quiz citato negli script di agosto è il **Test del Rischio Osseo**, già esistente; la
+  domanda sul kit "Ossa sane" con LynUp non è più rilevante, perché la promo non lo prevede.
+
 ## Video del batch agosto — fuori calendario, in attesa di Giulia
 
 Non sono scartati: sono in attesa della risposta sugli articoli. Entrano in calendario **solo** quelli il cui
@@ -81,7 +117,7 @@ articolo sarà online prima della data di uscita.
 | Contenuto | Nota |
 |-----------|------|
 | Osteoporosi: sintomi e campanelli d'allarme | |
-| Osteoporosi cause: perché si presenta | |
+| Osteoporosi cause: perché si presenta | Lo script dice "quasi 5 milioni di persone": la fonte ufficiale (Ministero della Salute) dice **"circa 5 milioni"**. Se rientra in calendario, correggere in montaggio o in sovrimpressione |
 | Osteopenia | Titolo da riformulare: l'originale ("come si cura") è un claim terapeutico non usabile su un integratore |
 | MOC: diagnosticare la fragilità ossea | Consiglio clinico in prima persona: solo in voce del medico, non in caption a nome brand. Attenzione alla sovrapposizione con il carosello del 05/10 |
 | Calcio alto nel sangue (ipercalcemia) | |
@@ -113,20 +149,21 @@ collagene"* (Giulia, censito per errore come `💡 Idea` su Notion).
 
 ## Gap aperti
 
-**Verso il cliente** (deadline 11/09 per il PED, 19/09 per la promo):
+**Verso il cliente** (risposta sul PED attesa entro l'11/09):
 
 1. Quali articoli di blog saranno online prima di ottobre
-2. Promo mese dell'osteoporosi: esistenza e dettagli
-3. Kit "Ossa sane": è previsto un riassortimento? ⚠️ include LynUp, che risulta **sospeso dal 2026-05-23** in
-   `clients/muvi-neogela/AGENTS.md` — se la promo lo coinvolge serve conferma esplicita di riattivazione
+2. Promo — **in gran parte risolta dal brief**. Restano aperti: percentuale di sconto definitiva, condizioni del
+   regalo, date esatte (dal 20 o tutto ottobre?), vantaggio "Porta un Amico", data di consegna delle lucine
+3. ~~Kit "Ossa sane" con LynUp~~ — superato dal brief, la promo di ottobre non lo prevede
 4. Il 22/10 (giovedì vs venerdì)
+5. **Revisione della scaletta alla luce del brief** (lancio concept, video lucina, riscaldamento, countdown)
 
 **Interni**:
 
-5. Due uscite mancanti per tenere le 3 a settimana (23/10 e 30/10)
-6. Chi compare nei video del batch agosto → punto Elena ↔ Gio di **venerdì 11/09**
-7. Validazione clinica del Carosello del 05/10 con il Dott. Zeggio (T-score, Z-score, ripetizione MOC)
-8. Verifica esistenza del contenuto "2 area test giocatrici di pallavolo"
-9. Il bacino *Contenuti* MUVI Lab non è ancora enumerabile dalle viste (filtri) — dettaglio e fix in
+6. Due uscite mancanti per tenere le 3 a settimana (23/10 e 30/10) — da usare per i contenuti del brief
+7. Chi compare nei video del batch agosto → punto Elena ↔ Gio di **venerdì 11/09**
+8. Validazione clinica dei caroselli del 05/10 e del 20/10 con il Dott. Zeggio (T-score, Z-score, ripetizione MOC)
+9. Verifica esistenza del contenuto "2 area test giocatrici di pallavolo"
+10. Il bacino *Contenuti* MUVI Lab non è ancora enumerabile dalle viste (filtri) — dettaglio e fix in
    `../../2026-09/outputs/selezione-da-montare-shooting-agosto.md` §1. Utile risolverlo per avere la lista
    completa di cosa resta disponibile per novembre.

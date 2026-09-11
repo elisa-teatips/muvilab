@@ -87,7 +87,7 @@ Questo è il primo di 5 passi che vogliamo affrontare insieme, uno per volta: da
 ### Note di produzione
 
 - **Fonte contenuto**: da girare — non presente nel bacino "Da montare" (verificato in Notion il 29/07/2026, nessun risultato per titoli affini). A differenza degli altri contenuti di settembre, questo richiede una ripresa dedicata con Giulia.
-- **Tono**: evitare assolutamente framing allarmistico o clinico-freddo — coerente con `tone-of-voice.md`, sezione "Comunicazione Rassicurante". Rileggere il contenuto prima della pubblicazione con la stessa attenzione riservata a Sara Lampis per temi sensibili: no assolutismi, no promesse di risoluzione della paura.
+- **Tono**: evitare assolutamente framing allarmistico o clinico-freddo — coerente con `tone-of-voice.md`, sezione "Comunicazione Rassicurante". Rileggere il contenuto prima della pubblicazione con l'attenzione richiesta dai temi sensibili: no assolutismi, no promesse di risoluzione della paura.
 - **Compliance**: nessun riferimento a sostituzione di farmaci o terapie; disclaimer obbligatorio sempre presente, sia in video (testo a schermo) sia in caption.
 - **Hashtag rubrica proposto**: `#5PassiDopoLaDiagnosi` — da validare con Giulia, deve restare coerente nel tempo su tutti e 5 gli episodi per costruire riconoscibilità.
 
