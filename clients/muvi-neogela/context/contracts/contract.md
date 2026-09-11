@@ -2,8 +2,8 @@
 client: muvi-neogela
 type: contract
 status: approved
-last_updated: 2026-05-23
-source: "Proposta commerciale_Neogela Lynup 2.pdf (Settembre 2025)"
+last_updated: 2026-09-01
+source: "Proposta commerciale_Neogela Lynup 2.pdf (Settembre 2025); budget ADV 2026 aggiornato con dato comunicato dal cliente il 2026-09-01, vedi ../budget-strategico-2026.md"
 ---
 
 # Contratto operativo — muvi-neogela
@@ -33,15 +33,20 @@ source: "Proposta commerciale_Neogela Lynup 2.pdf (Settembre 2025)"
 
 ## Budget ADV (cliente)
 
-| Voce | Importo mensile | Quota |
-|------|-----------------|-------|
-| **Budget ADV totale Meta** | €1.500 | 100% |
-| → Conversion | €750 | 50% |
-| → Lead Generation (quiz + nuovi magnet) | €450 | 30% |
-| → Retargeting (DPA + emozionale) | €300 | 20% |
-| **TikTok ADS (opzionale, fase 2)** | €500–700 | extra |
+> ⚠️ **Aggiornato 2026-09-01**: la ripartizione sotto sostituisce quella originaria della proposta (Settembre 2025), superata dal nuovo budget annuale comunicato dal cliente. Dettaglio completo — pacing gen-ago, residuo sett-dic, budget attivo per piattaforma, problema TikTok — in [`../budget-strategico-2026.md`](../budget-strategico-2026.md).
 
-Storico: ~€2.000 spesi in ADV negli ultimi 6 mesi (pre-contratto).
+**Budget totale 2026: €60.000** (gennaio–dicembre), non necessariamente splittato ugualmente per mese.
+
+| Canale | Target mensile indicativo | Target annuo |
+|------|-----------------|-------|
+| Meta Ads | €3.000 | €36.000 |
+| Google Ads | €1.200 | €14.400 |
+| TikTok Ads | €600 | €7.200 |
+| **Somma** | **€4.800** | **€57.600** |
+
+> La somma dei tre target (€57.600/anno) è ~€2.400/anno inferiore al budget totale dichiarato (€60.000) — margine flessibile non assegnato a un canale specifico, da chiarire se intenzionale.
+
+Storico pre-2026-09: ripartizione Meta contrattuale originaria era €1.500/mese (Conversion 50% / Lead Gen 30% / Retargeting 20%), TikTok "opzionale fase 2" €500–700/mese. Storico ancora precedente: ~€2.000 spesi in ADV negli ultimi 6 mesi pre-contratto (dato dalla proposta originale, non verificato a piattaforma).
 
 ## Obiettivi contrattuali
 

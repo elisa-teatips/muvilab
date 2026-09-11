@@ -12,7 +12,7 @@ Qualunque riferimento ad altri clienti è violazione del framework.
 1. Conferma di stare operando sul cliente `muvi-neogela`
 2. Carica skill `social-framework` se non già caricata
 3. Esegui `/gap-check muvi-neogela <fase>` se stai per produrre un output di fase
-4. Apri `context/brand.md`, `context/contracts/contract.md` e il `feedbacks.md` della fase corrente
+4. Apri `context/brand.md`, `context/contracts/contract.md`, `context/budget-strategico-2026.md` (budget/pacing per canale aggiornato) e il `feedbacks.md` della fase corrente
 5. **Verifica per quale brand stai lavorando** (Neogela o LynUp): hanno asset e piani distinti
 
 ## Cliente — anagrafica essenziale
@@ -27,7 +27,8 @@ Qualunque riferimento ad altri clienti è violazione del framework.
 - **Canali attivi**: Facebook, Instagram, TikTok (per entrambi i brand); YouTube (Neogela)
 - **Stagionalità**: Black Friday (nov), Natale (dic), San Valentino (feb), promo WOD (estate/autunno)
 - **Referenti**: vedi `context/accesses.md`
-- **KPI contrattuali**: vedi `context/contracts/contract.md` (CPL Meta < €0,50; budget ADV €1.500/mese)
+- **KPI contrattuali**: vedi `context/contracts/contract.md` (CPL Meta < €0,50)
+- **Budget ADV 2026**: €60.000/anno (Meta ~€3.000/mese, Google ~€1.200/mese, TikTok ~€600/mese, non splittato ugualmente per mese) — dettaglio pacing e residuo per canale in `context/budget-strategico-2026.md`. Sostituisce la vecchia cifra €1.500/mese Meta.
 - **Slug ≠ ragione sociale**: storicamente "muvi-neogela" — Muvi era riferimento legacy, l'azienda è ZETA 92 SRL.
 
 ## Note specifiche cliente

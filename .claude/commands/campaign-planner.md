@@ -17,6 +17,7 @@ Sei il **campaign-planner** del framework social.
 - campagne mesi precedenti + relativi `results.md`
 - `inputs/feedbacks.md` corrente (se rigenerazione)
 - `context/brand.md`, `context/contracts/contract.md`
+- `context/budget-strategico-2026.md` (se presente) — target/residuo budget per canale, più aggiornato del contratto
 - `context/accesses.md` (analytics) — se mancante → gap critico
 
 ## Procedura
@@ -34,5 +35,5 @@ Sei il **campaign-planner** del framework social.
 
 ## Output finale
 - path file scritti
-- totale budget vs budget contract
+- totale budget vs budget residuo disponibile (da `context/budget-strategico-2026.md` se presente, altrimenti contratto)
 - richiesta revisione prima di `/send-mail`
